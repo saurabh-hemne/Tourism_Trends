@@ -1,0 +1,3457 @@
+Visitor ID,District,Month Number,Month,Year,Domestic Visitors,Foreign Visitors,Total Visitors
+visitor-10,Adilabad,9,September,2014,491279,8,491287
+visitor-100,Karimnagar,3,March,2014,1018399,0,1018399
+visitor-1000,Kumaram Bheem Asifabad,3,March,2017,2767,0,2767
+visitor-1001,Kumaram Bheem Asifabad,4,April,2017,3074,0,3074
+visitor-1002,Kumaram Bheem Asifabad,5,May,2017,3416,0,3416
+visitor-1003,Kumaram Bheem Asifabad,6,June,2017,3796,0,3796
+visitor-1004,Kumaram Bheem Asifabad,7,July,2017,3713,0,3713
+visitor-1005,Kumaram Bheem Asifabad,8,August,2017,3665,0,3665
+visitor-1006,Kumaram Bheem Asifabad,9,September,2017,3934,0,3934
+visitor-1007,Kumaram Bheem Asifabad,10,October,2017,14050,0,14050
+visitor-1008,Kumaram Bheem Asifabad,11,November,2017,3627,0,3627
+visitor-1009,Kumaram Bheem Asifabad,12,December,2017,4218,0,4218
+visitor-101,Karimnagar,4,April,2014,956959,0,956959
+visitor-1010,Mahabubabad,1,January,2017,13260,0,13260
+visitor-1011,Mahabubabad,2,February,2017,13045,0,13045
+visitor-1012,Mahabubabad,3,March,2017,9100,0,9100
+visitor-1013,Mahabubabad,4,April,2017,9140,0,9140
+visitor-1014,Mahabubabad,5,May,2017,10220,0,10220
+visitor-1015,Mahabubabad,6,June,2017,10130,0,10130
+visitor-1016,Mahabubabad,7,July,2017,10170,0,10170
+visitor-1017,Mahabubabad,8,August,2017,12520,0,12520
+visitor-1018,Mahabubabad,9,September,2017,13140,0,13140
+visitor-1019,Mahabubabad,10,October,2017,13750,0,13750
+visitor-102,Karimnagar,5,May,2014,1095642,0,1095642
+visitor-1020,Mahabubabad,11,November,2017,13560,0,13560
+visitor-1021,Mahabubabad,12,December,2017,13780,0,13780
+visitor-1022,Mahabubnagar,1,January,2017,446135,42,446177
+visitor-1023,Mahabubnagar,2,February,2017,805392,39,805431
+visitor-1024,Mahabubnagar,3,March,2017,178256,38,178294
+visitor-1025,Mahabubnagar,4,April,2017,208694,39,208733
+visitor-1026,Mahabubnagar,5,May,2017,214209,41,214250
+visitor-1027,Mahabubnagar,6,June,2017,179210,43,179253
+visitor-1028,Mahabubnagar,7,July,2017,179099,42,179141
+visitor-1029,Mahabubnagar,8,August,2017,215229,44,215273
+visitor-103,Karimnagar,6,June,2014,914746,0,914746
+visitor-1030,Mahabubnagar,9,September,2017,180675,54,180729
+visitor-1031,Mahabubnagar,10,October,2017,196103,47,196150
+visitor-1032,Mahabubnagar,11,November,2017,259060,49,259109
+visitor-1033,Mahabubnagar,12,December,2017,426167,42,426209
+visitor-1034,Mancherial,1,January,2017,2937,0,2937
+visitor-1035,Mancherial,2,February,2017,3130,0,3130
+visitor-1036,Mancherial,3,March,2017,2775,0,2775
+visitor-1037,Mancherial,4,April,2017,1513,0,1513
+visitor-1038,Mancherial,5,May,2017,1424,0,1424
+visitor-1039,Mancherial,6,June,2017,2119,0,2119
+visitor-104,Karimnagar,7,July,2014,401047,0,401047
+visitor-1040,Mancherial,7,July,2017,33591,0,33591
+visitor-1041,Mancherial,8,August,2017,26104,0,26104
+visitor-1042,Mancherial,9,September,2017,24297,0,24297
+visitor-1043,Mancherial,10,October,2017,37671,0,37671
+visitor-1044,Mancherial,11,November,2017,25737,0,25737
+visitor-1045,Mancherial,12,December,2017,30328,0,30328
+visitor-1046,Medak,1,January,2017,523000,0,523000
+visitor-1047,Medak,2,February,2017,543321,0,543321
+visitor-1048,Medak,3,March,2017,548535,0,548535
+visitor-1049,Medak,4,April,2017,554864,0,554864
+visitor-105,Karimnagar,8,August,2014,1018399,0,1018399
+visitor-1050,Medak,5,May,2017,556891,0,556891
+visitor-1051,Medak,6,June,2017,561469,0,561469
+visitor-1052,Medak,7,July,2017,575300,0,575300
+visitor-1053,Medak,8,August,2017,632830,0,632830
+visitor-1054,Medak,9,September,2017,696113,0,696113
+visitor-1055,Medak,10,October,2017,765724,0,765724
+visitor-1056,Medak,11,November,2017,842296,0,842296
+visitor-1057,Medak,12,December,2017,926526,0,926526
+visitor-1058,Medchal,1,January,2017,0,0,0
+visitor-1059,Medchal,2,February,2017,0,0,0
+visitor-106,Karimnagar,9,September,2014,956959,0,956959
+visitor-1060,Medchal,3,March,2017,0,0,0
+visitor-1061,Medchal,4,April,2017,0,0,0
+visitor-1062,Medchal,5,May,2017,0,0,0
+visitor-1063,Medchal,6,June,2017,0,0,0
+visitor-1064,Medchal,7,July,2017,0,0,0
+visitor-1065,Medchal,8,August,2017,0,0,0
+visitor-1066,Medchal,9,September,2017,0,0,0
+visitor-1067,Medchal,10,October,2017,0,0,0
+visitor-1068,Medchal,11,November,2017,0,0,0
+visitor-1069,Medchal,12,December,2017,0,0,0
+visitor-107,Karimnagar,10,October,2014,13675,0,13675
+visitor-1070,Nagarkurnool,1,January,2017,382879,19,382898
+visitor-1071,Nagarkurnool,2,February,2017,286258,25,286283
+visitor-1072,Nagarkurnool,3,March,2017,184508,24,184532
+visitor-1073,Nagarkurnool,4,April,2017,183697,29,183726
+visitor-1074,Nagarkurnool,5,May,2017,183697,31,183728
+visitor-1075,Nagarkurnool,6,June,2017,180010,35,180045
+visitor-1076,Nagarkurnool,7,July,2017,180010,25,180035
+visitor-1077,Nagarkurnool,8,August,2017,181861,23,181884
+visitor-1078,Nagarkurnool,9,September,2017,118010,32,118042
+visitor-1079,Nagarkurnool,10,October,2017,201050,18,201068
+visitor-108,Karimnagar,11,November,2014,13350,0,13350
+visitor-1080,Nagarkurnool,11,November,2017,188786,21,188807
+visitor-1081,Nagarkurnool,12,December,2017,382879,29,382908
+visitor-1082,Nalgonda,1,January,2017,4447,0,4447
+visitor-1083,Nalgonda,2,February,2017,8652,0,8652
+visitor-1084,Nalgonda,3,March,2017,8054,0,8054
+visitor-1085,Nalgonda,4,April,2017,44295,0,44295
+visitor-1086,Nalgonda,5,May,2017,10750,0,10750
+visitor-1087,Nalgonda,6,June,2017,37879,0,37879
+visitor-1088,Nalgonda,7,July,2017,21361,0,21361
+visitor-1089,Nalgonda,8,August,2017,9363,0,9363
+visitor-109,Karimnagar,12,December,2014,13890,0,13890
+visitor-1090,Nalgonda,9,September,2017,17465,0,17465
+visitor-1091,Nalgonda,10,October,2017,36066,0,36066
+visitor-1092,Nalgonda,11,November,2017,17687,0,17687
+visitor-1093,Nalgonda,12,December,2017,25897,0,25897
+visitor-1094,Nirmal,1,January,2017,340311,0,340311
+visitor-1095,Nirmal,2,February,2017,415326,0,415326
+visitor-1096,Nirmal,3,March,2017,442057,0,442057
+visitor-1097,Nirmal,4,April,2017,274132,0,274132
+visitor-1098,Nirmal,5,May,2017,297233,0,297233
+visitor-1099,Nirmal,6,June,2017,340359,0,340359
+visitor-11,Adilabad,10,October,2014,94184,8,94192
+visitor-110,Khammam,1,January,2014,651827,0,651827
+visitor-1100,Nirmal,7,July,2017,328101,0,328101
+visitor-1101,Nirmal,8,August,2017,340430,0,340430
+visitor-1102,Nirmal,9,September,2017,528540,0,528540
+visitor-1103,Nirmal,10,October,2017,388644,0,388644
+visitor-1104,Nirmal,11,November,2017,369365,0,369365
+visitor-1105,Nirmal,12,December,2017,340585,0,340585
+visitor-1106,Nizamabad,1,January,2017,613,0,613
+visitor-1107,Nizamabad,2,February,2017,1752,0,1752
+visitor-1108,Nizamabad,3,March,2017,660,0,660
+visitor-1109,Nizamabad,4,April,2017,1048,2,1050
+visitor-111,Khammam,2,February,2014,407533,0,407533
+visitor-1110,Nizamabad,5,May,2017,1341,0,1341
+visitor-1111,Nizamabad,6,June,2017,2391,0,2391
+visitor-1112,Nizamabad,7,July,2017,1520,0,1520
+visitor-1113,Nizamabad,8,August,2017,1583,0,1583
+visitor-1114,Nizamabad,9,September,2017,933,0,933
+visitor-1115,Nizamabad,10,October,2017,6644,0,6644
+visitor-1116,Nizamabad,11,November,2017,1677,0,1677
+visitor-1117,Nizamabad,12,December,2017,1787,0,1787
+visitor-1118,Peddapalli,1,January,2017,1345,0,1345
+visitor-1119,Peddapalli,2,February,2017,1378,0,1378
+visitor-112,Khammam,3,March,2014,458527,0,458527
+visitor-1120,Peddapalli,3,March,2017,965,0,965
+visitor-1121,Peddapalli,4,April,2017,750,0,750
+visitor-1122,Peddapalli,5,May,2017,640,0,640
+visitor-1123,Peddapalli,6,June,2017,885,0,885
+visitor-1124,Peddapalli,7,July,2017,1095,0,1095
+visitor-1125,Peddapalli,8,August,2017,1385,0,1385
+visitor-1126,Peddapalli,9,September,2017,1155,0,1155
+visitor-1127,Peddapalli,10,October,2017,1595,0,1595
+visitor-1128,Peddapalli,11,November,2017,1940,0,1940
+visitor-1129,Peddapalli,12,December,2017,1765,0,1765
+visitor-113,Khammam,4,April,2014,971622,0,971622
+visitor-1130,Rajanna Sircilla,1,January,2017,615842,0,615842
+visitor-1131,Rajanna Sircilla,2,February,2017,1255569,0,1255569
+visitor-1132,Rajanna Sircilla,3,March,2017,1030441,0,1030441
+visitor-1133,Rajanna Sircilla,4,April,2017,1146782,0,1146782
+visitor-1134,Rajanna Sircilla,5,May,2017,1117228,0,1117228
+visitor-1135,Rajanna Sircilla,6,June,2017,1113882,0,1113882
+visitor-1136,Rajanna Sircilla,7,July,2017,462022,0,462022
+visitor-1137,Rajanna Sircilla,8,August,2017,1004410,0,1004410
+visitor-1138,Rajanna Sircilla,9,September,2017,487060,0,487060
+visitor-1139,Rajanna Sircilla,10,October,2017,845620,0,845620
+visitor-114,Khammam,5,May,2014,433994,0,433994
+visitor-1140,Rajanna Sircilla,11,November,2017,1191129,0,1191129
+visitor-1141,Rajanna Sircilla,12,December,2017,1649362,0,1649362
+visitor-1142,Ranga Reddy,1,January,2017,0,0,0
+visitor-1143,Ranga Reddy,2,February,2017,0,0,0
+visitor-1144,Ranga Reddy,3,March,2017,0,0,0
+visitor-1145,Ranga Reddy,4,April,2017,0,0,0
+visitor-1146,Ranga Reddy,5,May,2017,0,0,0
+visitor-1147,Ranga Reddy,6,June,2017,0,0,0
+visitor-1148,Ranga Reddy,7,July,2017,0,0,0
+visitor-1149,Ranga Reddy,8,August,2017,0,0,0
+visitor-115,Khammam,6,June,2014,445862,0,445862
+visitor-1150,Ranga Reddy,9,September,2017,0,0,0
+visitor-1151,Ranga Reddy,10,October,2017,0,0,0
+visitor-1152,Ranga Reddy,11,November,2017,0,0,0
+visitor-1153,Ranga Reddy,12,December,2017,0,0,0
+visitor-1154,Sangareddy,1,January,2017,195000,0,195000
+visitor-1155,Sangareddy,2,February,2017,140000,0,140000
+visitor-1156,Sangareddy,3,March,2017,275000,0,275000
+visitor-1157,Sangareddy,4,April,2017,215000,0,215000
+visitor-1158,Sangareddy,5,May,2017,215000,0,215000
+visitor-1159,Sangareddy,6,June,2017,180000,0,180000
+visitor-116,Khammam,7,July,2014,414963,0,414963
+visitor-1160,Sangareddy,7,July,2017,195000,0,195000
+visitor-1161,Sangareddy,8,August,2017,295000,0,295000
+visitor-1162,Sangareddy,9,September,2017,200000,0,200000
+visitor-1163,Sangareddy,10,October,2017,232000,0,232000
+visitor-1164,Sangareddy,11,November,2017,324500,0,324500
+visitor-1165,Sangareddy,12,December,2017,356950,0,356950
+visitor-1166,Siddipet,1,January,2017,80500,0,80500
+visitor-1167,Siddipet,2,February,2017,80500,0,80500
+visitor-1168,Siddipet,3,March,2017,80500,0,80500
+visitor-1169,Siddipet,4,April,2017,80500,0,80500
+visitor-117,Khammam,8,August,2014,503654,0,503654
+visitor-1170,Siddipet,5,May,2017,80500,0,80500
+visitor-1171,Siddipet,6,June,2017,60000,0,60000
+visitor-1172,Siddipet,7,July,2017,88550,0,88550
+visitor-1173,Siddipet,8,August,2017,97405,0,97405
+visitor-1174,Siddipet,9,September,2017,107146,0,107146
+visitor-1175,Siddipet,10,October,2017,117861,0,117861
+visitor-1176,Siddipet,11,November,2017,129647,0,129647
+visitor-1177,Siddipet,12,December,2017,142612,0,142612
+visitor-1178,Suryapet,1,January,2017,0,0,0
+visitor-1179,Suryapet,2,February,2017,0,0,0
+visitor-118,Khammam,9,September,2014,368437,0,368437
+visitor-1180,Suryapet,3,March,2017,0,0,0
+visitor-1181,Suryapet,4,April,2017,0,0,0
+visitor-1182,Suryapet,5,May,2017,0,0,0
+visitor-1183,Suryapet,6,June,2017,0,0,0
+visitor-1184,Suryapet,7,July,2017,0,0,0
+visitor-1185,Suryapet,8,August,2017,0,0,0
+visitor-1186,Suryapet,9,September,2017,0,0,0
+visitor-1187,Suryapet,10,October,2017,0,0,0
+visitor-1188,Suryapet,11,November,2017,0,0,0
+visitor-1189,Suryapet,12,December,2017,0,0,0
+visitor-119,Khammam,10,October,2014,121575,0,121575
+visitor-1190,Vikarabad,1,January,2017,0,0,0
+visitor-1191,Vikarabad,2,February,2017,0,0,0
+visitor-1192,Vikarabad,3,March,2017,0,0,0
+visitor-1193,Vikarabad,4,April,2017,0,0,0
+visitor-1194,Vikarabad,5,May,2017,0,0,0
+visitor-1195,Vikarabad,6,June,2017,0,0,0
+visitor-1196,Vikarabad,7,July,2017,0,0,0
+visitor-1197,Vikarabad,8,August,2017,0,0,0
+visitor-1198,Vikarabad,9,September,2017,0,0,0
+visitor-1199,Vikarabad,10,October,2017,0,0,0
+visitor-12,Adilabad,11,November,2014,99148,8,99156
+visitor-120,Khammam,11,November,2014,110634,0,110634
+visitor-1200,Vikarabad,11,November,2017,0,0,0
+visitor-1201,Vikarabad,12,December,2017,0,0,0
+visitor-1202,Wanaparthy,1,January,2017,22152,0,22152
+visitor-1203,Wanaparthy,2,February,2017,22342,0,22342
+visitor-1204,Wanaparthy,3,March,2017,20050,0,20050
+visitor-1205,Wanaparthy,4,April,2017,11502,0,11502
+visitor-1206,Wanaparthy,5,May,2017,11502,0,11502
+visitor-1207,Wanaparthy,6,June,2017,19092,0,19092
+visitor-1208,Wanaparthy,7,July,2017,19092,0,19092
+visitor-1209,Wanaparthy,8,August,2017,21375,0,21375
+visitor-121,Khammam,12,December,2014,116403,0,116403
+visitor-1210,Wanaparthy,9,September,2017,35860,0,35860
+visitor-1211,Wanaparthy,10,October,2017,21234,0,21234
+visitor-1212,Wanaparthy,11,November,2017,18348,0,18348
+visitor-1213,Wanaparthy,12,December,2017,22152,0,22152
+visitor-1214,Warangal (Rural),1,January,2017,8000,35,8035
+visitor-1215,Warangal (Rural),2,February,2017,8300,25,8325
+visitor-1216,Warangal (Rural),3,March,2017,7800,17,7817
+visitor-1217,Warangal (Rural),4,April,2017,7600,19,7619
+visitor-1218,Warangal (Rural),5,May,2017,8500,21,8521
+visitor-1219,Warangal (Rural),6,June,2017,9000,24,9024
+visitor-122,Kumaram Bheem Asifabad,1,January,2014,0,0,0
+visitor-1220,Warangal (Rural),7,July,2017,13600,25,13625
+visitor-1221,Warangal (Rural),8,August,2017,13650,28,13678
+visitor-1222,Warangal (Rural),9,September,2017,13800,26,13826
+visitor-1223,Warangal (Rural),10,October,2017,16500,25,16525
+visitor-1224,Warangal (Rural),11,November,2017,16300,29,16329
+visitor-1225,Warangal (Rural),12,December,2017,21200,32,21232
+visitor-1226,Warangal (Urban),1,January,2017,130608,235,130843
+visitor-1227,Warangal (Urban),2,February,2017,126608,242,126850
+visitor-1228,Warangal (Urban),3,March,2017,118298,238,118536
+visitor-1229,Warangal (Urban),4,April,2017,107133,209,107342
+visitor-123,Kumaram Bheem Asifabad,2,February,2014,0,0,0
+visitor-1230,Warangal (Urban),5,May,2017,109915,211,110126
+visitor-1231,Warangal (Urban),6,June,2017,111530,194,111724
+visitor-1232,Warangal (Urban),7,July,2017,116545,116,116661
+visitor-1233,Warangal (Urban),8,August,2017,116810,219,117029
+visitor-1234,Warangal (Urban),9,September,2017,117150,225,117375
+visitor-1235,Warangal (Urban),10,October,2017,119255,236,119491
+visitor-1236,Warangal (Urban),11,November,2017,119360,255,119615
+visitor-1237,Warangal (Urban),12,December,2017,126790,250,127040
+visitor-1238,Yadadri Bhongir,1,January,2017,678000,0,678000
+visitor-1239,Yadadri Bhongir,2,February,2017,540500,0,540500
+visitor-124,Kumaram Bheem Asifabad,3,March,2014,0,0,0
+visitor-1240,Yadadri Bhongir,3,March,2017,525588,0,525588
+visitor-1241,Yadadri Bhongir,4,April,2017,570000,0,570000
+visitor-1242,Yadadri Bhongir,5,May,2017,458700,0,458700
+visitor-1243,Yadadri Bhongir,6,June,2017,685880,0,685880
+visitor-1244,Yadadri Bhongir,7,July,2017,481240,0,481240
+visitor-1245,Yadadri Bhongir,8,August,2017,680720,0,680720
+visitor-1246,Yadadri Bhongir,9,September,2017,678925,0,678925
+visitor-1247,Yadadri Bhongir,10,October,2017,683500,0,683500
+visitor-1248,Yadadri Bhongir,11,November,2017,537600,0,537600
+visitor-1249,Yadadri Bhongir,12,December,2017,481075,0,481075
+visitor-125,Kumaram Bheem Asifabad,4,April,2014,0,0,0
+visitor-1250,Adilabad,1,January,2018,320356,0,320356
+visitor-1251,Adilabad,2,February,2018,36550,0,36550
+visitor-1252,Adilabad,3,March,2018,23011,0,23011
+visitor-1253,Adilabad,4,April,2018,14183,0,14183
+visitor-1254,Adilabad,5,May,2018,8197,0,8197
+visitor-1255,Adilabad,6,June,2018,12052,0,12052
+visitor-1256,Adilabad,7,July,2018,24666,2,24668
+visitor-1257,Adilabad,8,August,2018,38939,3,38942
+visitor-1258,Adilabad,9,September,2018,25875,0,25875
+visitor-1259,Adilabad,10,October,2018,30257,0,30257
+visitor-126,Kumaram Bheem Asifabad,5,May,2014,0,0,0
+visitor-1260,Adilabad,11,November,2018,49181,0,49181
+visitor-1261,Adilabad,12,December,2018,61476,0,61476
+visitor-1262,Bhadradri Kothagudem,1,January,2018,421275,0,421275
+visitor-1263,Bhadradri Kothagudem,2,February,2018,240634,0,240634
+visitor-1264,Bhadradri Kothagudem,3,March,2018,421275,0,421275
+visitor-1265,Bhadradri Kothagudem,4,April,2018,341258,0,341258
+visitor-1266,Bhadradri Kothagudem,5,May,2018,291273,0,291273
+visitor-1267,Bhadradri Kothagudem,6,June,2018,290512,0,290512
+visitor-1268,Bhadradri Kothagudem,7,July,2018,220304,0,220304
+visitor-1269,Bhadradri Kothagudem,8,August,2018,219548,0,219548
+visitor-127,Kumaram Bheem Asifabad,6,June,2014,0,0,0
+visitor-1270,Bhadradri Kothagudem,9,September,2018,334878,0,334878
+visitor-1271,Bhadradri Kothagudem,10,October,2018,322974,0,322974
+visitor-1272,Bhadradri Kothagudem,11,November,2018,253464,0,253464
+visitor-1273,Bhadradri Kothagudem,12,December,2018,442483,0,442483
+visitor-1274,Hyderabad,1,January,2018,1978396,35379,2013775
+visitor-1275,Hyderabad,2,February,2018,1365837,30414,1396251
+visitor-1276,Hyderabad,3,March,2018,1415938,27535,1443473
+visitor-1277,Hyderabad,4,April,2018,1586375,20830,1607205
+visitor-1278,Hyderabad,5,May,2018,1189492,21554,1211046
+visitor-1279,Hyderabad,6,June,2018,1595067,24677,1619744
+visitor-128,Kumaram Bheem Asifabad,7,July,2014,0,0,0
+visitor-1280,Hyderabad,7,July,2018,1470042,17456,1487498
+visitor-1281,Hyderabad,8,August,2018,1591470,31217,1622687
+visitor-1282,Hyderabad,9,September,2018,1508086,22809,1530895
+visitor-1283,Hyderabad,10,October,2018,2207478,30072,2237550
+visitor-1284,Hyderabad,11,November,2018,1671320,23487,1694807
+visitor-1285,Hyderabad,12,December,2018,1964150,29358,1993508
+visitor-1286,Jagtial,1,January,2018,614082,0,614082
+visitor-1287,Jagtial,2,February,2018,349576,0,349576
+visitor-1288,Jagtial,3,March,2018,416716,0,416716
+visitor-1289,Jagtial,4,April,2018,372874,0,372874
+visitor-129,Kumaram Bheem Asifabad,8,August,2014,0,0,0
+visitor-1290,Jagtial,5,May,2018,641363,0,641363
+visitor-1291,Jagtial,6,June,2018,182505,0,182505
+visitor-1292,Jagtial,7,July,2018,182473,0,182473
+visitor-1293,Jagtial,8,August,2018,272685,0,272685
+visitor-1294,Jagtial,9,September,2018,273121,0,273121
+visitor-1295,Jagtial,10,October,2018,138206,0,138206
+visitor-1296,Jagtial,11,November,2018,277997,0,277997
+visitor-1297,Jagtial,12,December,2018,231323,0,231323
+visitor-1298,Jangaon,1,January,2018,17180,0,17180
+visitor-1299,Jangaon,2,February,2018,18600,0,18600
+visitor-13,Adilabad,12,December,2014,53125,9,53134
+visitor-130,Kumaram Bheem Asifabad,9,September,2014,0,0,0
+visitor-1300,Jangaon,3,March,2018,17300,0,17300
+visitor-1301,Jangaon,4,April,2018,18100,0,18100
+visitor-1302,Jangaon,5,May,2018,19660,0,19660
+visitor-1303,Jangaon,6,June,2018,23050,0,23050
+visitor-1304,Jangaon,7,July,2018,26280,0,26280
+visitor-1305,Jangaon,8,August,2018,26020,0,26020
+visitor-1306,Jangaon,9,September,2018,28830,0,28830
+visitor-1307,Jangaon,10,October,2018,29470,0,29470
+visitor-1308,Jangaon,11,November,2018,29570,0,29570
+visitor-1309,Jangaon,12,December,2018,36962,0,36962
+visitor-131,Kumaram Bheem Asifabad,10,October,2014,0,0,0
+visitor-1310,Jayashankar Bhupalpally,1,January,2018,6519850,50,6519900
+visitor-1311,Jayashankar Bhupalpally,2,February,2018,8626250,60,8626310
+visitor-1312,Jayashankar Bhupalpally,3,March,2018,146150,70,146220
+visitor-1313,Jayashankar Bhupalpally,4,April,2018,149150,45,149195
+visitor-1314,Jayashankar Bhupalpally,5,May,2018,152050,40,152090
+visitor-1315,Jayashankar Bhupalpally,6,June,2018,159400,35,159435
+visitor-1316,Jayashankar Bhupalpally,7,July,2018,128550,40,128590
+visitor-1317,Jayashankar Bhupalpally,8,August,2018,184700,35,184735
+visitor-1318,Jayashankar Bhupalpally,9,September,2018,192300,40,192340
+visitor-1319,Jayashankar Bhupalpally,10,October,2018,195400,40,195440
+visitor-132,Kumaram Bheem Asifabad,11,November,2014,0,0,0
+visitor-1320,Jayashankar Bhupalpally,11,November,2018,196500,40,196540
+visitor-1321,Jayashankar Bhupalpally,12,December,2018,245625,44,245669
+visitor-1322,Jogulamba Gadwal,1,January,2018,146441,36,146477
+visitor-1323,Jogulamba Gadwal,2,February,2018,481110,6,481116
+visitor-1324,Jogulamba Gadwal,3,March,2018,155013,22,155035
+visitor-1325,Jogulamba Gadwal,4,April,2018,138673,15,138688
+visitor-1326,Jogulamba Gadwal,5,May,2018,131426,19,131445
+visitor-1327,Jogulamba Gadwal,6,June,2018,160182,19,160201
+visitor-1328,Jogulamba Gadwal,7,July,2018,114951,37,114988
+visitor-1329,Jogulamba Gadwal,8,August,2018,123733,42,123775
+visitor-133,Kumaram Bheem Asifabad,12,December,2014,0,0,0
+visitor-1330,Jogulamba Gadwal,9,September,2018,121710,35,121745
+visitor-1331,Jogulamba Gadwal,10,October,2018,152898,13,152911
+visitor-1332,Jogulamba Gadwal,11,November,2018,128075,45,128120
+visitor-1333,Jogulamba Gadwal,12,December,2018,182333,11,182344
+visitor-1334,Kamareddy,1,January,2018,44,0,44
+visitor-1335,Kamareddy,2,February,2018,44,0,44
+visitor-1336,Kamareddy,3,March,2018,45,0,45
+visitor-1337,Kamareddy,4,April,2018,45,0,45
+visitor-1338,Kamareddy,5,May,2018,49,0,49
+visitor-1339,Kamareddy,6,June,2018,56,0,56
+visitor-134,Mahabubabad,1,January,2014,0,0,0
+visitor-1340,Kamareddy,7,July,2018,48,0,48
+visitor-1341,Kamareddy,8,August,2018,55,0,55
+visitor-1342,Kamareddy,9,September,2018,40,0,40
+visitor-1343,Kamareddy,10,October,2018,62,0,62
+visitor-1344,Kamareddy,11,November,2018,41,0,41
+visitor-1345,Kamareddy,12,December,2018,43,0,43
+visitor-1346,Karimnagar,1,January,2018,13505,0,13505
+visitor-1347,Karimnagar,2,February,2018,9330,0,9330
+visitor-1348,Karimnagar,3,March,2018,7205,0,7205
+visitor-1349,Karimnagar,4,April,2018,5830,0,5830
+visitor-135,Mahabubabad,2,February,2014,0,0,0
+visitor-1350,Karimnagar,5,May,2018,5689,0,5689
+visitor-1351,Karimnagar,6,June,2018,7180,0,7180
+visitor-1352,Karimnagar,7,July,2018,6686,0,6686
+visitor-1353,Karimnagar,8,August,2018,8480,0,8480
+visitor-1354,Karimnagar,9,September,2018,8480,0,8480
+visitor-1355,Karimnagar,10,October,2018,6118,0,6118
+visitor-1356,Karimnagar,11,November,2018,7145,0,7145
+visitor-1357,Karimnagar,12,December,2018,7800,0,7800
+visitor-1358,Khammam,1,January,2018,110094,0,110094
+visitor-1359,Khammam,2,February,2018,104444,0,104444
+visitor-136,Mahabubabad,3,March,2014,0,0,0
+visitor-1360,Khammam,3,March,2018,127152,0,127152
+visitor-1361,Khammam,4,April,2018,126553,0,126553
+visitor-1362,Khammam,5,May,2018,135189,0,135189
+visitor-1363,Khammam,6,June,2018,135988,0,135988
+visitor-1364,Khammam,7,July,2018,85932,0,85932
+visitor-1365,Khammam,8,August,2018,86309,0,86309
+visitor-1366,Khammam,9,September,2018,143465,0,143465
+visitor-1367,Khammam,10,October,2018,127645,0,127645
+visitor-1368,Khammam,11,November,2018,99070,0,99070
+visitor-1369,Khammam,12,December,2018,135600,0,135600
+visitor-137,Mahabubabad,4,April,2014,0,0,0
+visitor-1370,Kumaram Bheem Asifabad,1,January,2018,2863,0,2863
+visitor-1371,Kumaram Bheem Asifabad,2,February,2018,2736,0,2736
+visitor-1372,Kumaram Bheem Asifabad,3,March,2018,1826,0,1826
+visitor-1373,Kumaram Bheem Asifabad,4,April,2018,868,0,868
+visitor-1374,Kumaram Bheem Asifabad,5,May,2018,793,0,793
+visitor-1375,Kumaram Bheem Asifabad,6,June,2018,990,0,990
+visitor-1376,Kumaram Bheem Asifabad,7,July,2018,1954,0,1954
+visitor-1377,Kumaram Bheem Asifabad,8,August,2018,2263,0,2263
+visitor-1378,Kumaram Bheem Asifabad,9,September,2018,1819,0,1819
+visitor-1379,Kumaram Bheem Asifabad,10,October,2018,2525,0,2525
+visitor-138,Mahabubabad,5,May,2014,0,0,0
+visitor-1380,Kumaram Bheem Asifabad,11,November,2018,1741,0,1741
+visitor-1381,Kumaram Bheem Asifabad,12,December,2018,2176,0,2176
+visitor-1382,Mahabubabad,1,January,2018,14000,0,14000
+visitor-1383,Mahabubabad,2,February,2018,14230,0,14230
+visitor-1384,Mahabubabad,3,March,2018,13110,0,13110
+visitor-1385,Mahabubabad,4,April,2018,12915,0,12915
+visitor-1386,Mahabubabad,5,May,2018,12865,0,12865
+visitor-1387,Mahabubabad,6,June,2018,13910,0,13910
+visitor-1388,Mahabubabad,7,July,2018,13970,0,13970
+visitor-1389,Mahabubabad,8,August,2018,13200,0,13200
+visitor-139,Mahabubabad,6,June,2014,0,0,0
+visitor-1390,Mahabubabad,9,September,2018,13420,0,13420
+visitor-1391,Mahabubabad,10,October,2018,13550,0,13550
+visitor-1392,Mahabubabad,11,November,2018,13700,0,13700
+visitor-1393,Mahabubabad,12,December,2018,17125,0,17125
+visitor-1394,Mahabubnagar,1,January,2018,156153,45,156198
+visitor-1395,Mahabubnagar,2,February,2018,788083,29,788112
+visitor-1396,Mahabubnagar,3,March,2018,166863,28,166891
+visitor-1397,Mahabubnagar,4,April,2018,196061,26,196087
+visitor-1398,Mahabubnagar,5,May,2018,193478,26,193504
+visitor-1399,Mahabubnagar,6,June,2018,165553,26,165579
+visitor-14,Bhadradri Kothagudem,1,January,2014,0,0,0
+visitor-140,Mahabubabad,7,July,2014,0,0,0
+visitor-1400,Mahabubnagar,7,July,2018,161841,47,161888
+visitor-1401,Mahabubnagar,8,August,2018,169154,44,169198
+visitor-1402,Mahabubnagar,9,September,2018,167833,52,167885
+visitor-1403,Mahabubnagar,10,October,2018,193152,37,193189
+visitor-1404,Mahabubnagar,11,November,2018,295910,68,295978
+visitor-1405,Mahabubnagar,12,December,2018,198227,26,198253
+visitor-1406,Mancherial,1,January,2018,71955,0,71955
+visitor-1407,Mancherial,2,February,2018,38599,0,38599
+visitor-1408,Mancherial,3,March,2018,20749,0,20749
+visitor-1409,Mancherial,4,April,2018,38483,0,38483
+visitor-141,Mahabubabad,8,August,2014,0,0,0
+visitor-1410,Mancherial,5,May,2018,26179,0,26179
+visitor-1411,Mancherial,6,June,2018,31667,0,31667
+visitor-1412,Mancherial,7,July,2018,27937,0,27937
+visitor-1413,Mancherial,8,August,2018,31861,0,31861
+visitor-1414,Mancherial,9,September,2018,23141,0,23141
+visitor-1415,Mancherial,10,October,2018,30740,0,30740
+visitor-1416,Mancherial,11,November,2018,25197,0,25197
+visitor-1417,Mancherial,12,December,2018,31496,0,31496
+visitor-1418,Medak,1,January,2018,100000,0,100000
+visitor-1419,Medak,2,February,2018,1000000,0,1000000
+visitor-142,Mahabubabad,9,September,2014,0,0,0
+visitor-1420,Medak,3,March,2018,600000,0,600000
+visitor-1421,Medak,4,April,2018,200000,0,200000
+visitor-1422,Medak,5,May,2018,300000,0,300000
+visitor-1423,Medak,6,June,2018,500000,0,500000
+visitor-1424,Medak,7,July,2018,150000,0,150000
+visitor-1425,Medak,8,August,2018,50000,0,50000
+visitor-1426,Medak,9,September,2018,100000,0,100000
+visitor-1427,Medak,10,October,2018,300000,0,300000
+visitor-1428,Medak,11,November,2018,200000,0,200000
+visitor-1429,Medak,12,December,2018,400000,0,400000
+visitor-143,Mahabubabad,10,October,2014,13032,0,13032
+visitor-1430,Medchal,1,January,2018,0,0,0
+visitor-1431,Medchal,2,February,2018,0,0,0
+visitor-1432,Medchal,3,March,2018,0,0,0
+visitor-1433,Medchal,4,April,2018,0,0,0
+visitor-1434,Medchal,5,May,2018,0,0,0
+visitor-1435,Medchal,6,June,2018,0,0,0
+visitor-1436,Medchal,7,July,2018,0,0,0
+visitor-1437,Medchal,8,August,2018,0,0,0
+visitor-1438,Medchal,9,September,2018,0,0,0
+visitor-1439,Medchal,10,October,2018,0,0,0
+visitor-144,Mahabubabad,11,November,2014,114015,0,114015
+visitor-1440,Medchal,11,November,2018,0,0,0
+visitor-1441,Medchal,12,December,2018,0,0,0
+visitor-1442,Nagarkurnool,1,January,2018,228812,35,228847
+visitor-1443,Nagarkurnool,2,February,2018,286258,15,286273
+visitor-1444,Nagarkurnool,3,March,2018,184508,14,184522
+visitor-1445,Nagarkurnool,4,April,2018,174592,15,174607
+visitor-1446,Nagarkurnool,5,May,2018,183697,19,183716
+visitor-1447,Nagarkurnool,6,June,2018,180010,15,180025
+visitor-1448,Nagarkurnool,7,July,2018,93450,17,93467
+visitor-1449,Nagarkurnool,8,August,2018,118010,22,118032
+visitor-145,Mahabubabad,12,December,2014,12955,0,12955
+visitor-1450,Nagarkurnool,9,September,2018,118449,22,118471
+visitor-1451,Nagarkurnool,10,October,2018,201050,8,201058
+visitor-1452,Nagarkurnool,11,November,2018,121452,30,121482
+visitor-1453,Nagarkurnool,12,December,2018,198637,10,198647
+visitor-1454,Nalgonda,1,January,2018,36205,0,36205
+visitor-1455,Nalgonda,2,February,2018,9971,0,9971
+visitor-1456,Nalgonda,3,March,2018,9677,0,9677
+visitor-1457,Nalgonda,4,April,2018,9779,0,9779
+visitor-1458,Nalgonda,5,May,2018,10241,0,10241
+visitor-1459,Nalgonda,6,June,2018,9066,0,9066
+visitor-146,Mahabubnagar,1,January,2014,577071,210,577281
+visitor-1460,Nalgonda,7,July,2018,9668,0,9668
+visitor-1461,Nalgonda,8,August,2018,10135,0,10135
+visitor-1462,Nalgonda,9,September,2018,21365,0,21365
+visitor-1463,Nalgonda,10,October,2018,22332,0,22332
+visitor-1464,Nalgonda,11,November,2018,5422,0,5422
+visitor-1465,Nalgonda,12,December,2018,6777,0,6777
+visitor-1466,Nirmal,1,January,2018,480241,0,480241
+visitor-1467,Nirmal,2,February,2018,335447,0,335447
+visitor-1468,Nirmal,3,March,2018,328099,0,328099
+visitor-1469,Nirmal,4,April,2018,368645,0,368645
+visitor-147,Mahabubnagar,2,February,2014,1312068,160,1312228
+visitor-1470,Nirmal,5,May,2018,342650,0,342650
+visitor-1471,Nirmal,6,June,2018,355197,0,355197
+visitor-1472,Nirmal,7,July,2018,335356,0,335356
+visitor-1473,Nirmal,8,August,2018,313910,2,313912
+visitor-1474,Nirmal,9,September,2018,293859,0,293859
+visitor-1475,Nirmal,10,October,2018,373291,0,373291
+visitor-1476,Nirmal,11,November,2018,289169,0,289169
+visitor-1477,Nirmal,12,December,2018,361461,0,361461
+visitor-1478,Nizamabad,1,January,2018,2495,1,2496
+visitor-1479,Nizamabad,2,February,2018,7152,0,7152
+visitor-148,Mahabubnagar,3,March,2014,1731983,424,1732407
+visitor-1480,Nizamabad,3,March,2018,2903,0,2903
+visitor-1481,Nizamabad,4,April,2018,3550,0,3550
+visitor-1482,Nizamabad,5,May,2018,5360,0,5360
+visitor-1483,Nizamabad,6,June,2018,1761,0,1761
+visitor-1484,Nizamabad,7,July,2018,5882,1,5883
+visitor-1485,Nizamabad,8,August,2018,10525,0,10525
+visitor-1486,Nizamabad,9,September,2018,475,0,475
+visitor-1487,Nizamabad,10,October,2018,490,0,490
+visitor-1488,Nizamabad,11,November,2018,475,0,475
+visitor-1489,Nizamabad,12,December,2018,355,0,355
+visitor-149,Mahabubnagar,4,April,2014,622432,311,622743
+visitor-1490,Peddapalli,1,January,2018,2670,0,2670
+visitor-1491,Peddapalli,2,February,2018,2695,0,2695
+visitor-1492,Peddapalli,3,March,2018,2325,0,2325
+visitor-1493,Peddapalli,4,April,2018,1940,0,1940
+visitor-1494,Peddapalli,5,May,2018,1499,0,1499
+visitor-1495,Peddapalli,6,June,2018,1580,0,1580
+visitor-1496,Peddapalli,7,July,2018,1580,0,1580
+visitor-1497,Peddapalli,8,August,2018,1595,0,1595
+visitor-1498,Peddapalli,9,September,2018,1475,0,1475
+visitor-1499,Peddapalli,10,October,2018,1545,0,1545
+visitor-15,Bhadradri Kothagudem,2,February,2014,0,0,0
+visitor-150,Mahabubnagar,5,May,2014,571898,270,572168
+visitor-1500,Peddapalli,11,November,2018,1655,0,1655
+visitor-1501,Peddapalli,12,December,2018,1695,0,1695
+visitor-1502,Rajanna Sircilla,1,January,2018,2238074,0,2238074
+visitor-1503,Rajanna Sircilla,2,February,2018,1021787,0,1021787
+visitor-1504,Rajanna Sircilla,3,March,2018,1022669,0,1022669
+visitor-1505,Rajanna Sircilla,4,April,2018,833874,0,833874
+visitor-1506,Rajanna Sircilla,5,May,2018,1021952,0,1021952
+visitor-1507,Rajanna Sircilla,6,June,2018,320886,0,320886
+visitor-1508,Rajanna Sircilla,7,July,2018,937720,0,937720
+visitor-1509,Rajanna Sircilla,8,August,2018,320952,0,320952
+visitor-151,Mahabubnagar,6,June,2014,561006,223,561229
+visitor-1510,Rajanna Sircilla,9,September,2018,818693,0,818693
+visitor-1511,Rajanna Sircilla,10,October,2018,506563,0,506563
+visitor-1512,Rajanna Sircilla,11,November,2018,840933,0,840933
+visitor-1513,Rajanna Sircilla,12,December,2018,950128,0,950128
+visitor-1514,Ranga Reddy,1,January,2018,0,0,0
+visitor-1515,Ranga Reddy,2,February,2018,0,0,0
+visitor-1516,Ranga Reddy,3,March,2018,0,0,0
+visitor-1517,Ranga Reddy,4,April,2018,0,0,0
+visitor-1518,Ranga Reddy,5,May,2018,0,0,0
+visitor-1519,Ranga Reddy,6,June,2018,0,0,0
+visitor-152,Mahabubnagar,7,July,2014,562322,175,562497
+visitor-1520,Ranga Reddy,7,July,2018,0,0,0
+visitor-1521,Ranga Reddy,8,August,2018,0,0,0
+visitor-1522,Ranga Reddy,9,September,2018,0,0,0
+visitor-1523,Ranga Reddy,10,October,2018,0,0,0
+visitor-1524,Ranga Reddy,11,November,2018,0,0,0
+visitor-1525,Ranga Reddy,12,December,2018,0,0,0
+visitor-1526,Sangareddy,1,January,2018,254000,0,254000
+visitor-1527,Sangareddy,2,February,2018,540000,0,540000
+visitor-1528,Sangareddy,3,March,2018,158500,0,158500
+visitor-1529,Sangareddy,4,April,2018,162500,0,162500
+visitor-153,Mahabubnagar,8,August,2014,1133105,94,1133199
+visitor-1530,Sangareddy,5,May,2018,157000,0,157000
+visitor-1531,Sangareddy,6,June,2018,93500,0,93500
+visitor-1532,Sangareddy,7,July,2018,108600,0,108600
+visitor-1533,Sangareddy,8,August,2018,205000,0,205000
+visitor-1534,Sangareddy,9,September,2018,125000,0,125000
+visitor-1535,Sangareddy,10,October,2018,171800,0,171800
+visitor-1536,Sangareddy,11,November,2018,160000,0,160000
+visitor-1537,Sangareddy,12,December,2018,134000,0,134000
+visitor-1538,Siddipet,1,January,2018,253000,0,253000
+visitor-1539,Siddipet,2,February,2018,44000,0,44000
+visitor-154,Mahabubnagar,9,September,2014,567712,69,567781
+visitor-1540,Siddipet,3,March,2018,164800,0,164800
+visitor-1541,Siddipet,4,April,2018,115000,0,115000
+visitor-1542,Siddipet,5,May,2018,165200,0,165200
+visitor-1543,Siddipet,6,June,2018,104300,0,104300
+visitor-1544,Siddipet,7,July,2018,54000,0,54000
+visitor-1545,Siddipet,8,August,2018,100000,0,100000
+visitor-1546,Siddipet,9,September,2018,55000,0,55000
+visitor-1547,Siddipet,10,October,2018,43000,0,43000
+visitor-1548,Siddipet,11,November,2018,135000,0,135000
+visitor-1549,Siddipet,12,December,2018,50000,0,50000
+visitor-155,Mahabubnagar,10,October,2014,198592,177,198769
+visitor-1550,Suryapet,1,January,2018,0,0,0
+visitor-1551,Suryapet,2,February,2018,0,0,0
+visitor-1552,Suryapet,3,March,2018,0,0,0
+visitor-1553,Suryapet,4,April,2018,0,0,0
+visitor-1554,Suryapet,5,May,2018,0,0,0
+visitor-1555,Suryapet,6,June,2018,0,0,0
+visitor-1556,Suryapet,7,July,2018,0,0,0
+visitor-1557,Suryapet,8,August,2018,0,0,0
+visitor-1558,Suryapet,9,September,2018,0,0,0
+visitor-1559,Suryapet,10,October,2018,0,0,0
+visitor-156,Mahabubnagar,11,November,2014,256375,326,256701
+visitor-1560,Suryapet,11,November,2018,0,0,0
+visitor-1561,Suryapet,12,December,2018,0,0,0
+visitor-1562,Vikarabad,1,January,2018,0,0,0
+visitor-1563,Vikarabad,2,February,2018,0,0,0
+visitor-1564,Vikarabad,3,March,2018,0,0,0
+visitor-1565,Vikarabad,4,April,2018,0,0,0
+visitor-1566,Vikarabad,5,May,2018,0,0,0
+visitor-1567,Vikarabad,6,June,2018,0,0,0
+visitor-1568,Vikarabad,7,July,2018,0,0,0
+visitor-1569,Vikarabad,8,August,2018,0,0,0
+visitor-157,Mahabubnagar,12,December,2014,210202,350,210552
+visitor-1570,Vikarabad,9,September,2018,0,0,0
+visitor-1571,Vikarabad,10,October,2018,0,0,0
+visitor-1572,Vikarabad,11,November,2018,0,0,0
+visitor-1573,Vikarabad,12,December,2018,0,0,0
+visitor-1574,Wanaparthy,1,January,2018,28131,0,28131
+visitor-1575,Wanaparthy,2,February,2018,22341,0,22341
+visitor-1576,Wanaparthy,3,March,2018,20050,0,20050
+visitor-1577,Wanaparthy,4,April,2018,10550,0,10550
+visitor-1578,Wanaparthy,5,May,2018,11502,0,11502
+visitor-1579,Wanaparthy,6,June,2018,19092,0,19092
+visitor-158,Mancherial,1,January,2014,0,0,0
+visitor-1580,Wanaparthy,7,July,2018,32625,0,32625
+visitor-1581,Wanaparthy,8,August,2018,35860,0,35860
+visitor-1582,Wanaparthy,9,September,2018,32002,0,32002
+visitor-1583,Wanaparthy,10,October,2018,21234,0,21234
+visitor-1584,Wanaparthy,11,November,2018,32657,0,32657
+visitor-1585,Wanaparthy,12,December,2018,20556,0,20556
+visitor-1586,Warangal (Rural),1,January,2018,25200,0,25200
+visitor-1587,Warangal (Rural),2,February,2018,26300,0,26300
+visitor-1588,Warangal (Rural),3,March,2018,26200,0,26200
+visitor-1589,Warangal (Rural),4,April,2018,21600,0,21600
+visitor-159,Mancherial,2,February,2014,0,0,0
+visitor-1590,Warangal (Rural),5,May,2018,22100,0,22100
+visitor-1591,Warangal (Rural),6,June,2018,23100,0,23100
+visitor-1592,Warangal (Rural),7,July,2018,25900,0,25900
+visitor-1593,Warangal (Rural),8,August,2018,25700,0,25700
+visitor-1594,Warangal (Rural),9,September,2018,25800,0,25800
+visitor-1595,Warangal (Rural),10,October,2018,26000,0,26000
+visitor-1596,Warangal (Rural),11,November,2018,24050,0,24050
+visitor-1597,Warangal (Rural),12,December,2018,30062,0,30062
+visitor-1598,Warangal (Urban),1,January,2018,137530,150,137680
+visitor-1599,Warangal (Urban),2,February,2018,145750,185,145935
+visitor-16,Bhadradri Kothagudem,3,March,2014,0,0,0
+visitor-160,Mancherial,3,March,2014,0,0,0
+visitor-1600,Warangal (Urban),3,March,2018,140300,160,140460
+visitor-1601,Warangal (Urban),4,April,2018,142510,150,142660
+visitor-1602,Warangal (Urban),5,May,2018,143425,140,143565
+visitor-1603,Warangal (Urban),6,June,2018,135615,130,135745
+visitor-1604,Warangal (Urban),7,July,2018,136560,130,136690
+visitor-1605,Warangal (Urban),8,August,2018,136760,135,136895
+visitor-1606,Warangal (Urban),9,September,2018,138780,145,138925
+visitor-1607,Warangal (Urban),10,October,2018,140948,160,141108
+visitor-1608,Warangal (Urban),11,November,2018,144515,170,144685
+visitor-1609,Warangal (Urban),12,December,2018,180643,187,180830
+visitor-161,Mancherial,4,April,2014,0,0,0
+visitor-1610,Yadadri Bhongir,1,January,2018,2016000,0,2016000
+visitor-1611,Yadadri Bhongir,2,February,2018,3073872,0,3073872
+visitor-1612,Yadadri Bhongir,3,March,2018,2836580,0,2836580
+visitor-1613,Yadadri Bhongir,4,April,2018,692370,0,692370
+visitor-1614,Yadadri Bhongir,5,May,2018,781842,0,781842
+visitor-1615,Yadadri Bhongir,6,June,2018,577570,0,577570
+visitor-1616,Yadadri Bhongir,7,July,2018,671156,0,671156
+visitor-1617,Yadadri Bhongir,8,August,2018,526445,0,526445
+visitor-1618,Yadadri Bhongir,9,September,2018,819350,0,819350
+visitor-1619,Yadadri Bhongir,10,October,2018,586475,0,586475
+visitor-162,Mancherial,5,May,2014,0,0,0
+visitor-1620,Yadadri Bhongir,11,November,2018,485208,0,485208
+visitor-1621,Yadadri Bhongir,12,December,2018,606510,0,606510
+visitor-1622,Adilabad,1,January,2019,25071,0,25071
+visitor-1623,Adilabad,2,February,2019,406177,2,406179
+visitor-1624,Adilabad,3,March,2019,14347,0,14347
+visitor-1625,Adilabad,4,April,2019,9972,0,9972
+visitor-1626,Adilabad,5,May,2019,6997,0,6997
+visitor-1627,Adilabad,6,June,2019,9161,0,9161
+visitor-1628,Adilabad,7,July,2019,11791,0,11791
+visitor-1629,Adilabad,8,August,2019,108173,2,108175
+visitor-163,Mancherial,6,June,2014,0,0,0
+visitor-1630,Adilabad,9,September,2019,37589,0,37589
+visitor-1631,Adilabad,10,October,2019,38184,0,38184
+visitor-1632,Adilabad,11,November,2019,70344,2,70346
+visitor-1633,Adilabad,12,December,2019,38089,0,38089
+visitor-1634,Bhadradri Kothagudem,1,January,2019,283365,0,283365
+visitor-1635,Bhadradri Kothagudem,2,February,2019,229159,0,229159
+visitor-1636,Bhadradri Kothagudem,3,March,2019,225448,0,225448
+visitor-1637,Bhadradri Kothagudem,4,April,2019,349585,0,349585
+visitor-1638,Bhadradri Kothagudem,5,May,2019,275800,0,275800
+visitor-1639,Bhadradri Kothagudem,6,June,2019,9761776,0,9761776
+visitor-164,Mancherial,7,July,2014,0,0,0
+visitor-1640,Bhadradri Kothagudem,7,July,2019,233338,0,233338
+visitor-1641,Bhadradri Kothagudem,8,August,2019,271941,0,271941
+visitor-1642,Bhadradri Kothagudem,9,September,2019,314199,0,314199
+visitor-1643,Bhadradri Kothagudem,10,October,2019,287432,0,287432
+visitor-1644,Bhadradri Kothagudem,11,November,2019,298366,0,298366
+visitor-1645,Bhadradri Kothagudem,12,December,2019,287328,0,287328
+visitor-1646,Hyderabad,1,January,2019,1426500,35920,1462420
+visitor-1647,Hyderabad,2,February,2019,983147,25621,1008768
+visitor-1648,Hyderabad,3,March,2019,1009991,21929,1031920
+visitor-1649,Hyderabad,4,April,2019,1045933,18267,1064200
+visitor-165,Mancherial,8,August,2014,0,0,0
+visitor-1650,Hyderabad,5,May,2019,1305748,17317,1323065
+visitor-1651,Hyderabad,6,June,2019,1262995,20077,1283072
+visitor-1652,Hyderabad,7,July,2019,1094861,27874,1122735
+visitor-1653,Hyderabad,8,August,2019,1121380,22725,1144105
+visitor-1654,Hyderabad,9,September,2019,959930,34018,993948
+visitor-1655,Hyderabad,10,October,2019,1240643,28706,1269349
+visitor-1656,Hyderabad,11,November,2019,1073665,32762,1106427
+visitor-1657,Hyderabad,12,December,2019,1277569,34084,1311653
+visitor-1658,Jagtial,1,January,2019,211913,0,211913
+visitor-1659,Jagtial,2,February,2019,215105,0,215105
+visitor-166,Mancherial,9,September,2014,0,0,0
+visitor-1660,Jagtial,3,March,2019,194090,0,194090
+visitor-1661,Jagtial,4,April,2019,447226,0,447226
+visitor-1662,Jagtial,5,May,2019,500206,0,500206
+visitor-1663,Jagtial,6,June,2019,235363,0,235363
+visitor-1664,Jagtial,7,July,2019,157419,0,157419
+visitor-1665,Jagtial,8,August,2019,151570,0,151570
+visitor-1666,Jagtial,9,September,2019,157564,0,157564
+visitor-1667,Jagtial,10,October,2019,165070,0,165070
+visitor-1668,Jagtial,11,November,2019,277630,0,277630
+visitor-1669,Jagtial,12,December,2019,372959,0,372959
+visitor-167,Mancherial,10,October,2014,3124,0,3124
+visitor-1670,Jangaon,1,January,2019,28750,0,28750
+visitor-1671,Jangaon,2,February,2019,28810,0,28810
+visitor-1672,Jangaon,3,March,2019,27300,0,27300
+visitor-1673,Jangaon,4,April,2019,26160,0,26160
+visitor-1674,Jangaon,5,May,2019,26740,0,26740
+visitor-1675,Jangaon,6,June,2019,25820,0,25820
+visitor-1676,Jangaon,7,July,2019,24160,0,24160
+visitor-1677,Jangaon,8,August,2019,27800,0,27800
+visitor-1678,Jangaon,9,September,2019,28640,0,28640
+visitor-1679,Jangaon,10,October,2019,27840,0,27840
+visitor-168,Mancherial,11,November,2014,2255,0,2255
+visitor-1680,Jangaon,11,November,2019,28410,0,28410
+visitor-1681,Jangaon,12,December,2019,28460,0,28460
+visitor-1682,Jayashankar Bhupalpally,1,January,2019,197430,45,197475
+visitor-1683,Jayashankar Bhupalpally,2,February,2019,33500,0,33500
+visitor-1684,Jayashankar Bhupalpally,3,March,2019,37500,0,37500
+visitor-1685,Jayashankar Bhupalpally,4,April,2019,38500,0,38500
+visitor-1686,Jayashankar Bhupalpally,5,May,2019,30800,0,30800
+visitor-1687,Jayashankar Bhupalpally,6,June,2019,40500,0,40500
+visitor-1688,Jayashankar Bhupalpally,7,July,2019,45500,0,45500
+visitor-1689,Jayashankar Bhupalpally,8,August,2019,45000,0,45000
+visitor-169,Mancherial,12,December,2014,2423,0,2423
+visitor-1690,Jayashankar Bhupalpally,9,September,2019,50500,0,50500
+visitor-1691,Jayashankar Bhupalpally,10,October,2019,46000,0,46000
+visitor-1692,Jayashankar Bhupalpally,11,November,2019,51500,0,51500
+visitor-1693,Jayashankar Bhupalpally,12,December,2019,45800,0,45800
+visitor-1694,Jogulamba Gadwal,1,January,2019,146441,36,146477
+visitor-1695,Jogulamba Gadwal,2,February,2019,481110,6,481116
+visitor-1696,Jogulamba Gadwal,3,March,2019,155013,22,155035
+visitor-1697,Jogulamba Gadwal,4,April,2019,82334,16,82350
+visitor-1698,Jogulamba Gadwal,5,May,2019,154609,20,154629
+visitor-1699,Jogulamba Gadwal,6,June,2019,155013,22,155035
+visitor-17,Bhadradri Kothagudem,4,April,2014,0,0,0
+visitor-170,Medak,1,January,2014,92600,0,92600
+visitor-1700,Jogulamba Gadwal,7,July,2019,114951,37,114988
+visitor-1701,Jogulamba Gadwal,8,August,2019,123733,42,123775
+visitor-1702,Jogulamba Gadwal,9,September,2019,131485,25,131510
+visitor-1703,Jogulamba Gadwal,10,October,2019,152898,13,152911
+visitor-1704,Jogulamba Gadwal,11,November,2019,128075,45,128120
+visitor-1705,Jogulamba Gadwal,12,December,2019,182333,11,182344
+visitor-1706,Kamareddy,1,January,2019,42,0,42
+visitor-1707,Kamareddy,2,February,2019,41,0,41
+visitor-1708,Kamareddy,3,March,2019,45,0,45
+visitor-1709,Kamareddy,4,April,2019,41,0,41
+visitor-171,Medak,2,February,2014,215000,0,215000
+visitor-1710,Kamareddy,5,May,2019,46,0,46
+visitor-1711,Kamareddy,6,June,2019,41,0,41
+visitor-1712,Kamareddy,7,July,2019,50,0,50
+visitor-1713,Kamareddy,8,August,2019,50,0,50
+visitor-1714,Kamareddy,9,September,2019,41,0,41
+visitor-1715,Kamareddy,10,October,2019,46,0,46
+visitor-1716,Kamareddy,11,November,2019,46,0,46
+visitor-1717,Kamareddy,12,December,2019,45,0,45
+visitor-1718,Karimnagar,1,January,2019,10285,0,10285
+visitor-1719,Karimnagar,2,February,2019,6480,0,6480
+visitor-172,Medak,3,March,2014,1318000,0,1318000
+visitor-1720,Karimnagar,3,March,2019,6634,0,6634
+visitor-1721,Karimnagar,4,April,2019,5623,0,5623
+visitor-1722,Karimnagar,5,May,2019,3393,0,3393
+visitor-1723,Karimnagar,6,June,2019,3871,0,3871
+visitor-1724,Karimnagar,7,July,2019,5192,0,5192
+visitor-1725,Karimnagar,8,August,2019,5480,0,5480
+visitor-1726,Karimnagar,9,September,2019,8735,0,8735
+visitor-1727,Karimnagar,10,October,2019,6799,0,6799
+visitor-1728,Karimnagar,11,November,2019,7101,0,7101
+visitor-1729,Karimnagar,12,December,2019,7898,0,7898
+visitor-173,Medak,4,April,2014,300000,0,300000
+visitor-1730,Khammam,1,January,2019,123550,0,123550
+visitor-1731,Khammam,2,February,2019,98471,0,98471
+visitor-1732,Khammam,3,March,2019,91340,0,91340
+visitor-1733,Khammam,4,April,2019,135920,0,135920
+visitor-1734,Khammam,5,May,2019,130971,0,130971
+visitor-1735,Khammam,6,June,2019,127270,0,127270
+visitor-1736,Khammam,7,July,2019,103260,0,103260
+visitor-1737,Khammam,8,August,2019,111374,0,111374
+visitor-1738,Khammam,9,September,2019,133754,0,133754
+visitor-1739,Khammam,10,October,2019,128625,0,128625
+visitor-174,Medak,5,May,2014,198000,0,198000
+visitor-1740,Khammam,11,November,2019,104380,0,104380
+visitor-1741,Khammam,12,December,2019,124525,0,124525
+visitor-1742,Kumaram Bheem Asifabad,1,January,2019,2476,0,2476
+visitor-1743,Kumaram Bheem Asifabad,2,February,2019,1449,0,1449
+visitor-1744,Kumaram Bheem Asifabad,3,March,2019,1212,0,1212
+visitor-1745,Kumaram Bheem Asifabad,4,April,2019,663,0,663
+visitor-1746,Kumaram Bheem Asifabad,5,May,2019,493,0,493
+visitor-1747,Kumaram Bheem Asifabad,6,June,2019,506,0,506
+visitor-1748,Kumaram Bheem Asifabad,7,July,2019,1287,0,1287
+visitor-1749,Kumaram Bheem Asifabad,8,August,2019,2572,0,2572
+visitor-175,Medak,6,June,2014,166700,0,166700
+visitor-1750,Kumaram Bheem Asifabad,9,September,2019,1629,0,1629
+visitor-1751,Kumaram Bheem Asifabad,10,October,2019,1943,0,1943
+visitor-1752,Kumaram Bheem Asifabad,11,November,2019,2176,0,2176
+visitor-1753,Kumaram Bheem Asifabad,12,December,2019,2783,0,2783
+visitor-1754,Mahabubabad,1,January,2019,13480,0,13480
+visitor-1755,Mahabubabad,2,February,2019,13545,0,13545
+visitor-1756,Mahabubabad,3,March,2019,13490,0,13490
+visitor-1757,Mahabubabad,4,April,2019,12980,0,12980
+visitor-1758,Mahabubabad,5,May,2019,11970,0,11970
+visitor-1759,Mahabubabad,6,June,2019,11460,0,11460
+visitor-176,Medak,7,July,2014,153300,0,153300
+visitor-1760,Mahabubabad,7,July,2019,13470,0,13470
+visitor-1761,Mahabubabad,8,August,2019,12190,0,12190
+visitor-1762,Mahabubabad,9,September,2019,13210,0,13210
+visitor-1763,Mahabubabad,10,October,2019,12260,0,12260
+visitor-1764,Mahabubabad,11,November,2019,12470,0,12470
+visitor-1765,Mahabubabad,12,December,2019,12360,0,12360
+visitor-1766,Mahabubnagar,1,January,2019,168082,45,168127
+visitor-1767,Mahabubnagar,2,February,2019,798949,29,798978
+visitor-1768,Mahabubnagar,3,March,2019,173658,28,173686
+visitor-1769,Mahabubnagar,4,April,2019,183268,34,183302
+visitor-177,Medak,8,August,2014,216100,0,216100
+visitor-1770,Mahabubnagar,5,May,2019,175202,20,175222
+visitor-1771,Mahabubnagar,6,June,2019,175853,28,175881
+visitor-1772,Mahabubnagar,7,July,2019,100398,47,100445
+visitor-1773,Mahabubnagar,8,August,2019,104787,44,104831
+visitor-1774,Mahabubnagar,9,September,2019,141387,34,141421
+visitor-1775,Mahabubnagar,10,October,2019,130227,37,130264
+visitor-1776,Mahabubnagar,11,November,2019,234066,68,234134
+visitor-1777,Mahabubnagar,12,December,2019,148938,26,148964
+visitor-1778,Mancherial,1,January,2019,18420,0,18420
+visitor-1779,Mancherial,2,February,2019,26325,0,26325
+visitor-178,Medak,9,September,2014,132600,0,132600
+visitor-1780,Mancherial,3,March,2019,16253,0,16253
+visitor-1781,Mancherial,4,April,2019,23026,0,23026
+visitor-1782,Mancherial,5,May,2019,26616,0,26616
+visitor-1783,Mancherial,6,June,2019,24593,0,24593
+visitor-1784,Mancherial,7,July,2019,22303,0,22303
+visitor-1785,Mancherial,8,August,2019,21191,0,21191
+visitor-1786,Mancherial,9,September,2019,24079,0,24079
+visitor-1787,Mancherial,10,October,2019,20867,0,20867
+visitor-1788,Mancherial,11,November,2019,29302,10,29312
+visitor-1789,Mancherial,12,December,2019,16835,0,16835
+visitor-179,Medak,10,October,2014,15600,0,15600
+visitor-1790,Medak,1,January,2019,400000,0,400000
+visitor-1791,Medak,2,February,2019,600000,0,600000
+visitor-1792,Medak,3,March,2019,1000000,0,1000000
+visitor-1793,Medak,4,April,2019,650000,0,650000
+visitor-1794,Medak,5,May,2019,400000,0,400000
+visitor-1795,Medak,6,June,2019,300000,0,300000
+visitor-1796,Medak,7,July,2019,350000,0,350000
+visitor-1797,Medak,8,August,2019,349900,0,349900
+visitor-1798,Medak,9,September,2019,350400,0,350400
+visitor-1799,Medak,10,October,2019,350000,0,350000
+visitor-18,Bhadradri Kothagudem,5,May,2014,0,0,0
+visitor-180,Medak,11,November,2014,132300,0,132300
+visitor-1800,Medak,11,November,2019,351560,0,351560
+visitor-1801,Medak,12,December,2019,350710,0,350710
+visitor-1802,Medchal,1,January,2019,0,0,0
+visitor-1803,Medchal,2,February,2019,0,0,0
+visitor-1804,Medchal,3,March,2019,0,0,0
+visitor-1805,Medchal,4,April,2019,0,0,0
+visitor-1806,Medchal,5,May,2019,0,0,0
+visitor-1807,Medchal,6,June,2019,0,0,0
+visitor-1808,Medchal,7,July,2019,0,0,0
+visitor-1809,Medchal,8,August,2019,0,0,0
+visitor-181,Medak,12,December,2014,523000,0,523000
+visitor-1810,Medchal,9,September,2019,0,0,0
+visitor-1811,Medchal,10,October,2019,0,0,0
+visitor-1812,Medchal,11,November,2019,0,0,0
+visitor-1813,Medchal,12,December,2019,0,0,0
+visitor-1814,Mulugu,1,January,2019,0,0,0
+visitor-1815,Mulugu,2,February,2019,159640,45,159685
+visitor-1816,Mulugu,3,March,2019,156610,40,156650
+visitor-1817,Mulugu,4,April,2019,152570,40,152610
+visitor-1818,Mulugu,5,May,2019,154550,40,154590
+visitor-1819,Mulugu,6,June,2019,163480,50,163530
+visitor-182,Medchal,1,January,2014,0,0,0
+visitor-1820,Mulugu,7,July,2019,167700,55,167755
+visitor-1821,Mulugu,8,August,2019,171050,50,171100
+visitor-1822,Mulugu,9,September,2019,172900,60,172960
+visitor-1823,Mulugu,10,October,2019,172500,60,172560
+visitor-1824,Mulugu,11,November,2019,173700,70,173770
+visitor-1825,Mulugu,12,December,2019,175100,65,175165
+visitor-1826,Nagarkurnool,1,January,2019,228812,35,228847
+visitor-1827,Nagarkurnool,2,February,2019,286258,15,286273
+visitor-1828,Nagarkurnool,3,March,2019,184508,14,184522
+visitor-1829,Nagarkurnool,4,April,2019,121460,18,121478
+visitor-183,Medchal,2,February,2014,0,0,0
+visitor-1830,Nagarkurnool,5,May,2019,184372,14,184386
+visitor-1831,Nagarkurnool,6,June,2019,184508,14,184522
+visitor-1832,Nagarkurnool,7,July,2019,93450,17,93467
+visitor-1833,Nagarkurnool,8,August,2019,118010,22,118032
+visitor-1834,Nagarkurnool,9,September,2019,175712,7,175719
+visitor-1835,Nagarkurnool,10,October,2019,196160,3,196163
+visitor-1836,Nagarkurnool,11,November,2019,121425,30,121455
+visitor-1837,Nagarkurnool,12,December,2019,198637,10,198647
+visitor-1838,Nalgonda,1,January,2019,21284,0,21284
+visitor-1839,Nalgonda,2,February,2019,13697,0,13697
+visitor-184,Medchal,3,March,2014,0,0,0
+visitor-1840,Nalgonda,3,March,2019,8467,0,8467
+visitor-1841,Nalgonda,4,April,2019,7202,0,7202
+visitor-1842,Nalgonda,5,May,2019,26338,0,26338
+visitor-1843,Nalgonda,6,June,2019,5558,0,5558
+visitor-1844,Nalgonda,7,July,2019,19783,0,19783
+visitor-1845,Nalgonda,8,August,2019,7473,0,7473
+visitor-1846,Nalgonda,9,September,2019,5230,0,5230
+visitor-1847,Nalgonda,10,October,2019,5290,0,5290
+visitor-1848,Nalgonda,11,November,2019,7177,0,7177
+visitor-1849,Nalgonda,12,December,2019,13419,0,13419
+visitor-185,Medchal,4,April,2014,0,0,0
+visitor-1850,Narayanpet,1,January,2019,0,0,0
+visitor-1851,Narayanpet,2,February,2019,0,0,0
+visitor-1852,Narayanpet,3,March,2019,0,0,0
+visitor-1853,Narayanpet,4,April,2019,0,0,0
+visitor-1854,Narayanpet,5,May,2019,0,0,0
+visitor-1855,Narayanpet,6,June,2019,0,0,0
+visitor-1856,Narayanpet,7,July,2019,68842,0,68842
+visitor-1857,Narayanpet,8,August,2019,72249,0,72249
+visitor-1858,Narayanpet,9,September,2019,62841,0,62841
+visitor-1859,Narayanpet,10,October,2019,58213,0,58213
+visitor-186,Medchal,5,May,2014,0,0,0
+visitor-1860,Narayanpet,11,November,2019,62750,0,62750
+visitor-1861,Narayanpet,12,December,2019,64355,5,64360
+visitor-1862,Nirmal,1,January,2019,313675,0,313675
+visitor-1863,Nirmal,2,February,2019,443898,0,443898
+visitor-1864,Nirmal,3,March,2019,424964,0,424964
+visitor-1865,Nirmal,4,April,2019,327971,0,327971
+visitor-1866,Nirmal,5,May,2019,149705,0,149705
+visitor-1867,Nirmal,6,June,2019,349747,0,349747
+visitor-1868,Nirmal,7,July,2019,359495,0,359495
+visitor-1869,Nirmal,8,August,2019,334646,0,334646
+visitor-187,Medchal,6,June,2014,0,0,0
+visitor-1870,Nirmal,9,September,2019,299827,0,299827
+visitor-1871,Nirmal,10,October,2019,263412,0,263412
+visitor-1872,Nirmal,11,November,2019,253388,0,253388
+visitor-1873,Nirmal,12,December,2019,296050,0,296050
+visitor-1874,Nizamabad,1,January,2019,878,0,878
+visitor-1875,Nizamabad,2,February,2019,915,1,916
+visitor-1876,Nizamabad,3,March,2019,938,0,938
+visitor-1877,Nizamabad,4,April,2019,958,0,958
+visitor-1878,Nizamabad,5,May,2019,1193,0,1193
+visitor-1879,Nizamabad,6,June,2019,686,0,686
+visitor-188,Medchal,7,July,2014,0,0,0
+visitor-1880,Nizamabad,7,July,2019,990,0,990
+visitor-1881,Nizamabad,8,August,2019,1004,0,1004
+visitor-1882,Nizamabad,9,September,2019,6572,0,6572
+visitor-1883,Nizamabad,10,October,2019,8849,0,8849
+visitor-1884,Nizamabad,11,November,2019,11950,0,11950
+visitor-1885,Nizamabad,12,December,2019,11400,0,11400
+visitor-1886,Peddapalli,1,January,2019,1055,0,1055
+visitor-1887,Peddapalli,2,February,2019,1157,0,1157
+visitor-1888,Peddapalli,3,March,2019,895,0,895
+visitor-1889,Peddapalli,4,April,2019,942,0,942
+visitor-189,Medchal,8,August,2014,0,0,0
+visitor-1890,Peddapalli,5,May,2019,802,0,802
+visitor-1891,Peddapalli,6,June,2019,735,0,735
+visitor-1892,Peddapalli,7,July,2019,1085,0,1085
+visitor-1893,Peddapalli,8,August,2019,1505,0,1505
+visitor-1894,Peddapalli,9,September,2019,1785,0,1785
+visitor-1895,Peddapalli,10,October,2019,2080,0,2080
+visitor-1896,Peddapalli,11,November,2019,2225,0,2225
+visitor-1897,Peddapalli,12,December,2019,2315,0,2315
+visitor-1898,Rajanna Sircilla,1,January,2019,6188298,0,6188298
+visitor-1899,Rajanna Sircilla,2,February,2019,1015550,0,1015550
+visitor-19,Bhadradri Kothagudem,6,June,2014,0,0,0
+visitor-190,Medchal,9,September,2014,0,0,0
+visitor-1900,Rajanna Sircilla,3,March,2019,1444971,0,1444971
+visitor-1901,Rajanna Sircilla,4,April,2019,1148062,0,1148062
+visitor-1902,Rajanna Sircilla,5,May,2019,1018131,0,1018131
+visitor-1903,Rajanna Sircilla,6,June,2019,1128849,0,1128849
+visitor-1904,Rajanna Sircilla,7,July,2019,422961,0,422961
+visitor-1905,Rajanna Sircilla,8,August,2019,586118,0,586118
+visitor-1906,Rajanna Sircilla,9,September,2019,501293,0,501293
+visitor-1907,Rajanna Sircilla,10,October,2019,646492,0,646492
+visitor-1908,Rajanna Sircilla,11,November,2019,1259371,0,1259371
+visitor-1909,Rajanna Sircilla,12,December,2019,1472801,0,1472801
+visitor-191,Medchal,10,October,2014,0,0,0
+visitor-1910,Ranga Reddy,1,January,2019,0,0,0
+visitor-1911,Ranga Reddy,2,February,2019,0,0,0
+visitor-1912,Ranga Reddy,3,March,2019,0,0,0
+visitor-1913,Ranga Reddy,4,April,2019,0,0,0
+visitor-1914,Ranga Reddy,5,May,2019,0,0,0
+visitor-1915,Ranga Reddy,6,June,2019,0,0,0
+visitor-1916,Ranga Reddy,7,July,2019,0,0,0
+visitor-1917,Ranga Reddy,8,August,2019,0,0,0
+visitor-1918,Ranga Reddy,9,September,2019,0,0,0
+visitor-1919,Ranga Reddy,10,October,2019,0,0,0
+visitor-192,Medchal,11,November,2014,0,0,0
+visitor-1920,Ranga Reddy,11,November,2019,0,0,0
+visitor-1921,Ranga Reddy,12,December,2019,0,0,0
+visitor-1922,Sangareddy,1,January,2019,144000,0,144000
+visitor-1923,Sangareddy,2,February,2019,148000,0,148000
+visitor-1924,Sangareddy,3,March,2019,747000,0,747000
+visitor-1925,Sangareddy,4,April,2019,205000,0,205000
+visitor-1926,Sangareddy,5,May,2019,133000,0,133000
+visitor-1927,Sangareddy,6,June,2019,347000,0,347000
+visitor-1928,Sangareddy,7,July,2019,467000,0,467000
+visitor-1929,Sangareddy,8,August,2019,466150,0,466150
+visitor-193,Medchal,12,December,2014,0,0,0
+visitor-1930,Sangareddy,9,September,2019,468350,0,468350
+visitor-1931,Sangareddy,10,October,2019,467470,0,467470
+visitor-1932,Sangareddy,11,November,2019,481720,0,481720
+visitor-1933,Sangareddy,12,December,2019,478470,0,478470
+visitor-1934,Siddipet,1,January,2019,140793,0,140793
+visitor-1935,Siddipet,2,February,2019,199549,0,199549
+visitor-1936,Siddipet,3,March,2019,204600,0,204600
+visitor-1937,Siddipet,4,April,2019,184412,0,184412
+visitor-1938,Siddipet,5,May,2019,110500,0,110500
+visitor-1939,Siddipet,6,June,2019,1037000,0,1037000
+visitor-194,Nagarkurnool,1,January,2014,0,0,0
+visitor-1940,Siddipet,7,July,2019,179320,0,179320
+visitor-1941,Siddipet,8,August,2019,190750,0,190750
+visitor-1942,Siddipet,9,September,2019,122550,0,122550
+visitor-1943,Siddipet,10,October,2019,191330,0,191330
+visitor-1944,Siddipet,11,November,2019,209130,0,209130
+visitor-1945,Siddipet,12,December,2019,217930,0,217930
+visitor-1946,Suryapet,1,January,2019,0,0,0
+visitor-1947,Suryapet,2,February,2019,0,0,0
+visitor-1948,Suryapet,3,March,2019,0,0,0
+visitor-1949,Suryapet,4,April,2019,0,0,0
+visitor-195,Nagarkurnool,2,February,2014,0,0,0
+visitor-1950,Suryapet,5,May,2019,0,0,0
+visitor-1951,Suryapet,6,June,2019,0,0,0
+visitor-1952,Suryapet,7,July,2019,0,0,0
+visitor-1953,Suryapet,8,August,2019,0,0,0
+visitor-1954,Suryapet,9,September,2019,0,0,0
+visitor-1955,Suryapet,10,October,2019,0,0,0
+visitor-1956,Suryapet,11,November,2019,0,0,0
+visitor-1957,Suryapet,12,December,2019,0,0,0
+visitor-1958,Vikarabad,1,January,2019,0,0,0
+visitor-1959,Vikarabad,2,February,2019,0,0,0
+visitor-196,Nagarkurnool,3,March,2014,0,0,0
+visitor-1960,Vikarabad,3,March,2019,0,0,0
+visitor-1961,Vikarabad,4,April,2019,0,0,0
+visitor-1962,Vikarabad,5,May,2019,0,0,0
+visitor-1963,Vikarabad,6,June,2019,0,0,0
+visitor-1964,Vikarabad,7,July,2019,0,0,0
+visitor-1965,Vikarabad,8,August,2019,0,0,0
+visitor-1966,Vikarabad,9,September,2019,0,0,0
+visitor-1967,Vikarabad,10,October,2019,0,0,0
+visitor-1968,Vikarabad,11,November,2019,0,0,0
+visitor-1969,Vikarabad,12,December,2019,0,0,0
+visitor-197,Nagarkurnool,4,April,2014,0,0,0
+visitor-1970,Wanaparthy,1,January,2019,28131,0,28131
+visitor-1971,Wanaparthy,2,February,2019,22342,0,22342
+visitor-1972,Wanaparthy,3,March,2019,20050,0,20050
+visitor-1973,Wanaparthy,4,April,2019,23749,0,23749
+visitor-1974,Wanaparthy,5,May,2019,20010,0,20010
+visitor-1975,Wanaparthy,6,June,2019,20050,0,20050
+visitor-1976,Wanaparthy,7,July,2019,32625,0,32625
+visitor-1977,Wanaparthy,8,August,2019,35860,0,35860
+visitor-1978,Wanaparthy,9,September,2019,21375,0,21375
+visitor-1979,Wanaparthy,10,October,2019,21234,0,21234
+visitor-198,Nagarkurnool,5,May,2014,0,0,0
+visitor-1980,Wanaparthy,11,November,2019,32657,0,32657
+visitor-1981,Wanaparthy,12,December,2019,20556,0,20556
+visitor-1982,Warangal (Rural),1,January,2019,28700,0,28700
+visitor-1983,Warangal (Rural),2,February,2019,28800,0,28800
+visitor-1984,Warangal (Rural),3,March,2019,29000,0,29000
+visitor-1985,Warangal (Rural),4,April,2019,26900,0,26900
+visitor-1986,Warangal (Rural),5,May,2019,24900,0,24900
+visitor-1987,Warangal (Rural),6,June,2019,27100,0,27100
+visitor-1988,Warangal (Rural),7,July,2019,28600,0,28600
+visitor-1989,Warangal (Rural),8,August,2019,31600,0,31600
+visitor-199,Nagarkurnool,6,June,2014,0,0,0
+visitor-1990,Warangal (Rural),9,September,2019,32600,0,32600
+visitor-1991,Warangal (Rural),10,October,2019,31100,0,31100
+visitor-1992,Warangal (Rural),11,November,2019,32150,0,32150
+visitor-1993,Warangal (Rural),12,December,2019,32050,0,32050
+visitor-1994,Warangal (Urban),1,January,2019,151545,175,151720
+visitor-1995,Warangal (Urban),2,February,2019,157755,200,157955
+visitor-1996,Warangal (Urban),3,March,2019,154305,200,154505
+visitor-1997,Warangal (Urban),4,April,2019,150425,190,150615
+visitor-1998,Warangal (Urban),5,May,2019,143230,175,143405
+visitor-1999,Warangal (Urban),6,June,2019,144400,195,144595
+visitor-2,Adilabad,1,January,2014,792136,5,792141
+visitor-20,Bhadradri Kothagudem,7,July,2014,0,0,0
+visitor-200,Nagarkurnool,7,July,2014,0,0,0
+visitor-2000,Warangal (Urban),7,July,2019,145440,185,145625
+visitor-2001,Warangal (Urban),8,August,2019,148030,230,148260
+visitor-2002,Warangal (Urban),9,September,2019,151070,240,151310
+visitor-2003,Warangal (Urban),10,October,2019,147450,220,147670
+visitor-2004,Warangal (Urban),11,November,2019,153880,230,154110
+visitor-2005,Warangal (Urban),12,December,2019,147700,210,147910
+visitor-2006,Yadadri Bhongir,1,January,2019,479293,0,479293
+visitor-2007,Yadadri Bhongir,2,February,2019,56525,0,56525
+visitor-2008,Yadadri Bhongir,3,March,2019,481923,0,481923
+visitor-2009,Yadadri Bhongir,4,April,2019,441150,0,441150
+visitor-201,Nagarkurnool,8,August,2014,0,0,0
+visitor-2010,Yadadri Bhongir,5,May,2019,345790,0,345790
+visitor-2011,Yadadri Bhongir,6,June,2019,370566,0,370566
+visitor-2012,Yadadri Bhongir,7,July,2019,332770,0,332770
+visitor-2013,Yadadri Bhongir,8,August,2019,389010,0,389010
+visitor-2014,Yadadri Bhongir,9,September,2019,366862,0,366862
+visitor-2015,Yadadri Bhongir,10,October,2019,381860,0,381860
+visitor-2016,Yadadri Bhongir,11,November,2019,365990,0,365990
+visitor-2017,Yadadri Bhongir,12,December,2019,477635,0,477635
+visitor-2018,Adilabad,1,January,2020,621850,0,621850
+visitor-2019,Adilabad,2,February,2020,29421,0,29421
+visitor-202,Nagarkurnool,9,September,2014,0,0,0
+visitor-2020,Adilabad,3,March,2020,9430,0,9430
+visitor-2021,Adilabad,4,April,2020,0,0,0
+visitor-2022,Adilabad,5,May,2020,0,0,0
+visitor-2023,Adilabad,6,June,2020,1909,0,1909
+visitor-2024,Adilabad,7,July,2020,549,0,549
+visitor-2025,Adilabad,8,August,2020,654,0,654
+visitor-2026,Adilabad,9,September,2020,3978,0,3978
+visitor-2027,Adilabad,10,October,2020,15128,0,15128
+visitor-2028,Adilabad,11,November,2020,27525,0,27525
+visitor-2029,Adilabad,12,December,2020,61403,0,61403
+visitor-203,Nagarkurnool,10,October,2014,201050,0,201050
+visitor-2030,Bhadradri Kothagudem,1,January,2020,269310,0,269310
+visitor-2031,Bhadradri Kothagudem,2,February,2020,238140,0,238140
+visitor-2032,Bhadradri Kothagudem,3,March,2020,79871,0,79871
+visitor-2033,Bhadradri Kothagudem,4,April,2020,0,0,0
+visitor-2034,Bhadradri Kothagudem,5,May,2020,0,0,0
+visitor-2035,Bhadradri Kothagudem,6,June,2020,15399,0,15399
+visitor-2036,Bhadradri Kothagudem,7,July,2020,15130,0,15130
+visitor-2037,Bhadradri Kothagudem,8,August,2020,26350,0,26350
+visitor-2038,Bhadradri Kothagudem,9,September,2020,30957,0,30957
+visitor-2039,Bhadradri Kothagudem,10,October,2020,49203,0,49203
+visitor-204,Nagarkurnool,11,November,2014,188786,0,188786
+visitor-2040,Bhadradri Kothagudem,11,November,2020,76900,0,76900
+visitor-2041,Bhadradri Kothagudem,12,December,2020,80842,0,80842
+visitor-2042,Hyderabad,1,January,2020,1157153,25174,1182327
+visitor-2043,Hyderabad,2,February,2020,868641,16521,885162
+visitor-2044,Hyderabad,3,March,2020,321650,3724,325374
+visitor-2045,Hyderabad,4,April,2020,0,0,0
+visitor-2046,Hyderabad,5,May,2020,0,0,0
+visitor-2047,Hyderabad,6,June,2020,0,0,0
+visitor-2048,Hyderabad,7,July,2020,0,0,0
+visitor-2049,Hyderabad,8,August,2020,0,0,0
+visitor-205,Nagarkurnool,12,December,2014,198637,0,198637
+visitor-2050,Hyderabad,9,September,2020,21861,6,21867
+visitor-2051,Hyderabad,10,October,2020,167510,76,167586
+visitor-2052,Hyderabad,11,November,2020,272276,128,272404
+visitor-2053,Hyderabad,12,December,2020,442895,230,443125
+visitor-2054,Jagtial,1,January,2020,340174,0,340174
+visitor-2055,Jagtial,2,February,2020,186484,0,186484
+visitor-2056,Jagtial,3,March,2020,347014,0,347014
+visitor-2057,Jagtial,4,April,2020,0,0,0
+visitor-2058,Jagtial,5,May,2020,0,0,0
+visitor-2059,Jagtial,6,June,2020,14228,0,14228
+visitor-206,Nalgonda,1,January,2014,566515,10,566525
+visitor-2060,Jagtial,7,July,2020,41752,0,41752
+visitor-2061,Jagtial,8,August,2020,34496,0,34496
+visitor-2062,Jagtial,9,September,2020,83012,0,83012
+visitor-2063,Jagtial,10,October,2020,83004,0,83004
+visitor-2064,Jagtial,11,November,2020,154438,0,154438
+visitor-2065,Jagtial,12,December,2020,155757,0,155757
+visitor-2066,Jangaon,1,January,2020,28150,0,28150
+visitor-2067,Jangaon,2,February,2020,26390,0,26390
+visitor-2068,Jangaon,3,March,2020,21430,0,21430
+visitor-2069,Jangaon,4,April,2020,0,0,0
+visitor-207,Nalgonda,2,February,2014,539467,0,539467
+visitor-2070,Jangaon,5,May,2020,0,0,0
+visitor-2071,Jangaon,6,June,2020,0,0,0
+visitor-2072,Jangaon,7,July,2020,2600,0,2600
+visitor-2073,Jangaon,8,August,2020,2750,0,2750
+visitor-2074,Jangaon,9,September,2020,2700,0,2700
+visitor-2075,Jangaon,10,October,2020,3050,0,3050
+visitor-2076,Jangaon,11,November,2020,12070,0,12070
+visitor-2077,Jangaon,12,December,2020,11860,0,11860
+visitor-2078,Jayashankar Bhupalpally,1,January,2020,50500,0,50500
+visitor-2079,Jayashankar Bhupalpally,2,February,2020,59000,0,59000
+visitor-208,Nalgonda,3,March,2014,619462,0,619462
+visitor-2080,Jayashankar Bhupalpally,3,March,2020,34200,0,34200
+visitor-2081,Jayashankar Bhupalpally,4,April,2020,0,0,0
+visitor-2082,Jayashankar Bhupalpally,5,May,2020,0,0,0
+visitor-2083,Jayashankar Bhupalpally,6,June,2020,0,0,0
+visitor-2084,Jayashankar Bhupalpally,7,July,2020,5600,0,5600
+visitor-2085,Jayashankar Bhupalpally,8,August,2020,7000,0,7000
+visitor-2086,Jayashankar Bhupalpally,9,September,2020,7600,0,7600
+visitor-2087,Jayashankar Bhupalpally,10,October,2020,8000,0,8000
+visitor-2088,Jayashankar Bhupalpally,11,November,2020,15000,0,15000
+visitor-2089,Jayashankar Bhupalpally,12,December,2020,15200,0,15200
+visitor-209,Nalgonda,4,April,2014,601253,0,601253
+visitor-2090,Jogulamba Gadwal,1,January,2020,146441,36,146477
+visitor-2091,Jogulamba Gadwal,2,February,2020,481110,6,481116
+visitor-2092,Jogulamba Gadwal,3,March,2020,24013,0,24013
+visitor-2093,Jogulamba Gadwal,4,April,2020,0,0,0
+visitor-2094,Jogulamba Gadwal,5,May,2020,0,0,0
+visitor-2095,Jogulamba Gadwal,6,June,2020,26013,0,26013
+visitor-2096,Jogulamba Gadwal,7,July,2020,88182,0,88182
+visitor-2097,Jogulamba Gadwal,8,August,2020,106925,0,106925
+visitor-2098,Jogulamba Gadwal,9,September,2020,131485,0,131485
+visitor-2099,Jogulamba Gadwal,10,October,2020,116753,0,116753
+visitor-21,Bhadradri Kothagudem,8,August,2014,0,0,0
+visitor-210,Nalgonda,5,May,2014,628872,0,628872
+visitor-2100,Jogulamba Gadwal,11,November,2020,228325,0,228325
+visitor-2101,Jogulamba Gadwal,12,December,2020,184380,0,184380
+visitor-2102,Kamareddy,1,January,2020,45,0,45
+visitor-2103,Kamareddy,2,February,2020,42,0,42
+visitor-2104,Kamareddy,3,March,2020,30,0,30
+visitor-2105,Kamareddy,4,April,2020,0,0,0
+visitor-2106,Kamareddy,5,May,2020,0,0,0
+visitor-2107,Kamareddy,6,June,2020,0,0,0
+visitor-2108,Kamareddy,7,July,2020,38,0,38
+visitor-2109,Kamareddy,8,August,2020,42,0,42
+visitor-211,Nalgonda,6,June,2014,551239,0,551239
+visitor-2110,Kamareddy,9,September,2020,55,0,55
+visitor-2111,Kamareddy,10,October,2020,39,0,39
+visitor-2112,Kamareddy,11,November,2020,46,0,46
+visitor-2113,Kamareddy,12,December,2020,48,0,48
+visitor-2114,Karimnagar,1,January,2020,12057,0,12057
+visitor-2115,Karimnagar,2,February,2020,8359,0,8359
+visitor-2116,Karimnagar,3,March,2020,6100,0,6100
+visitor-2117,Karimnagar,4,April,2020,0,0,0
+visitor-2118,Karimnagar,5,May,2020,0,0,0
+visitor-2119,Karimnagar,6,June,2020,540,0,540
+visitor-212,Nalgonda,7,July,2014,582820,0,582820
+visitor-2120,Karimnagar,7,July,2020,850,0,850
+visitor-2121,Karimnagar,8,August,2020,2500,0,2500
+visitor-2122,Karimnagar,9,September,2020,2250,0,2250
+visitor-2123,Karimnagar,10,October,2020,3258,0,3258
+visitor-2124,Karimnagar,11,November,2020,4100,0,4100
+visitor-2125,Karimnagar,12,December,2020,4200,0,4200
+visitor-2126,Khammam,1,January,2020,114752,0,114752
+visitor-2127,Khammam,2,February,2020,114417,0,114417
+visitor-2128,Khammam,3,March,2020,57137,0,57137
+visitor-2129,Khammam,4,April,2020,0,0,0
+visitor-213,Nalgonda,8,August,2014,988102,0,988102
+visitor-2130,Khammam,5,May,2020,0,0,0
+visitor-2131,Khammam,6,June,2020,12806,0,12806
+visitor-2132,Khammam,7,July,2020,9104,0,9104
+visitor-2133,Khammam,8,August,2020,7942,0,7942
+visitor-2134,Khammam,9,September,2020,9078,0,9078
+visitor-2135,Khammam,10,October,2020,27858,0,27858
+visitor-2136,Khammam,11,November,2020,40647,0,40647
+visitor-2137,Khammam,12,December,2020,37084,0,37084
+visitor-2138,Kumaram Bheem Asifabad,1,January,2020,2463,0,2463
+visitor-2139,Kumaram Bheem Asifabad,2,February,2020,1593,0,1593
+visitor-214,Nalgonda,9,September,2014,742402,0,742402
+visitor-2140,Kumaram Bheem Asifabad,3,March,2020,812,0,812
+visitor-2141,Kumaram Bheem Asifabad,4,April,2020,0,0,0
+visitor-2142,Kumaram Bheem Asifabad,5,May,2020,0,0,0
+visitor-2143,Kumaram Bheem Asifabad,6,June,2020,60,0,60
+visitor-2144,Kumaram Bheem Asifabad,7,July,2020,56,0,56
+visitor-2145,Kumaram Bheem Asifabad,8,August,2020,55,0,55
+visitor-2146,Kumaram Bheem Asifabad,9,September,2020,165,0,165
+visitor-2147,Kumaram Bheem Asifabad,10,October,2020,533,0,533
+visitor-2148,Kumaram Bheem Asifabad,11,November,2020,637,0,637
+visitor-2149,Kumaram Bheem Asifabad,12,December,2020,649,0,649
+visitor-215,Nalgonda,10,October,2014,3508,0,3508
+visitor-2150,Mahabubabad,1,January,2020,12290,0,12290
+visitor-2151,Mahabubabad,2,February,2020,12180,0,12180
+visitor-2152,Mahabubabad,3,March,2020,8300,0,8300
+visitor-2153,Mahabubabad,4,April,2020,0,0,0
+visitor-2154,Mahabubabad,5,May,2020,0,0,0
+visitor-2155,Mahabubabad,6,June,2020,0,0,0
+visitor-2156,Mahabubabad,7,July,2020,1400,0,1400
+visitor-2157,Mahabubabad,8,August,2020,1800,0,1800
+visitor-2158,Mahabubabad,9,September,2020,1950,0,1950
+visitor-2159,Mahabubabad,10,October,2020,2200,0,2200
+visitor-216,Nalgonda,11,November,2014,21046,0,21046
+visitor-2160,Mahabubabad,11,November,2020,3450,0,3450
+visitor-2161,Mahabubabad,12,December,2020,3370,0,3370
+visitor-2162,Mahabubnagar,1,January,2020,122530,45,122575
+visitor-2163,Mahabubnagar,2,February,2020,552303,29,552332
+visitor-2164,Mahabubnagar,3,March,2020,25577,0,25577
+visitor-2165,Mahabubnagar,4,April,2020,0,0,0
+visitor-2166,Mahabubnagar,5,May,2020,0,0,0
+visitor-2167,Mahabubnagar,6,June,2020,20956,0,20956
+visitor-2168,Mahabubnagar,7,July,2020,60255,0,60255
+visitor-2169,Mahabubnagar,8,August,2020,73928,0,73928
+visitor-217,Nalgonda,12,December,2014,13775,0,13775
+visitor-2170,Mahabubnagar,9,September,2020,135984,0,135984
+visitor-2171,Mahabubnagar,10,October,2020,94083,0,94083
+visitor-2172,Mahabubnagar,11,November,2020,98683,0,98683
+visitor-2173,Mahabubnagar,12,December,2020,111514,0,111514
+visitor-2174,Mancherial,1,January,2020,25661,0,25661
+visitor-2175,Mancherial,2,February,2020,41809,0,41809
+visitor-2176,Mancherial,3,March,2020,9855,0,9855
+visitor-2177,Mancherial,4,April,2020,0,0,0
+visitor-2178,Mancherial,5,May,2020,0,0,0
+visitor-2179,Mancherial,6,June,2020,210,0,210
+visitor-218,Nirmal,1,January,2014,0,0,0
+visitor-2180,Mancherial,7,July,2020,290,0,290
+visitor-2181,Mancherial,8,August,2020,302,0,302
+visitor-2182,Mancherial,9,September,2020,2758,0,2758
+visitor-2183,Mancherial,10,October,2020,4745,0,4745
+visitor-2184,Mancherial,11,November,2020,6717,0,6717
+visitor-2185,Mancherial,12,December,2020,10439,0,10439
+visitor-2186,Medak,1,January,2020,286340,0,286340
+visitor-2187,Medak,2,February,2020,818750,0,818750
+visitor-2188,Medak,3,March,2020,288800,0,288800
+visitor-2189,Medak,4,April,2020,0,0,0
+visitor-219,Nirmal,2,February,2014,0,0,0
+visitor-2190,Medak,5,May,2020,0,0,0
+visitor-2191,Medak,6,June,2020,5300,0,5300
+visitor-2192,Medak,7,July,2020,4325,0,4325
+visitor-2193,Medak,8,August,2020,15380,0,15380
+visitor-2194,Medak,9,September,2020,15880,0,15880
+visitor-2195,Medak,10,October,2020,17380,0,17380
+visitor-2196,Medak,11,November,2020,45000,0,45000
+visitor-2197,Medak,12,December,2020,55000,0,55000
+visitor-2198,Medchal,1,January,2020,0,0,0
+visitor-2199,Medchal,2,February,2020,0,0,0
+visitor-22,Bhadradri Kothagudem,9,September,2014,0,0,0
+visitor-220,Nirmal,3,March,2014,0,0,0
+visitor-2200,Medchal,3,March,2020,0,0,0
+visitor-2201,Medchal,4,April,2020,0,0,0
+visitor-2202,Medchal,5,May,2020,0,0,0
+visitor-2203,Medchal,6,June,2020,0,0,0
+visitor-2204,Medchal,7,July,2020,0,0,0
+visitor-2205,Medchal,8,August,2020,0,0,0
+visitor-2206,Medchal,9,September,2020,0,0,0
+visitor-2207,Medchal,10,October,2020,0,0,0
+visitor-2208,Medchal,11,November,2020,0,0,0
+visitor-2209,Medchal,12,December,2020,0,0,0
+visitor-221,Nirmal,4,April,2014,0,0,0
+visitor-2210,Mulugu,1,January,2020,3653000,70,3653070
+visitor-2211,Mulugu,2,February,2020,9157200,60,9157260
+visitor-2212,Mulugu,3,March,2020,118500,15,118515
+visitor-2213,Mulugu,4,April,2020,0,0,0
+visitor-2214,Mulugu,5,May,2020,0,0,0
+visitor-2215,Mulugu,6,June,2020,0,0,0
+visitor-2216,Mulugu,7,July,2020,4550,0,4550
+visitor-2217,Mulugu,8,August,2020,8300,0,8300
+visitor-2218,Mulugu,9,September,2020,11300,0,11300
+visitor-2219,Mulugu,10,October,2020,17600,0,17600
+visitor-222,Nirmal,5,May,2014,0,0,0
+visitor-2220,Mulugu,11,November,2020,57200,0,57200
+visitor-2221,Mulugu,12,December,2020,60900,0,60900
+visitor-2222,Nagarkurnool,1,January,2020,228812,35,228847
+visitor-2223,Nagarkurnool,2,February,2020,286258,15,286273
+visitor-2224,Nagarkurnool,3,March,2020,32333,0,32333
+visitor-2225,Nagarkurnool,4,April,2020,0,0,0
+visitor-2226,Nagarkurnool,5,May,2020,0,0,0
+visitor-2227,Nagarkurnool,6,June,2020,34508,0,34508
+visitor-2228,Nagarkurnool,7,July,2020,66655,0,66655
+visitor-2229,Nagarkurnool,8,August,2020,80155,0,80155
+visitor-223,Nirmal,6,June,2014,0,0,0
+visitor-2230,Nagarkurnool,9,September,2020,175712,0,175712
+visitor-2231,Nagarkurnool,10,October,2020,95788,0,95788
+visitor-2232,Nagarkurnool,11,November,2020,77869,0,77869
+visitor-2233,Nagarkurnool,12,December,2020,85280,0,85280
+visitor-2234,Nalgonda,1,January,2020,10127,0,10127
+visitor-2235,Nalgonda,2,February,2020,9154,0,9154
+visitor-2236,Nalgonda,3,March,2020,772,0,772
+visitor-2237,Nalgonda,4,April,2020,0,0,0
+visitor-2238,Nalgonda,5,May,2020,0,0,0
+visitor-2239,Nalgonda,6,June,2020,218,0,218
+visitor-224,Nirmal,7,July,2014,0,0,0
+visitor-2240,Nalgonda,7,July,2020,224,0,224
+visitor-2241,Nalgonda,8,August,2020,558,0,558
+visitor-2242,Nalgonda,9,September,2020,2480,0,2480
+visitor-2243,Nalgonda,10,October,2020,8541,0,8541
+visitor-2244,Nalgonda,11,November,2020,6242,0,6242
+visitor-2245,Nalgonda,12,December,2020,8514,0,8514
+visitor-2246,Narayanpet,1,January,2020,47272,0,47272
+visitor-2247,Narayanpet,2,February,2020,244657,0,244657
+visitor-2248,Narayanpet,3,March,2020,21907,0,21907
+visitor-2249,Narayanpet,4,April,2020,0,0,0
+visitor-225,Nirmal,8,August,2014,0,0,0
+visitor-2250,Narayanpet,5,May,2020,0,0,0
+visitor-2251,Narayanpet,6,June,2020,20907,0,20907
+visitor-2252,Narayanpet,7,July,2020,39820,0,39820
+visitor-2253,Narayanpet,8,August,2020,34777,0,34777
+visitor-2254,Narayanpet,9,September,2020,62841,0,62841
+visitor-2255,Narayanpet,10,October,2020,52309,0,52309
+visitor-2256,Narayanpet,11,November,2020,49597,0,49597
+visitor-2257,Narayanpet,12,December,2020,56031,0,56031
+visitor-2258,Nirmal,1,January,2020,368292,0,368292
+visitor-2259,Nirmal,2,February,2020,299646,0,299646
+visitor-226,Nirmal,9,September,2014,0,0,0
+visitor-2260,Nirmal,3,March,2020,253116,0,253116
+visitor-2261,Nirmal,4,April,2020,0,0,0
+visitor-2262,Nirmal,5,May,2020,0,0,0
+visitor-2263,Nirmal,6,June,2020,5040,0,5040
+visitor-2264,Nirmal,7,July,2020,9212,0,9212
+visitor-2265,Nirmal,8,August,2020,10336,0,10336
+visitor-2266,Nirmal,9,September,2020,13377,0,13377
+visitor-2267,Nirmal,10,October,2020,28586,0,28586
+visitor-2268,Nirmal,11,November,2020,73126,0,73126
+visitor-2269,Nirmal,12,December,2020,110808,0,110808
+visitor-227,Nirmal,10,October,2014,475955,0,475955
+visitor-2270,Nizamabad,1,January,2020,7540,0,7540
+visitor-2271,Nizamabad,2,February,2020,6400,0,6400
+visitor-2272,Nizamabad,3,March,2020,6750,0,6750
+visitor-2273,Nizamabad,4,April,2020,0,0,0
+visitor-2274,Nizamabad,5,May,2020,0,0,0
+visitor-2275,Nizamabad,6,June,2020,0,0,0
+visitor-2276,Nizamabad,7,July,2020,1620,0,1620
+visitor-2277,Nizamabad,8,August,2020,2020,0,2020
+visitor-2278,Nizamabad,9,September,2020,10050,0,10050
+visitor-2279,Nizamabad,10,October,2020,6310,0,6310
+visitor-228,Nirmal,11,November,2014,201388,0,201388
+visitor-2280,Nizamabad,11,November,2020,10900,0,10900
+visitor-2281,Nizamabad,12,December,2020,40400,0,40400
+visitor-2282,Peddapalli,1,January,2020,2945,0,2945
+visitor-2283,Peddapalli,2,February,2020,2315,0,2315
+visitor-2284,Peddapalli,3,March,2020,1450,0,1450
+visitor-2285,Peddapalli,4,April,2020,0,0,0
+visitor-2286,Peddapalli,5,May,2020,0,0,0
+visitor-2287,Peddapalli,6,June,2020,445,0,445
+visitor-2288,Peddapalli,7,July,2020,250,0,250
+visitor-2289,Peddapalli,8,August,2020,1250,0,1250
+visitor-229,Nirmal,12,December,2014,239267,0,239267
+visitor-2290,Peddapalli,9,September,2020,800,0,800
+visitor-2291,Peddapalli,10,October,2020,600,0,600
+visitor-2292,Peddapalli,11,November,2020,650,0,650
+visitor-2293,Peddapalli,12,December,2020,1105,0,1105
+visitor-2294,Rajanna Sircilla,1,January,2020,2298291,0,2298291
+visitor-2295,Rajanna Sircilla,2,February,2020,963871,0,963871
+visitor-2296,Rajanna Sircilla,3,March,2020,885559,0,885559
+visitor-2297,Rajanna Sircilla,4,April,2020,0,0,0
+visitor-2298,Rajanna Sircilla,5,May,2020,0,0,0
+visitor-2299,Rajanna Sircilla,6,June,2020,76026,0,76026
+visitor-23,Bhadradri Kothagudem,10,October,2014,310133,0,310133
+visitor-230,Nizamabad,1,January,2014,576,3,579
+visitor-2300,Rajanna Sircilla,7,July,2020,60636,0,60636
+visitor-2301,Rajanna Sircilla,8,August,2020,110783,0,110783
+visitor-2302,Rajanna Sircilla,9,September,2020,121976,0,121976
+visitor-2303,Rajanna Sircilla,10,October,2020,181929,0,181929
+visitor-2304,Rajanna Sircilla,11,November,2020,391170,0,391170
+visitor-2305,Rajanna Sircilla,12,December,2020,535298,0,535298
+visitor-2306,Ranga Reddy,1,January,2020,0,0,0
+visitor-2307,Ranga Reddy,2,February,2020,0,0,0
+visitor-2308,Ranga Reddy,3,March,2020,0,0,0
+visitor-2309,Ranga Reddy,4,April,2020,0,0,0
+visitor-231,Nizamabad,2,February,2014,869,0,869
+visitor-2310,Ranga Reddy,5,May,2020,0,0,0
+visitor-2311,Ranga Reddy,6,June,2020,0,0,0
+visitor-2312,Ranga Reddy,7,July,2020,0,0,0
+visitor-2313,Ranga Reddy,8,August,2020,0,0,0
+visitor-2314,Ranga Reddy,9,September,2020,0,0,0
+visitor-2315,Ranga Reddy,10,October,2020,0,0,0
+visitor-2316,Ranga Reddy,11,November,2020,0,0,0
+visitor-2317,Ranga Reddy,12,December,2020,0,0,0
+visitor-2318,Sangareddy,1,January,2020,213000,0,213000
+visitor-2319,Sangareddy,2,February,2020,755000,0,755000
+visitor-232,Nizamabad,3,March,2014,408,0,408
+visitor-2320,Sangareddy,3,March,2020,235000,0,235000
+visitor-2321,Sangareddy,4,April,2020,0,0,0
+visitor-2322,Sangareddy,5,May,2020,0,0,0
+visitor-2323,Sangareddy,6,June,2020,9500,0,9500
+visitor-2324,Sangareddy,7,July,2020,27400,0,27400
+visitor-2325,Sangareddy,8,August,2020,45400,0,45400
+visitor-2326,Sangareddy,9,September,2020,47900,0,47900
+visitor-2327,Sangareddy,10,October,2020,55400,0,55400
+visitor-2328,Sangareddy,11,November,2020,149000,0,149000
+visitor-2329,Sangareddy,12,December,2020,167000,0,167000
+visitor-233,Nizamabad,4,April,2014,476,0,476
+visitor-2330,Siddipet,1,January,2020,473350,0,473350
+visitor-2331,Siddipet,2,February,2020,204885,0,204885
+visitor-2332,Siddipet,3,March,2020,123000,0,123000
+visitor-2333,Siddipet,4,April,2020,0,0,0
+visitor-2334,Siddipet,5,May,2020,0,0,0
+visitor-2335,Siddipet,6,June,2020,19846,0,19846
+visitor-2336,Siddipet,7,July,2020,23864,0,23864
+visitor-2337,Siddipet,8,August,2020,27307,0,27307
+visitor-2338,Siddipet,9,September,2020,30980,0,30980
+visitor-2339,Siddipet,10,October,2020,73367,0,73367
+visitor-234,Nizamabad,5,May,2014,554,0,554
+visitor-2340,Siddipet,11,November,2020,72049,0,72049
+visitor-2341,Siddipet,12,December,2020,173000,0,173000
+visitor-2342,Suryapet,1,January,2020,0,0,0
+visitor-2343,Suryapet,2,February,2020,0,0,0
+visitor-2344,Suryapet,3,March,2020,0,0,0
+visitor-2345,Suryapet,4,April,2020,0,0,0
+visitor-2346,Suryapet,5,May,2020,0,0,0
+visitor-2347,Suryapet,6,June,2020,0,0,0
+visitor-2348,Suryapet,7,July,2020,0,0,0
+visitor-2349,Suryapet,8,August,2020,0,0,0
+visitor-235,Nizamabad,6,June,2014,367,0,367
+visitor-2350,Suryapet,9,September,2020,0,0,0
+visitor-2351,Suryapet,10,October,2020,0,0,0
+visitor-2352,Suryapet,11,November,2020,0,0,0
+visitor-2353,Suryapet,12,December,2020,0,0,0
+visitor-2354,Vikarabad,1,January,2020,0,0,0
+visitor-2355,Vikarabad,2,February,2020,0,0,0
+visitor-2356,Vikarabad,3,March,2020,0,0,0
+visitor-2357,Vikarabad,4,April,2020,0,0,0
+visitor-2358,Vikarabad,5,May,2020,0,0,0
+visitor-2359,Vikarabad,6,June,2020,0,0,0
+visitor-236,Nizamabad,7,July,2014,644,0,644
+visitor-2360,Vikarabad,7,July,2020,0,0,0
+visitor-2361,Vikarabad,8,August,2020,0,0,0
+visitor-2362,Vikarabad,9,September,2020,0,0,0
+visitor-2363,Vikarabad,10,October,2020,0,0,0
+visitor-2364,Vikarabad,11,November,2020,0,0,0
+visitor-2365,Vikarabad,12,December,2020,0,0,0
+visitor-2366,Wanaparthy,1,January,2020,28131,0,28131
+visitor-2367,Wanaparthy,2,February,2020,22342,0,22342
+visitor-2368,Wanaparthy,3,March,2020,7050,0,7050
+visitor-2369,Wanaparthy,4,April,2020,0,0,0
+visitor-237,Nizamabad,8,August,2014,589,0,589
+visitor-2370,Wanaparthy,5,May,2020,0,0,0
+visitor-2371,Wanaparthy,6,June,2020,4050,0,4050
+visitor-2372,Wanaparthy,7,July,2020,17092,0,17092
+visitor-2373,Wanaparthy,8,August,2020,30860,0,30860
+visitor-2374,Wanaparthy,9,September,2020,21375,0,21375
+visitor-2375,Wanaparthy,10,October,2020,29683,0,29683
+visitor-2376,Wanaparthy,11,November,2020,29036,0,29036
+visitor-2377,Wanaparthy,12,December,2020,27057,0,27057
+visitor-2378,Warangal (Rural),1,January,2020,31550,0,31550
+visitor-2379,Warangal (Rural),2,February,2020,31050,0,31050
+visitor-238,Nizamabad,9,September,2014,553,0,553
+visitor-2380,Warangal (Rural),3,March,2020,26050,0,26050
+visitor-2381,Warangal (Rural),4,April,2020,0,0,0
+visitor-2382,Warangal (Rural),5,May,2020,0,0,0
+visitor-2383,Warangal (Rural),6,June,2020,0,0,0
+visitor-2384,Warangal (Rural),7,July,2020,560,0,560
+visitor-2385,Warangal (Rural),8,August,2020,870,0,870
+visitor-2386,Warangal (Rural),9,September,2020,1550,0,1550
+visitor-2387,Warangal (Rural),10,October,2020,2060,0,2060
+visitor-2388,Warangal (Rural),11,November,2020,7550,0,7550
+visitor-2389,Warangal (Rural),12,December,2020,7530,0,7530
+visitor-239,Nizamabad,10,October,2014,434,0,434
+visitor-2390,Warangal (Urban),1,January,2020,157630,225,157855
+visitor-2391,Warangal (Urban),2,February,2020,157950,225,158175
+visitor-2392,Warangal (Urban),3,March,2020,102520,80,102600
+visitor-2393,Warangal (Urban),4,April,2020,0,0,0
+visitor-2394,Warangal (Urban),5,May,2020,0,0,0
+visitor-2395,Warangal (Urban),6,June,2020,0,0,0
+visitor-2396,Warangal (Urban),7,July,2020,7300,0,7300
+visitor-2397,Warangal (Urban),8,August,2020,9150,0,9150
+visitor-2398,Warangal (Urban),9,September,2020,12050,0,12050
+visitor-2399,Warangal (Urban),10,October,2020,18350,0,18350
+visitor-24,Bhadradri Kothagudem,11,November,2014,252127,0,252127
+visitor-240,Nizamabad,11,November,2014,617,0,617
+visitor-2400,Warangal (Urban),11,November,2020,91120,0,91120
+visitor-2401,Warangal (Urban),12,December,2020,92455,0,92455
+visitor-2402,Yadadri Bhongir,1,January,2020,493002,0,493002
+visitor-2403,Yadadri Bhongir,2,February,2020,527311,0,527311
+visitor-2404,Yadadri Bhongir,3,March,2020,125380,0,125380
+visitor-2405,Yadadri Bhongir,4,April,2020,0,0,0
+visitor-2406,Yadadri Bhongir,5,May,2020,0,0,0
+visitor-2407,Yadadri Bhongir,6,June,2020,76480,0,76480
+visitor-2408,Yadadri Bhongir,7,July,2020,25375,0,25375
+visitor-2409,Yadadri Bhongir,8,August,2020,110587,0,110587
+visitor-241,Nizamabad,12,December,2014,355,0,355
+visitor-2410,Yadadri Bhongir,9,September,2020,110595,0,110595
+visitor-2411,Yadadri Bhongir,10,October,2020,481320,0,481320
+visitor-2412,Yadadri Bhongir,11,November,2020,381150,0,381150
+visitor-2413,Yadadri Bhongir,12,December,2020,321254,0,321254
+visitor-2414,Adilabad,1,January,2021,18203,0,18203
+visitor-2415,Adilabad,2,February,2021,271255,0,271255
+visitor-2416,Adilabad,3,March,2021,15907,0,15907
+visitor-2417,Adilabad,4,April,2021,6955,0,6955
+visitor-2418,Adilabad,5,May,2021,1191,0,1191
+visitor-2419,Adilabad,6,June,2021,3407,0,3407
+visitor-242,Peddapalli,1,January,2014,0,0,0
+visitor-2420,Adilabad,7,July,2021,26885,0,26885
+visitor-2421,Adilabad,8,August,2021,25338,0,25338
+visitor-2422,Adilabad,9,September,2021,17672,0,17672
+visitor-2423,Adilabad,10,October,2021,16095,0,16095
+visitor-2424,Adilabad,11,November,2021,73753,0,73753
+visitor-2425,Adilabad,12,December,2021,18484,0,18484
+visitor-2426,Bhadradri Kothagudem,1,January,2021,199340,0,199340
+visitor-2427,Bhadradri Kothagudem,2,February,2021,163761,0,163761
+visitor-2428,Bhadradri Kothagudem,3,March,2021,83871,0,83871
+visitor-2429,Bhadradri Kothagudem,4,April,2021,38456,0,38456
+visitor-243,Peddapalli,2,February,2014,0,0,0
+visitor-2430,Bhadradri Kothagudem,5,May,2021,9329,0,9329
+visitor-2431,Bhadradri Kothagudem,6,June,2021,20090,0,20090
+visitor-2432,Bhadradri Kothagudem,7,July,2021,63082,0,63082
+visitor-2433,Bhadradri Kothagudem,8,August,2021,70386,0,70386
+visitor-2434,Bhadradri Kothagudem,9,September,2021,88451,0,88451
+visitor-2435,Bhadradri Kothagudem,10,October,2021,104063,0,104063
+visitor-2436,Bhadradri Kothagudem,11,November,2021,84828,0,84828
+visitor-2437,Bhadradri Kothagudem,12,December,2021,105685,0,105685
+visitor-2438,Hanumakonda,1,January,2021,90800,0,90800
+visitor-2439,Hanumakonda,2,February,2021,89900,0,89900
+visitor-244,Peddapalli,3,March,2014,0,0,0
+visitor-2440,Hanumakonda,3,March,2021,91970,80,92050
+visitor-2441,Hanumakonda,4,April,2021,89430,5,89435
+visitor-2442,Hanumakonda,5,May,2021,14510,0,14510
+visitor-2443,Hanumakonda,6,June,2021,10050,0,10050
+visitor-2444,Hanumakonda,7,July,2021,40670,0,40670
+visitor-2445,Hanumakonda,8,August,2021,39220,3,39223
+visitor-2446,Hanumakonda,9,September,2021,42340,5,42345
+visitor-2447,Hanumakonda,10,October,2021,38650,5,38655
+visitor-2448,Hanumakonda,11,November,2021,37910,8,37918
+visitor-2449,Hanumakonda,12,December,2021,38125,6,38131
+visitor-245,Peddapalli,4,April,2014,0,0,0
+visitor-2450,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",1,January,2021,828057,758,828815
+visitor-2451,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",2,February,2021,657955,814,658769
+visitor-2452,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",3,March,2021,589239,294,589533
+visitor-2453,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",4,April,2021,216683,90,216773
+visitor-2454,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",5,May,2021,50064,158,50222
+visitor-2455,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",6,June,2021,205368,79,205447
+visitor-2456,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",7,July,2021,384455,131,384586
+visitor-2457,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",8,August,2021,603815,169,603984
+visitor-2458,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",9,September,2021,533745,343,534088
+visitor-2459,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",10,October,2021,743442,931,744373
+visitor-246,Peddapalli,5,May,2014,0,0,0
+visitor-2460,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",11,November,2021,938466,758,939224
+visitor-2461,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",12,December,2021,1042809,1220,1044029
+visitor-2462,Jagtial,1,January,2021,154626,0,154626
+visitor-2463,Jagtial,2,February,2021,155602,0,155602
+visitor-2464,Jagtial,3,March,2021,303738,0,303738
+visitor-2465,Jagtial,4,April,2021,74401,0,74401
+visitor-2466,Jagtial,5,May,2021,2555,0,2555
+visitor-2467,Jagtial,6,June,2021,43196,0,43196
+visitor-2468,Jagtial,7,July,2021,187220,0,187220
+visitor-2469,Jagtial,8,August,2021,191483,0,191483
+visitor-247,Peddapalli,6,June,2014,0,0,0
+visitor-2470,Jagtial,9,September,2021,169440,0,169440
+visitor-2471,Jagtial,10,October,2021,172570,0,172570
+visitor-2472,Jagtial,11,November,2021,260498,0,260498
+visitor-2473,Jagtial,12,December,2021,255232,0,255232
+visitor-2474,Jangaon,1,January,2021,11545,0,11545
+visitor-2475,Jangaon,2,February,2021,11440,0,11440
+visitor-2476,Jangaon,3,March,2021,11950,0,11950
+visitor-2477,Jangaon,4,April,2021,10340,0,10340
+visitor-2478,Jangaon,5,May,2021,3275,0,3275
+visitor-2479,Jangaon,6,June,2021,2470,0,2470
+visitor-248,Peddapalli,7,July,2014,0,0,0
+visitor-2480,Jangaon,7,July,2021,6580,0,6580
+visitor-2481,Jangaon,8,August,2021,7085,0,7085
+visitor-2482,Jangaon,9,September,2021,7180,0,7180
+visitor-2483,Jangaon,10,October,2021,10360,0,10360
+visitor-2484,Jangaon,11,November,2021,6140,0,6140
+visitor-2485,Jangaon,12,December,2021,6140,0,6140
+visitor-2486,Jayashankar Bhupalpally,1,January,2021,15700,0,15700
+visitor-2487,Jayashankar Bhupalpally,2,February,2021,15800,0,15800
+visitor-2488,Jayashankar Bhupalpally,3,March,2021,16400,0,16400
+visitor-2489,Jayashankar Bhupalpally,4,April,2021,14900,0,14900
+visitor-249,Peddapalli,8,August,2014,0,0,0
+visitor-2490,Jayashankar Bhupalpally,5,May,2021,5600,0,5600
+visitor-2491,Jayashankar Bhupalpally,6,June,2021,4400,0,4400
+visitor-2492,Jayashankar Bhupalpally,7,July,2021,9000,0,9000
+visitor-2493,Jayashankar Bhupalpally,8,August,2021,10500,0,10500
+visitor-2494,Jayashankar Bhupalpally,9,September,2021,10700,0,10700
+visitor-2495,Jayashankar Bhupalpally,10,October,2021,11000,0,11000
+visitor-2496,Jayashankar Bhupalpally,11,November,2021,10500,0,10500
+visitor-2497,Jayashankar Bhupalpally,12,December,2021,10900,0,10900
+visitor-2498,Jogulamba Gadwal,1,January,2021,169350,0,169350
+visitor-2499,Jogulamba Gadwal,2,February,2021,400254,0,400254
+visitor-25,Bhadradri Kothagudem,12,December,2014,326770,0,326770
+visitor-250,Peddapalli,9,September,2014,0,0,0
+visitor-2500,Jogulamba Gadwal,3,March,2021,520014,0,520014
+visitor-2501,Jogulamba Gadwal,4,April,2021,248566,0,248566
+visitor-2502,Jogulamba Gadwal,5,May,2021,990,0,990
+visitor-2503,Jogulamba Gadwal,6,June,2021,39894,0,39894
+visitor-2504,Jogulamba Gadwal,7,July,2021,278769,0,278769
+visitor-2505,Jogulamba Gadwal,8,August,2021,174508,0,174508
+visitor-2506,Jogulamba Gadwal,9,September,2021,154900,0,154900
+visitor-2507,Jogulamba Gadwal,10,October,2021,185052,0,185052
+visitor-2508,Jogulamba Gadwal,11,November,2021,220734,0,220734
+visitor-2509,Jogulamba Gadwal,12,December,2021,229051,0,229051
+visitor-251,Peddapalli,10,October,2014,950,0,950
+visitor-2510,Kamareddy,1,January,2021,43,0,43
+visitor-2511,Kamareddy,2,February,2021,40,0,40
+visitor-2512,Kamareddy,3,March,2021,49,0,49
+visitor-2513,Kamareddy,4,April,2021,26,0,26
+visitor-2514,Kamareddy,5,May,2021,0,0,0
+visitor-2515,Kamareddy,6,June,2021,24,0,24
+visitor-2516,Kamareddy,7,July,2021,41,0,41
+visitor-2517,Kamareddy,8,August,2021,48,0,48
+visitor-2518,Kamareddy,9,September,2021,33,0,33
+visitor-2519,Kamareddy,10,October,2021,40,0,40
+visitor-252,Peddapalli,11,November,2014,1145,0,1145
+visitor-2520,Kamareddy,11,November,2021,42,0,42
+visitor-2521,Kamareddy,12,December,2021,45,0,45
+visitor-2522,Karimnagar,1,January,2021,5965,0,5965
+visitor-2523,Karimnagar,2,February,2021,5670,0,5670
+visitor-2524,Karimnagar,3,March,2021,6800,0,6800
+visitor-2525,Karimnagar,4,April,2021,1924,0,1924
+visitor-2526,Karimnagar,5,May,2021,601,0,601
+visitor-2527,Karimnagar,6,June,2021,450,0,450
+visitor-2528,Karimnagar,7,July,2021,4750,0,4750
+visitor-2529,Karimnagar,8,August,2021,6320,0,6320
+visitor-253,Peddapalli,12,December,2014,1149,0,1149
+visitor-2530,Karimnagar,9,September,2021,5475,0,5475
+visitor-2531,Karimnagar,10,October,2021,4410,0,4410
+visitor-2532,Karimnagar,11,November,2021,3525,0,3525
+visitor-2533,Karimnagar,12,December,2021,3750,0,3750
+visitor-2534,Khammam,1,January,2021,81711,0,81711
+visitor-2535,Khammam,2,February,2021,59065,0,59065
+visitor-2536,Khammam,3,March,2021,47862,0,47862
+visitor-2537,Khammam,4,April,2021,30882,0,30882
+visitor-2538,Khammam,5,May,2021,11240,0,11240
+visitor-2539,Khammam,6,June,2021,12443,0,12443
+visitor-254,Rajanna Sircilla,1,January,2014,0,0,0
+visitor-2540,Khammam,7,July,2021,19400,0,19400
+visitor-2541,Khammam,8,August,2021,18781,0,18781
+visitor-2542,Khammam,9,September,2021,29256,0,29256
+visitor-2543,Khammam,10,October,2021,36965,0,36965
+visitor-2544,Khammam,11,November,2021,45533,0,45533
+visitor-2545,Khammam,12,December,2021,53316,0,53316
+visitor-2546,Kumaram Bheem Asifabad,1,January,2021,410,0,410
+visitor-2547,Kumaram Bheem Asifabad,2,February,2021,466,0,466
+visitor-2548,Kumaram Bheem Asifabad,3,March,2021,491,0,491
+visitor-2549,Kumaram Bheem Asifabad,4,April,2021,349,0,349
+visitor-255,Rajanna Sircilla,2,February,2014,0,0,0
+visitor-2550,Kumaram Bheem Asifabad,5,May,2021,88,0,88
+visitor-2551,Kumaram Bheem Asifabad,6,June,2021,128,0,128
+visitor-2552,Kumaram Bheem Asifabad,7,July,2021,154,0,154
+visitor-2553,Kumaram Bheem Asifabad,8,August,2021,175,0,175
+visitor-2554,Kumaram Bheem Asifabad,9,September,2021,176,0,176
+visitor-2555,Kumaram Bheem Asifabad,10,October,2021,21030,0,21030
+visitor-2556,Kumaram Bheem Asifabad,11,November,2021,371,0,371
+visitor-2557,Kumaram Bheem Asifabad,12,December,2021,587,0,587
+visitor-2558,Mahabubabad,1,January,2021,3060,0,3060
+visitor-2559,Mahabubabad,2,February,2021,3155,0,3155
+visitor-256,Rajanna Sircilla,3,March,2014,0,0,0
+visitor-2560,Mahabubabad,3,March,2021,3320,0,3320
+visitor-2561,Mahabubabad,4,April,2021,3240,0,3240
+visitor-2562,Mahabubabad,5,May,2021,940,0,940
+visitor-2563,Mahabubabad,6,June,2021,880,0,880
+visitor-2564,Mahabubabad,7,July,2021,1970,0,1970
+visitor-2565,Mahabubabad,8,August,2021,3480,0,3480
+visitor-2566,Mahabubabad,9,September,2021,3420,0,3420
+visitor-2567,Mahabubabad,10,October,2021,3505,0,3505
+visitor-2568,Mahabubabad,11,November,2021,3470,0,3470
+visitor-2569,Mahabubabad,12,December,2021,3480,0,3480
+visitor-257,Rajanna Sircilla,4,April,2014,0,0,0
+visitor-2570,Mahabubnagar,1,January,2021,112443,0,112443
+visitor-2571,Mahabubnagar,2,February,2021,653029,0,653029
+visitor-2572,Mahabubnagar,3,March,2021,375235,0,375235
+visitor-2573,Mahabubnagar,4,April,2021,270751,0,270751
+visitor-2574,Mahabubnagar,5,May,2021,5264,0,5264
+visitor-2575,Mahabubnagar,6,June,2021,32923,0,32923
+visitor-2576,Mahabubnagar,7,July,2021,300593,0,300593
+visitor-2577,Mahabubnagar,8,August,2021,299804,0,299804
+visitor-2578,Mahabubnagar,9,September,2021,250520,0,250520
+visitor-2579,Mahabubnagar,10,October,2021,208937,0,208937
+visitor-258,Rajanna Sircilla,5,May,2014,0,0,0
+visitor-2580,Mahabubnagar,11,November,2021,675277,0,675277
+visitor-2581,Mahabubnagar,12,December,2021,205813,0,205813
+visitor-2582,Mancherial,1,January,2021,14998,0,14998
+visitor-2583,Mancherial,2,February,2021,12438,0,12438
+visitor-2584,Mancherial,3,March,2021,7304,0,7304
+visitor-2585,Mancherial,4,April,2021,6000,0,6000
+visitor-2586,Mancherial,5,May,2021,1466,0,1466
+visitor-2587,Mancherial,6,June,2021,1503,0,1503
+visitor-2588,Mancherial,7,July,2021,4134,0,4134
+visitor-2589,Mancherial,8,August,2021,7294,0,7294
+visitor-259,Rajanna Sircilla,6,June,2014,0,0,0
+visitor-2590,Mancherial,9,September,2021,5668,0,5668
+visitor-2591,Mancherial,10,October,2021,5130,0,5130
+visitor-2592,Mancherial,11,November,2021,5988,0,5988
+visitor-2593,Mancherial,12,December,2021,9372,0,9372
+visitor-2594,Medak,1,January,2021,48000,0,48000
+visitor-2595,Medak,2,February,2021,44000,0,44000
+visitor-2596,Medak,3,March,2021,49000,0,49000
+visitor-2597,Medak,4,April,2021,39000,0,39000
+visitor-2598,Medak,5,May,2021,4000,0,4000
+visitor-2599,Medak,6,June,2021,15000,0,15000
+visitor-26,Hyderabad,1,January,2014,1122510,0,1122510
+visitor-260,Rajanna Sircilla,7,July,2014,0,0,0
+visitor-2600,Medak,7,July,2021,16000,0,16000
+visitor-2601,Medak,8,August,2021,33500,0,33500
+visitor-2602,Medak,9,September,2021,15500,0,15500
+visitor-2603,Medak,10,October,2021,17500,0,17500
+visitor-2604,Medak,11,November,2021,20000,0,20000
+visitor-2605,Medak,12,December,2021,16350,0,16350
+visitor-2606,Mulugu,1,January,2021,61800,0,61800
+visitor-2607,Mulugu,2,February,2021,62400,0,62400
+visitor-2608,Mulugu,3,March,2021,65550,15,65565
+visitor-2609,Mulugu,4,April,2021,65650,0,65650
+visitor-261,Rajanna Sircilla,8,August,2014,0,0,0
+visitor-2610,Mulugu,5,May,2021,19850,0,19850
+visitor-2611,Mulugu,6,June,2021,19850,0,19850
+visitor-2612,Mulugu,7,July,2021,36800,0,36800
+visitor-2613,Mulugu,8,August,2021,44050,8,44058
+visitor-2614,Mulugu,9,September,2021,47055,8,47063
+visitor-2615,Mulugu,10,October,2021,41000,10,41010
+visitor-2616,Mulugu,11,November,2021,51060,9,51069
+visitor-2617,Mulugu,12,December,2021,45550,10,45560
+visitor-2618,Nagarkurnool,1,January,2021,88188,0,88188
+visitor-2619,Nagarkurnool,2,February,2021,84801,0,84801
+visitor-262,Rajanna Sircilla,9,September,2014,0,0,0
+visitor-2620,Nagarkurnool,3,March,2021,82629,0,82629
+visitor-2621,Nagarkurnool,4,April,2021,85938,0,85938
+visitor-2622,Nagarkurnool,5,May,2021,900,0,900
+visitor-2623,Nagarkurnool,6,June,2021,31800,0,31800
+visitor-2624,Nagarkurnool,7,July,2021,114690,0,114690
+visitor-2625,Nagarkurnool,8,August,2021,123210,0,123210
+visitor-2626,Nagarkurnool,9,September,2021,104510,0,104510
+visitor-2627,Nagarkurnool,10,October,2021,91559,0,91559
+visitor-2628,Nagarkurnool,11,November,2021,117740,0,117740
+visitor-2629,Nagarkurnool,12,December,2021,111530,0,111530
+visitor-263,Rajanna Sircilla,10,October,2014,534484,0,534484
+visitor-2630,"Nalgonda, Suryapet",1,January,2021,9097,0,9097
+visitor-2631,"Nalgonda, Suryapet",2,February,2021,6126,0,6126
+visitor-2632,"Nalgonda, Suryapet",3,March,2021,5729,0,5729
+visitor-2633,"Nalgonda, Suryapet",4,April,2021,1033,0,1033
+visitor-2634,"Nalgonda, Suryapet",5,May,2021,148,0,148
+visitor-2635,"Nalgonda, Suryapet",6,June,2021,1044,0,1044
+visitor-2636,"Nalgonda, Suryapet",7,July,2021,6744,0,6744
+visitor-2637,"Nalgonda, Suryapet",8,August,2021,7852,0,7852
+visitor-2638,"Nalgonda, Suryapet",9,September,2021,21650,0,21650
+visitor-2639,"Nalgonda, Suryapet",10,October,2021,14431,0,14431
+visitor-264,Rajanna Sircilla,11,November,2014,864077,0,864077
+visitor-2640,"Nalgonda, Suryapet",11,November,2021,7684,0,7684
+visitor-2641,"Nalgonda, Suryapet",12,December,2021,12528,0,12528
+visitor-2642,Narayanpet,1,January,2021,45720,0,45720
+visitor-2643,Narayanpet,2,February,2021,34377,0,34377
+visitor-2644,Narayanpet,3,March,2021,34327,0,34327
+visitor-2645,Narayanpet,4,April,2021,24289,0,24289
+visitor-2646,Narayanpet,5,May,2021,328,0,328
+visitor-2647,Narayanpet,6,June,2021,6010,0,6010
+visitor-2648,Narayanpet,7,July,2021,26950,0,26950
+visitor-2649,Narayanpet,8,August,2021,24200,0,24200
+visitor-265,Rajanna Sircilla,12,December,2014,778240,0,778240
+visitor-2650,Narayanpet,9,September,2021,19500,0,19500
+visitor-2651,Narayanpet,10,October,2021,23700,0,23700
+visitor-2652,Narayanpet,11,November,2021,27400,0,27400
+visitor-2653,Narayanpet,12,December,2021,24250,0,24250
+visitor-2654,Nirmal,1,January,2021,154786,0,154786
+visitor-2655,Nirmal,2,February,2021,225686,0,225686
+visitor-2656,Nirmal,3,March,2021,205287,0,205287
+visitor-2657,Nirmal,4,April,2021,125395,0,125395
+visitor-2658,Nirmal,5,May,2021,25969,0,25969
+visitor-2659,Nirmal,6,June,2021,7048,0,7048
+visitor-266,Ranga Reddy,1,January,2014,0,0,0
+visitor-2660,Nirmal,7,July,2021,125523,0,125523
+visitor-2661,Nirmal,8,August,2021,173301,0,173301
+visitor-2662,Nirmal,9,September,2021,225421,0,225421
+visitor-2663,Nirmal,10,October,2021,265203,0,265203
+visitor-2664,Nirmal,11,November,2021,228200,0,228200
+visitor-2665,Nirmal,12,December,2021,195660,0,195660
+visitor-2666,Nizamabad,1,January,2021,9450,0,9450
+visitor-2667,Nizamabad,2,February,2021,50500,0,50500
+visitor-2668,Nizamabad,3,March,2021,61080,0,61080
+visitor-2669,Nizamabad,4,April,2021,30430,0,30430
+visitor-267,Ranga Reddy,2,February,2014,0,0,0
+visitor-2670,Nizamabad,5,May,2021,0,0,0
+visitor-2671,Nizamabad,6,June,2021,2020,0,2020
+visitor-2672,Nizamabad,7,July,2021,14050,0,14050
+visitor-2673,Nizamabad,8,August,2021,19580,0,19580
+visitor-2674,Nizamabad,9,September,2021,12580,0,12580
+visitor-2675,Nizamabad,10,October,2021,13600,0,13600
+visitor-2676,Nizamabad,11,November,2021,19090,0,19090
+visitor-2677,Nizamabad,12,December,2021,10120,0,10120
+visitor-2678,Peddapalli,1,January,2021,1150,0,1150
+visitor-2679,Peddapalli,2,February,2021,1245,0,1245
+visitor-268,Ranga Reddy,3,March,2014,0,0,0
+visitor-2680,Peddapalli,3,March,2021,2610,0,2610
+visitor-2681,Peddapalli,4,April,2021,3405,0,3405
+visitor-2682,Peddapalli,5,May,2021,355,0,355
+visitor-2683,Peddapalli,6,June,2021,420,0,420
+visitor-2684,Peddapalli,7,July,2021,550,0,550
+visitor-2685,Peddapalli,8,August,2021,779,0,779
+visitor-2686,Peddapalli,9,September,2021,660,0,660
+visitor-2687,Peddapalli,10,October,2021,650,0,650
+visitor-2688,Peddapalli,11,November,2021,1630,0,1630
+visitor-2689,Peddapalli,12,December,2021,1840,0,1840
+visitor-269,Ranga Reddy,4,April,2014,0,0,0
+visitor-2690,Rajanna Sircilla,1,January,2021,656423,0,656423
+visitor-2691,Rajanna Sircilla,2,February,2021,571526,0,571526
+visitor-2692,Rajanna Sircilla,3,March,2021,868764,0,868764
+visitor-2693,Rajanna Sircilla,4,April,2021,198252,0,198252
+visitor-2694,Rajanna Sircilla,5,May,2021,23978,0,23978
+visitor-2695,Rajanna Sircilla,6,June,2021,125913,0,125913
+visitor-2696,Rajanna Sircilla,7,July,2021,290935,0,290935
+visitor-2697,Rajanna Sircilla,8,August,2021,518772,0,518772
+visitor-2698,Rajanna Sircilla,9,September,2021,388599,0,388599
+visitor-2699,Rajanna Sircilla,10,October,2021,355757,0,355757
+visitor-27,Hyderabad,2,February,2014,778748,0,778748
+visitor-270,Ranga Reddy,5,May,2014,0,0,0
+visitor-2700,Rajanna Sircilla,11,November,2021,567535,0,567535
+visitor-2701,Rajanna Sircilla,12,December,2021,606628,0,606628
+visitor-2702,Sangareddy,1,January,2021,112500,0,112500
+visitor-2703,Sangareddy,2,February,2021,103200,0,103200
+visitor-2704,Sangareddy,3,March,2021,274500,0,274500
+visitor-2705,Sangareddy,4,April,2021,117300,0,117300
+visitor-2706,Sangareddy,5,May,2021,15000,0,15000
+visitor-2707,Sangareddy,6,June,2021,26500,0,26500
+visitor-2708,Sangareddy,7,July,2021,33000,0,33000
+visitor-2709,Sangareddy,8,August,2021,64900,0,64900
+visitor-271,Ranga Reddy,6,June,2014,0,0,0
+visitor-2710,Sangareddy,9,September,2021,47700,0,47700
+visitor-2711,Sangareddy,10,October,2021,50000,0,50000
+visitor-2712,Sangareddy,11,November,2021,56150,0,56150
+visitor-2713,Sangareddy,12,December,2021,38750,0,38750
+visitor-2714,Siddipet,1,January,2021,173749,0,173749
+visitor-2715,Siddipet,2,February,2021,107247,0,107247
+visitor-2716,Siddipet,3,March,2021,70337,0,70337
+visitor-2717,Siddipet,4,April,2021,61534,0,61534
+visitor-2718,Siddipet,5,May,2021,9000,0,9000
+visitor-2719,Siddipet,6,June,2021,37700,0,37700
+visitor-272,Ranga Reddy,7,July,2014,0,0,0
+visitor-2720,Siddipet,7,July,2021,37000,0,37000
+visitor-2721,Siddipet,8,August,2021,70000,0,70000
+visitor-2722,Siddipet,9,September,2021,59000,0,59000
+visitor-2723,Siddipet,10,October,2021,90000,0,90000
+visitor-2724,Siddipet,11,November,2021,93500,0,93500
+visitor-2725,Siddipet,12,December,2021,90350,0,90350
+visitor-2726,Wanaparthy,1,January,2021,22482,0,22482
+visitor-2727,Wanaparthy,2,February,2021,22524,0,22524
+visitor-2728,Wanaparthy,3,March,2021,19672,0,19672
+visitor-2729,Wanaparthy,4,April,2021,25212,0,25212
+visitor-273,Ranga Reddy,8,August,2014,0,0,0
+visitor-2730,Wanaparthy,5,May,2021,295,0,295
+visitor-2731,Wanaparthy,6,June,2021,600,0,600
+visitor-2732,Wanaparthy,7,July,2021,29300,0,29300
+visitor-2733,Wanaparthy,8,August,2021,33300,0,33300
+visitor-2734,Wanaparthy,9,September,2021,22800,0,22800
+visitor-2735,Wanaparthy,10,October,2021,23700,0,23700
+visitor-2736,Wanaparthy,11,November,2021,29330,0,29330
+visitor-2737,Wanaparthy,12,December,2021,28100,0,28100
+visitor-2738,Warangal,1,January,2021,7450,0,7450
+visitor-2739,Warangal,2,February,2021,7470,0,7470
+visitor-274,Ranga Reddy,9,September,2014,0,0,0
+visitor-2740,Warangal,3,March,2021,7500,0,7500
+visitor-2741,Warangal,4,April,2021,7510,0,7510
+visitor-2742,Warangal,5,May,2021,560,0,560
+visitor-2743,Warangal,6,June,2021,550,0,550
+visitor-2744,Warangal,7,July,2021,3400,0,3400
+visitor-2745,Warangal,8,August,2021,5610,0,5610
+visitor-2746,Warangal,9,September,2021,5610,0,5610
+visitor-2747,Warangal,10,October,2021,5820,0,5820
+visitor-2748,Warangal,11,November,2021,6230,0,6230
+visitor-2749,Warangal,12,December,2021,5690,0,5690
+visitor-275,Ranga Reddy,10,October,2014,0,0,0
+visitor-2750,Yadadri Bhongir,1,January,2021,281131,0,281131
+visitor-2751,Yadadri Bhongir,2,February,2021,265238,0,265238
+visitor-2752,Yadadri Bhongir,3,March,2021,261920,0,261920
+visitor-2753,Yadadri Bhongir,4,April,2021,621,0,621
+visitor-2754,Yadadri Bhongir,5,May,2021,275,0,275
+visitor-2755,Yadadri Bhongir,6,June,2021,153020,0,153020
+visitor-2756,Yadadri Bhongir,7,July,2021,312343,0,312343
+visitor-2757,Yadadri Bhongir,8,August,2021,269850,0,269850
+visitor-2758,Yadadri Bhongir,9,September,2021,169532,0,169532
+visitor-2759,Yadadri Bhongir,10,October,2021,170613,0,170613
+visitor-276,Ranga Reddy,11,November,2014,0,0,0
+visitor-2760,Yadadri Bhongir,11,November,2021,242245,0,242245
+visitor-2761,Yadadri Bhongir,12,December,2021,231306,0,231306
+visitor-2762,Adilabad,1,January,2022,28423,0,28423
+visitor-2763,Adilabad,2,February,2022,378787,2,378789
+visitor-2764,Adilabad,3,March,2022,15469,0,15469
+visitor-2765,Adilabad,4,April,2022,10266,0,10266
+visitor-2766,Adilabad,5,May,2022,11670,0,11670
+visitor-2767,Adilabad,6,June,2022,10704,0,10704
+visitor-2768,Adilabad,7,July,2022,16035,0,16035
+visitor-2769,Adilabad,8,August,2022,20472,0,20472
+visitor-277,Ranga Reddy,12,December,2014,0,0,0
+visitor-2770,Adilabad,9,September,2022,21352,0,21352
+visitor-2771,Adilabad,10,October,2022,22668,0,22668
+visitor-2772,Adilabad,11,November,2022,66152,0,66152
+visitor-2773,Adilabad,12,December,2022,25972,0,25972
+visitor-2774,Bhadradri Kothagudem,1,January,2022,84901,0,84901
+visitor-2775,Bhadradri Kothagudem,2,February,2022,108037,0,108037
+visitor-2776,Bhadradri Kothagudem,3,March,2022,177140,0,177140
+visitor-2777,Bhadradri Kothagudem,4,April,2022,180027,0,180027
+visitor-2778,Bhadradri Kothagudem,5,May,2022,179018,0,179018
+visitor-2779,Bhadradri Kothagudem,6,June,2022,167787,0,167787
+visitor-278,Sangareddy,1,January,2014,0,0,0
+visitor-2780,Bhadradri Kothagudem,7,July,2022,95266,0,95266
+visitor-2781,Bhadradri Kothagudem,8,August,2022,76299,0,76299
+visitor-2782,Bhadradri Kothagudem,9,September,2022,87413,0,87413
+visitor-2783,Bhadradri Kothagudem,10,October,2022,101592,0,101592
+visitor-2784,Bhadradri Kothagudem,11,November,2022,85953,0,85953
+visitor-2785,Bhadradri Kothagudem,12,December,2022,115658,0,115658
+visitor-2786,Hanumakonda,1,January,2022,42135,8,42143
+visitor-2787,Hanumakonda,2,February,2022,55408,8,55416
+visitor-2788,Hanumakonda,3,March,2022,44427,8,44435
+visitor-2789,Hanumakonda,4,April,2022,44010,8,44018
+visitor-279,Sangareddy,2,February,2014,0,0,0
+visitor-2790,Hanumakonda,5,May,2022,44785,7,44792
+visitor-2791,Hanumakonda,6,June,2022,44169,7,44176
+visitor-2792,Hanumakonda,7,July,2022,42452,9,42461
+visitor-2793,Hanumakonda,8,August,2022,33640,0,33640
+visitor-2794,Hanumakonda,9,September,2022,34774,0,34774
+visitor-2795,Hanumakonda,10,October,2022,35347,9,35356
+visitor-2796,Hanumakonda,11,November,2022,35198,0,35198
+visitor-2797,Hanumakonda,12,December,2022,36985,0,36985
+visitor-2798,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",1,January,2022,956428,575,957003
+visitor-2799,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",2,February,2022,733747,592,734339
+visitor-28,Hyderabad,3,March,2014,1017794,0,1017794
+visitor-280,Sangareddy,3,March,2014,0,0,0
+visitor-2800,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",3,March,2022,818866,1907,820773
+visitor-2801,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",4,April,2022,776520,4959,781479
+visitor-2802,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",5,May,2022,1460904,7841,1468745
+visitor-2803,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",6,June,2022,1435151,5241,1440392
+visitor-2804,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",7,July,2022,816814,6972,823786
+visitor-2805,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",8,August,2022,933522,13256,946778
+visitor-2806,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",9,September,2022,1005418,7828,1013246
+visitor-2807,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",10,October,2022,1724362,5206,1729568
+visitor-2808,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",11,November,2022,1289350,4524,1293874
+visitor-2809,"Hyderabad, Ranga Reddy, Medchal, Vikarabad",12,December,2022,1622676,9275,1631951
+visitor-281,Sangareddy,4,April,2014,0,0,0
+visitor-2810,Jagtial,1,January,2022,321355,0,321355
+visitor-2811,Jagtial,2,February,2022,221928,0,221928
+visitor-2812,Jagtial,3,March,2022,369104,0,369104
+visitor-2813,Jagtial,4,April,2022,260082,0,260082
+visitor-2814,Jagtial,5,May,2022,209660,0,209660
+visitor-2815,Jagtial,6,June,2022,197988,0,197988
+visitor-2816,Jagtial,7,July,2022,95511,0,95511
+visitor-2817,Jagtial,8,August,2022,170922,0,170922
+visitor-2818,Jagtial,9,September,2022,97975,0,97975
+visitor-2819,Jagtial,10,October,2022,122002,0,122002
+visitor-282,Sangareddy,5,May,2014,0,0,0
+visitor-2820,Jagtial,11,November,2022,169844,0,169844
+visitor-2821,Jagtial,12,December,2022,170504,0,170504
+visitor-2822,Jangaon,1,January,2022,6280,0,6280
+visitor-2823,Jangaon,2,February,2022,6610,0,6610
+visitor-2824,Jangaon,3,March,2022,6040,0,6040
+visitor-2825,Jangaon,4,April,2022,6100,0,6100
+visitor-2826,Jangaon,5,May,2022,6350,0,6350
+visitor-2827,Jangaon,6,June,2022,6180,0,6180
+visitor-2828,Jangaon,7,July,2022,5935,0,5935
+visitor-2829,Jangaon,8,August,2022,5890,0,5890
+visitor-283,Sangareddy,6,June,2014,0,0,0
+visitor-2830,Jangaon,9,September,2022,5875,0,5875
+visitor-2831,Jangaon,10,October,2022,5675,0,5675
+visitor-2832,Jangaon,11,November,2022,5425,0,5425
+visitor-2833,Jangaon,12,December,2022,5275,0,5275
+visitor-2834,Jayashankar Bhupalpally,1,January,2022,11091,0,11091
+visitor-2835,Jayashankar Bhupalpally,2,February,2022,10939,0,10939
+visitor-2836,Jayashankar Bhupalpally,3,March,2022,12166,0,12166
+visitor-2837,Jayashankar Bhupalpally,4,April,2022,12600,0,12600
+visitor-2838,Jayashankar Bhupalpally,5,May,2022,12713,0,12713
+visitor-2839,Jayashankar Bhupalpally,6,June,2022,12792,0,12792
+visitor-284,Sangareddy,7,July,2014,0,0,0
+visitor-2840,Jayashankar Bhupalpally,7,July,2022,13668,0,13668
+visitor-2841,Jayashankar Bhupalpally,8,August,2022,12500,0,12500
+visitor-2842,Jayashankar Bhupalpally,9,September,2022,12414,0,12414
+visitor-2843,Jayashankar Bhupalpally,10,October,2022,12209,0,12209
+visitor-2844,Jayashankar Bhupalpally,11,November,2022,13838,0,13838
+visitor-2845,Jayashankar Bhupalpally,12,December,2022,12704,0,12704
+visitor-2846,Jogulamba Gadwal,1,January,2022,159487,0,159487
+visitor-2847,Jogulamba Gadwal,2,February,2022,192389,0,192389
+visitor-2848,Jogulamba Gadwal,3,March,2022,171090,0,171090
+visitor-2849,Jogulamba Gadwal,4,April,2022,131186,0,131186
+visitor-285,Sangareddy,8,August,2014,0,0,0
+visitor-2850,Jogulamba Gadwal,5,May,2022,131310,0,131310
+visitor-2851,Jogulamba Gadwal,6,June,2022,98046,0,98046
+visitor-2852,Jogulamba Gadwal,7,July,2022,97097,0,97097
+visitor-2853,Jogulamba Gadwal,8,August,2022,103708,0,103708
+visitor-2854,Jogulamba Gadwal,9,September,2022,102049,0,102049
+visitor-2855,Jogulamba Gadwal,10,October,2022,128895,0,128895
+visitor-2856,Jogulamba Gadwal,11,November,2022,133993,0,133993
+visitor-2857,Jogulamba Gadwal,12,December,2022,124264,0,124264
+visitor-2858,Kamareddy,1,January,2022,31,0,31
+visitor-2859,Kamareddy,2,February,2022,41,0,41
+visitor-286,Sangareddy,9,September,2014,0,0,0
+visitor-2860,Kamareddy,3,March,2022,35,0,35
+visitor-2861,Kamareddy,4,April,2022,42,0,42
+visitor-2862,Kamareddy,5,May,2022,30,0,30
+visitor-2863,Kamareddy,6,June,2022,32,0,32
+visitor-2864,Kamareddy,7,July,2022,33,0,33
+visitor-2865,Kamareddy,8,August,2022,50,0,50
+visitor-2866,Kamareddy,9,September,2022,50,0,50
+visitor-2867,Kamareddy,10,October,2022,52,0,52
+visitor-2868,Kamareddy,11,November,2022,51,0,51
+visitor-2869,Kamareddy,12,December,2022,48,0,48
+visitor-287,Sangareddy,10,October,2014,274000,0,274000
+visitor-2870,Karimnagar,1,January,2022,5011,0,5011
+visitor-2871,Karimnagar,2,February,2022,4564,0,4564
+visitor-2872,Karimnagar,3,March,2022,5979,0,5979
+visitor-2873,Karimnagar,4,April,2022,2259,0,2259
+visitor-2874,Karimnagar,5,May,2022,4620,0,4620
+visitor-2875,Karimnagar,6,June,2022,3175,0,3175
+visitor-2876,Karimnagar,7,July,2022,5235,0,5235
+visitor-2877,Karimnagar,8,August,2022,3620,0,3620
+visitor-2878,Karimnagar,9,September,2022,5095,0,5095
+visitor-2879,Karimnagar,10,October,2022,5625,0,5625
+visitor-288,Sangareddy,11,November,2014,349000,0,349000
+visitor-2880,Karimnagar,11,November,2022,6115,0,6115
+visitor-2881,Karimnagar,12,December,2022,7440,0,7440
+visitor-2882,Khammam,1,January,2022,38645,0,38645
+visitor-2883,Khammam,2,February,2022,62355,0,62355
+visitor-2884,Khammam,3,March,2022,42502,0,42502
+visitor-2885,Khammam,4,April,2022,53897,0,53897
+visitor-2886,Khammam,5,May,2022,66404,0,66404
+visitor-2887,Khammam,6,June,2022,68590,0,68590
+visitor-2888,Khammam,7,July,2022,44448,0,44448
+visitor-2889,Khammam,8,August,2022,27651,0,27651
+visitor-289,Sangareddy,12,December,2014,155000,0,155000
+visitor-2890,Khammam,9,September,2022,31088,0,31088
+visitor-2891,Khammam,10,October,2022,39455,0,39455
+visitor-2892,Khammam,11,November,2022,42806,0,42806
+visitor-2893,Khammam,12,December,2022,56856,0,56856
+visitor-2894,Kumaram Bheem Asifabad,1,January,2022,619,0,619
+visitor-2895,Kumaram Bheem Asifabad,2,February,2022,679,0,679
+visitor-2896,Kumaram Bheem Asifabad,3,March,2022,689,0,689
+visitor-2897,Kumaram Bheem Asifabad,4,April,2022,397,0,397
+visitor-2898,Kumaram Bheem Asifabad,5,May,2022,549,0,549
+visitor-2899,Kumaram Bheem Asifabad,6,June,2022,684,0,684
+visitor-29,Hyderabad,4,April,2014,1127738,0,1127738
+visitor-290,Siddipet,1,January,2014,0,0,0
+visitor-2900,Kumaram Bheem Asifabad,7,July,2022,587,0,587
+visitor-2901,Kumaram Bheem Asifabad,8,August,2022,642,0,642
+visitor-2902,Kumaram Bheem Asifabad,9,September,2022,813,0,813
+visitor-2903,Kumaram Bheem Asifabad,10,October,2022,802,0,802
+visitor-2904,Kumaram Bheem Asifabad,11,November,2022,1031,0,1031
+visitor-2905,Kumaram Bheem Asifabad,12,December,2022,1213,0,1213
+visitor-2906,Mahabubabad,1,January,2022,3410,0,3410
+visitor-2907,Mahabubabad,2,February,2022,3370,0,3370
+visitor-2908,Mahabubabad,3,March,2022,3380,0,3380
+visitor-2909,Mahabubabad,4,April,2022,3550,0,3550
+visitor-291,Siddipet,2,February,2014,0,0,0
+visitor-2910,Mahabubabad,5,May,2022,3625,0,3625
+visitor-2911,Mahabubabad,6,June,2022,3415,0,3415
+visitor-2912,Mahabubabad,7,July,2022,3180,0,3180
+visitor-2913,Mahabubabad,8,August,2022,3270,0,3270
+visitor-2914,Mahabubabad,9,September,2022,3310,0,3310
+visitor-2915,Mahabubabad,10,October,2022,3240,0,3240
+visitor-2916,Mahabubabad,11,November,2022,3250,0,3250
+visitor-2917,Mahabubabad,12,December,2022,3180,0,3180
+visitor-2918,Mahabubnagar,1,January,2022,269141,0,269141
+visitor-2919,Mahabubnagar,2,February,2022,490326,0,490326
+visitor-292,Siddipet,3,March,2014,0,0,0
+visitor-2920,Mahabubnagar,3,March,2022,388498,0,388498
+visitor-2921,Mahabubnagar,4,April,2022,267529,0,267529
+visitor-2922,Mahabubnagar,5,May,2022,230417,0,230417
+visitor-2923,Mahabubnagar,6,June,2022,191442,0,191442
+visitor-2924,Mahabubnagar,7,July,2022,227062,0,227062
+visitor-2925,Mahabubnagar,8,August,2022,235700,0,235700
+visitor-2926,Mahabubnagar,9,September,2022,225500,0,225500
+visitor-2927,Mahabubnagar,10,October,2022,221400,0,221400
+visitor-2928,Mahabubnagar,11,November,2022,270200,0,270200
+visitor-2929,Mahabubnagar,12,December,2022,203200,0,203200
+visitor-293,Siddipet,4,April,2014,0,0,0
+visitor-2930,Mancherial,1,January,2022,9540,0,9540
+visitor-2931,Mancherial,2,February,2022,11210,0,11210
+visitor-2932,Mancherial,3,March,2022,10089,0,10089
+visitor-2933,Mancherial,4,April,2022,7847,0,7847
+visitor-2934,Mancherial,5,May,2022,9538,0,9538
+visitor-2935,Mancherial,6,June,2022,10244,0,10244
+visitor-2936,Mancherial,7,July,2022,11763,0,11763
+visitor-2937,Mancherial,8,August,2022,10255,0,10255
+visitor-2938,Mancherial,9,September,2022,10855,0,10855
+visitor-2939,Mancherial,10,October,2022,12198,0,12198
+visitor-294,Siddipet,5,May,2014,0,0,0
+visitor-2940,Mancherial,11,November,2022,11550,0,11550
+visitor-2941,Mancherial,12,December,2022,12346,0,12346
+visitor-2942,Medak,1,January,2022,12232,0,12232
+visitor-2943,Medak,2,February,2022,17705,0,17705
+visitor-2944,Medak,3,March,2022,1500322,0,1500322
+visitor-2945,Medak,4,April,2022,70295,0,70295
+visitor-2946,Medak,5,May,2022,80288,0,80288
+visitor-2947,Medak,6,June,2022,45000,0,45000
+visitor-2948,Medak,7,July,2022,35488,0,35488
+visitor-2949,Medak,8,August,2022,30575,0,30575
+visitor-295,Siddipet,6,June,2014,0,0,0
+visitor-2950,Medak,9,September,2022,31773,0,31773
+visitor-2951,Medak,10,October,2022,45262,0,45262
+visitor-2952,Medak,11,November,2022,50234,0,50234
+visitor-2953,Medak,12,December,2022,42236,0,42236
+visitor-2954,Mulugu,1,January,2022,2547050,10,2547060
+visitor-2955,Mulugu,2,February,2022,8049800,8,8049808
+visitor-2956,Mulugu,3,March,2022,47500,9,47509
+visitor-2957,Mulugu,4,April,2022,48502,8,48510
+visitor-2958,Mulugu,5,May,2022,47342,8,47350
+visitor-2959,Mulugu,6,June,2022,47332,8,47340
+visitor-296,Siddipet,7,July,2014,0,0,0
+visitor-2960,Mulugu,7,July,2022,48355,8,48363
+visitor-2961,Mulugu,8,August,2022,50064,10,50074
+visitor-2962,Mulugu,9,September,2022,50503,10,50513
+visitor-2963,Mulugu,10,October,2022,51654,11,51665
+visitor-2964,Mulugu,11,November,2022,50273,10,50283
+visitor-2965,Mulugu,12,December,2022,49398,10,49408
+visitor-2966,Nagarkurnool,1,January,2022,198660,0,198660
+visitor-2967,Nagarkurnool,2,February,2022,128680,0,128680
+visitor-2968,Nagarkurnool,3,March,2022,147400,0,147400
+visitor-2969,Nagarkurnool,4,April,2022,188600,0,188600
+visitor-297,Siddipet,8,August,2014,0,0,0
+visitor-2970,Nagarkurnool,5,May,2022,131000,0,131000
+visitor-2971,Nagarkurnool,6,June,2022,101350,0,101350
+visitor-2972,Nagarkurnool,7,July,2022,116400,0,116400
+visitor-2973,Nagarkurnool,8,August,2022,126500,0,126500
+visitor-2974,Nagarkurnool,9,September,2022,124000,0,124000
+visitor-2975,Nagarkurnool,10,October,2022,136400,0,136400
+visitor-2976,Nagarkurnool,11,November,2022,139250,0,139250
+visitor-2977,Nagarkurnool,12,December,2022,140000,0,140000
+visitor-2978,"Nalgonda, Suryapet",1,January,2022,18165,0,18165
+visitor-2979,"Nalgonda, Suryapet",2,February,2022,12694,0,12694
+visitor-298,Siddipet,9,September,2014,0,0,0
+visitor-2980,"Nalgonda, Suryapet",3,March,2022,11565,0,11565
+visitor-2981,"Nalgonda, Suryapet",4,April,2022,8922,0,8922
+visitor-2982,"Nalgonda, Suryapet",5,May,2022,12508,0,12508
+visitor-2983,"Nalgonda, Suryapet",6,June,2022,17231,0,17231
+visitor-2984,"Nalgonda, Suryapet",7,July,2022,21554,0,21554
+visitor-2985,"Nalgonda, Suryapet",8,August,2022,30041,0,30041
+visitor-2986,"Nalgonda, Suryapet",9,September,2022,22875,0,22875
+visitor-2987,"Nalgonda, Suryapet",10,October,2022,31877,0,31877
+visitor-2988,"Nalgonda, Suryapet",11,November,2022,17501,0,17501
+visitor-2989,"Nalgonda, Suryapet",12,December,2022,20344,0,20344
+visitor-299,Siddipet,10,October,2014,123500,0,123500
+visitor-2990,Narayanpet,1,January,2022,23800,0,23800
+visitor-2991,Narayanpet,2,February,2022,99700,0,99700
+visitor-2992,Narayanpet,3,March,2022,130000,0,130000
+visitor-2993,Narayanpet,4,April,2022,170500,0,170500
+visitor-2994,Narayanpet,5,May,2022,15600,0,15600
+visitor-2995,Narayanpet,6,June,2022,11200,0,11200
+visitor-2996,Narayanpet,7,July,2022,12400,0,12400
+visitor-2997,Narayanpet,8,August,2022,11900,0,11900
+visitor-2998,Narayanpet,9,September,2022,10800,0,10800
+visitor-2999,Narayanpet,10,October,2022,9400,0,9400
+visitor-3,Adilabad,2,February,2014,937820,6,937826
+visitor-30,Hyderabad,5,May,2014,1287181,0,1287181
+visitor-300,Siddipet,11,November,2014,154400,0,154400
+visitor-3000,Narayanpet,11,November,2022,11150,0,11150
+visitor-3001,Narayanpet,12,December,2022,15750,0,15750
+visitor-3002,Nirmal,1,January,2022,230377,0,230377
+visitor-3003,Nirmal,2,February,2022,278184,0,278184
+visitor-3004,Nirmal,3,March,2022,334135,0,334135
+visitor-3005,Nirmal,4,April,2022,275087,0,275087
+visitor-3006,Nirmal,5,May,2022,302772,0,302772
+visitor-3007,Nirmal,6,June,2022,389714,0,389714
+visitor-3008,Nirmal,7,July,2022,333767,0,333767
+visitor-3009,Nirmal,8,August,2022,344930,0,344930
+visitor-301,Siddipet,12,December,2014,80500,0,80500
+visitor-3010,Nirmal,9,September,2022,318387,0,318387
+visitor-3011,Nirmal,10,October,2022,325830,0,325830
+visitor-3012,Nirmal,11,November,2022,408666,0,408666
+visitor-3013,Nirmal,12,December,2022,363179,0,363179
+visitor-3014,Nizamabad,1,January,2022,12881,0,12881
+visitor-3015,Nizamabad,2,February,2022,75753,0,75753
+visitor-3016,Nizamabad,3,March,2022,106250,0,106250
+visitor-3017,Nizamabad,4,April,2022,10875,0,10875
+visitor-3018,Nizamabad,5,May,2022,17259,2,17261
+visitor-3019,Nizamabad,6,June,2022,16640,0,16640
+visitor-302,Suryapet,1,January,2014,0,0,0
+visitor-3020,Nizamabad,7,July,2022,11758,0,11758
+visitor-3021,Nizamabad,8,August,2022,19056,0,19056
+visitor-3022,Nizamabad,9,September,2022,16124,0,16124
+visitor-3023,Nizamabad,10,October,2022,28465,0,28465
+visitor-3024,Nizamabad,11,November,2022,43667,0,43667
+visitor-3025,Nizamabad,12,December,2022,38483,0,38483
+visitor-3026,Peddapalli,1,January,2022,1635,0,1635
+visitor-3027,Peddapalli,2,February,2022,1675,0,1675
+visitor-3028,Peddapalli,3,March,2022,478,0,478
+visitor-3029,Peddapalli,4,April,2022,516,0,516
+visitor-303,Suryapet,2,February,2014,0,0,0
+visitor-3030,Peddapalli,5,May,2022,1750,0,1750
+visitor-3031,Peddapalli,6,June,2022,620,0,620
+visitor-3032,Peddapalli,7,July,2022,1550,0,1550
+visitor-3033,Peddapalli,8,August,2022,750,0,750
+visitor-3034,Peddapalli,9,September,2022,765,0,765
+visitor-3035,Peddapalli,10,October,2022,1835,0,1835
+visitor-3036,Peddapalli,11,November,2022,2185,0,2185
+visitor-3037,Peddapalli,12,December,2022,920,0,920
+visitor-3038,Rajanna Sircilla,1,January,2022,685642,0,685642
+visitor-3039,Rajanna Sircilla,2,February,2022,622385,0,622385
+visitor-304,Suryapet,3,March,2014,0,0,0
+visitor-3040,Rajanna Sircilla,3,March,2022,544400,0,544400
+visitor-3041,Rajanna Sircilla,4,April,2022,472924,0,472924
+visitor-3042,Rajanna Sircilla,5,May,2022,559320,0,559320
+visitor-3043,Rajanna Sircilla,6,June,2022,538663,0,538663
+visitor-3044,Rajanna Sircilla,7,July,2022,217276,0,217276
+visitor-3045,Rajanna Sircilla,8,August,2022,476608,0,476608
+visitor-3046,Rajanna Sircilla,9,September,2022,285048,0,285048
+visitor-3047,Rajanna Sircilla,10,October,2022,316687,0,316687
+visitor-3048,Rajanna Sircilla,11,November,2022,390875,0,390875
+visitor-3049,Rajanna Sircilla,12,December,2022,394472,0,394472
+visitor-305,Suryapet,4,April,2014,0,0,0
+visitor-3050,Sangareddy,1,January,2022,115988,0,115988
+visitor-3051,Sangareddy,2,February,2022,130632,0,130632
+visitor-3052,Sangareddy,3,March,2022,417000,0,417000
+visitor-3053,Sangareddy,4,April,2022,72000,0,72000
+visitor-3054,Sangareddy,5,May,2022,82500,0,82500
+visitor-3055,Sangareddy,6,June,2022,81000,0,81000
+visitor-3056,Sangareddy,7,July,2022,85000,0,85000
+visitor-3057,Sangareddy,8,August,2022,160000,0,160000
+visitor-3058,Sangareddy,9,September,2022,129000,0,129000
+visitor-3059,Sangareddy,10,October,2022,151000,0,151000
+visitor-306,Suryapet,5,May,2014,0,0,0
+visitor-3060,Sangareddy,11,November,2022,180205,0,180205
+visitor-3061,Sangareddy,12,December,2022,160854,0,160854
+visitor-3062,Siddipet,1,January,2022,161000,0,161000
+visitor-3063,Siddipet,2,February,2022,222250,0,222250
+visitor-3064,Siddipet,3,March,2022,108750,0,108750
+visitor-3065,Siddipet,4,April,2022,114311,0,114311
+visitor-3066,Siddipet,5,May,2022,144239,0,144239
+visitor-3067,Siddipet,6,June,2022,104583,0,104583
+visitor-3068,Siddipet,7,July,2022,59832,0,59832
+visitor-3069,Siddipet,8,August,2022,106635,0,106635
+visitor-307,Suryapet,6,June,2014,0,0,0
+visitor-3070,Siddipet,9,September,2022,67500,0,67500
+visitor-3071,Siddipet,10,October,2022,78009,0,78009
+visitor-3072,Siddipet,11,November,2022,136709,0,136709
+visitor-3073,Siddipet,12,December,2022,113370,0,113370
+visitor-3074,Wanaparthy,1,January,2022,30000,0,30000
+visitor-3075,Wanaparthy,2,February,2022,19000,0,19000
+visitor-3076,Wanaparthy,3,March,2022,21000,0,21000
+visitor-3077,Wanaparthy,4,April,2022,22250,0,22250
+visitor-3078,Wanaparthy,5,May,2022,17000,0,17000
+visitor-3079,Wanaparthy,6,June,2022,12200,0,12200
+visitor-308,Suryapet,7,July,2014,0,0,0
+visitor-3080,Wanaparthy,7,July,2022,13200,0,13200
+visitor-3081,Wanaparthy,8,August,2022,15700,0,15700
+visitor-3082,Wanaparthy,9,September,2022,13000,0,13000
+visitor-3083,Wanaparthy,10,October,2022,12000,0,12000
+visitor-3084,Wanaparthy,11,November,2022,12600,0,12600
+visitor-3085,Wanaparthy,12,December,2022,12000,0,12000
+visitor-3086,Warangal (Rural),1,January,2022,5810,0,5810
+visitor-3087,Warangal (Rural),2,February,2022,5543,0,5543
+visitor-3088,Warangal (Rural),3,March,2022,5650,0,5650
+visitor-3089,Warangal (Rural),4,April,2022,6626,0,6626
+visitor-309,Suryapet,8,August,2014,0,0,0
+visitor-3090,Warangal (Rural),5,May,2022,6500,0,6500
+visitor-3091,Warangal (Rural),6,June,2022,6459,0,6459
+visitor-3092,Warangal (Rural),7,July,2022,7285,0,7285
+visitor-3093,Warangal (Rural),8,August,2022,15724,11,15735
+visitor-3094,Warangal (Rural),9,September,2022,14681,13,14694
+visitor-3095,Warangal (Rural),10,October,2022,14476,0,14476
+visitor-3096,Warangal (Rural),11,November,2022,14631,12,14643
+visitor-3097,Warangal (Rural),12,December,2022,14550,11,14561
+visitor-3098,Yadadri Bhongir,1,January,2022,550000,0,550000
+visitor-3099,Yadadri Bhongir,2,February,2022,500000,0,500000
+visitor-31,Hyderabad,6,June,2014,12032661,0,12032661
+visitor-310,Suryapet,9,September,2014,0,0,0
+visitor-3100,Yadadri Bhongir,3,March,2022,600000,0,600000
+visitor-3101,Yadadri Bhongir,4,April,2022,651276,0,651276
+visitor-3102,Yadadri Bhongir,5,May,2022,801312,0,801312
+visitor-3103,Yadadri Bhongir,6,June,2022,762672,0,762672
+visitor-3104,Yadadri Bhongir,7,July,2022,370064,0,370064
+visitor-3105,Yadadri Bhongir,8,August,2022,597045,0,597045
+visitor-3106,Yadadri Bhongir,9,September,2022,328666,0,328666
+visitor-3107,Yadadri Bhongir,10,October,2022,640912,0,640912
+visitor-3108,Yadadri Bhongir,11,November,2022,751364,0,751364
+visitor-3109,Yadadri Bhongir,12,December,2022,1012272,0,1012272
+visitor-311,Suryapet,10,October,2014,0,0,0
+visitor-3110,Adilabad,1,January,2023,405414,0,405414
+visitor-3111,Adilabad,2,February,2023,41462,0,41462
+visitor-3112,Adilabad,3,March,2023,17236,0,17236
+visitor-3113,Adilabad,4,April,2023,12640,0,12640
+visitor-3114,Adilabad,5,May,2023,13030,0,13030
+visitor-3115,Adilabad,6,June,2023,10929,0,10929
+visitor-3116,Adilabad,7,July,2023,21085,0,21085
+visitor-3117,Adilabad,8,August,2023,32623,0,32623
+visitor-3118,Adilabad,9,September,2023,22961,0,22961
+visitor-3119,Adilabad,10,October,2023,25294,0,25294
+visitor-312,Suryapet,11,November,2014,0,0,0
+visitor-3120,Adilabad,11,November,2023,29836,0,29836
+visitor-3121,Adilabad,12,December,2023,50235,0,50235
+visitor-3122,Kumaram Bheem Asifabad,1,January,2023,1452,0,1452
+visitor-3123,Kumaram Bheem Asifabad,2,February,2023,1337,0,1337
+visitor-3124,Kumaram Bheem Asifabad,3,March,2023,821,0,821
+visitor-3125,Kumaram Bheem Asifabad,4,April,2023,767,0,767
+visitor-3126,Kumaram Bheem Asifabad,5,May,2023,637,0,637
+visitor-3127,Kumaram Bheem Asifabad,6,June,2023,679,0,679
+visitor-3128,Kumaram Bheem Asifabad,7,July,2023,611,0,611
+visitor-3129,Kumaram Bheem Asifabad,8,August,2023,1072,0,1072
+visitor-313,Suryapet,12,December,2014,0,0,0
+visitor-3130,Kumaram Bheem Asifabad,9,September,2023,1159,0,1159
+visitor-3131,Kumaram Bheem Asifabad,10,October,2023,1367,0,1367
+visitor-3132,Kumaram Bheem Asifabad,11,November,2023,1688,0,1688
+visitor-3133,Kumaram Bheem Asifabad,12,December,2023,1739,0,1739
+visitor-3134,Mancherial,1,January,2023,10278,0,10278
+visitor-3135,Mancherial,2,February,2023,18555,0,18555
+visitor-3136,Mancherial,3,March,2023,10222,0,10222
+visitor-3137,Mancherial,4,April,2023,12473,0,12473
+visitor-3138,Mancherial,5,May,2023,10503,0,10503
+visitor-3139,Mancherial,6,June,2023,12024,0,12024
+visitor-314,Vikarabad,1,January,2014,0,0,0
+visitor-3140,Mancherial,7,July,2023,13506,0,13506
+visitor-3141,Mancherial,8,August,2023,14433,0,14433
+visitor-3142,Mancherial,9,September,2023,10409,0,10409
+visitor-3143,Mancherial,10,October,2023,11785,0,11785
+visitor-3144,Mancherial,11,November,2023,11401,0,11401
+visitor-3145,Mancherial,12,December,2023,12536,0,12536
+visitor-3146,Nirmal,1,January,2023,413328,0,413328
+visitor-3147,Nirmal,2,February,2023,320785,0,320785
+visitor-3148,Nirmal,3,March,2023,404555,0,404555
+visitor-3149,Nirmal,4,April,2023,323987,0,323987
+visitor-315,Vikarabad,2,February,2014,0,0,0
+visitor-3150,Nirmal,5,May,2023,384755,0,384755
+visitor-3151,Nirmal,6,June,2023,408390,0,408390
+visitor-3152,Nirmal,7,July,2023,364326,0,364326
+visitor-3153,Nirmal,8,August,2023,379447,0,379447
+visitor-3154,Nirmal,9,September,2023,382582,0,382582
+visitor-3155,Nirmal,10,October,2023,405646,0,405646
+visitor-3156,Nirmal,11,November,2023,415121,0,415121
+visitor-3157,Nirmal,12,December,2023,398336,0,398336
+visitor-3158,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",1,January,2023,1792085,20226,1812311
+visitor-3159,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",2,February,2023,1279128,18838,1297966
+visitor-316,Vikarabad,3,March,2014,0,0,0
+visitor-3160,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",3,March,2023,1134117,20599,1154716
+visitor-3161,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",4,April,2023,1353144,5802,1358946
+visitor-3162,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",5,May,2023,1788013,8674,1796687
+visitor-3163,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",6,June,2023,1415295,9320,1424615
+visitor-3164,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",7,July,2023,1209926,12893,1222819
+visitor-3165,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",8,August,2023,1351690,7979,1359669
+visitor-3166,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",9,September,2023,1288523,17984,1306507
+visitor-3167,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",10,October,2023,1916011,11021,1927032
+visitor-3168,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",11,November,2023,1662165,13031,1675196
+visitor-3169,"Hyderabad, Ranga Reddy, Medchal-Malkajgiri, Vikarabad",12,December,2023,2382597,14178,2396775
+visitor-317,Vikarabad,4,April,2014,0,0,0
+visitor-3170,Karimnagar,1,January,2023,6300,0,6300
+visitor-3171,Karimnagar,2,February,2023,6000,0,6000
+visitor-3172,Karimnagar,3,March,2023,4525,0,4525
+visitor-3173,Karimnagar,4,April,2023,4125,0,4125
+visitor-3174,Karimnagar,5,May,2023,3900,0,3900
+visitor-3175,Karimnagar,6,June,2023,3900,0,3900
+visitor-3176,Karimnagar,7,July,2023,6050,0,6050
+visitor-3177,Karimnagar,8,August,2023,4600,0,4600
+visitor-3178,Karimnagar,9,September,2023,3396,0,3396
+visitor-3179,Karimnagar,10,October,2023,4500,0,4500
+visitor-318,Vikarabad,5,May,2014,0,0,0
+visitor-3180,Karimnagar,11,November,2023,5310,0,5310
+visitor-3181,Karimnagar,12,December,2023,6150,0,6150
+visitor-3182,Jagtial,1,January,2023,215746,0,215746
+visitor-3183,Jagtial,2,February,2023,213846,0,213846
+visitor-3184,Jagtial,3,March,2023,822553,0,822553
+visitor-3185,Jagtial,4,April,2023,507092,0,507092
+visitor-3186,Jagtial,5,May,2023,504073,0,504073
+visitor-3187,Jagtial,6,June,2023,352546,0,352546
+visitor-3188,Jagtial,7,July,2023,153545,0,153545
+visitor-3189,Jagtial,8,August,2023,133336,0,133336
+visitor-319,Vikarabad,6,June,2014,0,0,0
+visitor-3190,Jagtial,9,September,2023,82078,0,82078
+visitor-3191,Jagtial,10,October,2023,83261,0,83261
+visitor-3192,Jagtial,11,November,2023,113565,0,113565
+visitor-3193,Jagtial,12,December,2023,339094,0,339094
+visitor-3194,Peddapalli,1,January,2023,1720,0,1720
+visitor-3195,Peddapalli,2,February,2023,1625,0,1625
+visitor-3196,Peddapalli,3,March,2023,1510,0,1510
+visitor-3197,Peddapalli,4,April,2023,1615,0,1615
+visitor-3198,Peddapalli,5,May,2023,1290,0,1290
+visitor-3199,Peddapalli,6,June,2023,1430,0,1430
+visitor-32,Hyderabad,7,July,2014,1096754,0,1096754
+visitor-320,Vikarabad,7,July,2014,0,0,0
+visitor-3200,Peddapalli,7,July,2023,1040,0,1040
+visitor-3201,Peddapalli,8,August,2023,1410,0,1410
+visitor-3202,Peddapalli,9,September,2023,1360,0,1360
+visitor-3203,Peddapalli,10,October,2023,1495,0,1495
+visitor-3204,Peddapalli,11,November,2023,1630,0,1630
+visitor-3205,Peddapalli,12,December,2023,1155,0,1155
+visitor-3206,Rajanna Sircilla,1,January,2023,377393,0,377393
+visitor-3207,Rajanna Sircilla,2,February,2023,538057,0,538057
+visitor-3208,Rajanna Sircilla,3,March,2023,467996,0,467996
+visitor-3209,Rajanna Sircilla,4,April,2023,473718,0,473718
+visitor-321,Vikarabad,8,August,2014,0,0,0
+visitor-3210,Rajanna Sircilla,5,May,2023,565654,0,565654
+visitor-3211,Rajanna Sircilla,6,June,2023,487331,0,487331
+visitor-3212,Rajanna Sircilla,7,July,2023,286185,0,286185
+visitor-3213,Rajanna Sircilla,8,August,2023,425962,0,425962
+visitor-3214,Rajanna Sircilla,9,September,2023,461574,0,461574
+visitor-3215,Rajanna Sircilla,10,October,2023,321294,0,321294
+visitor-3216,Rajanna Sircilla,11,November,2023,672994,0,672994
+visitor-3217,Rajanna Sircilla,12,December,2023,896048,0,896048
+visitor-3218,Khammam,1,January,2023,39768,0,39768
+visitor-3219,Khammam,2,February,2023,56431,0,56431
+visitor-322,Vikarabad,9,September,2014,0,0,0
+visitor-3220,Khammam,3,March,2023,61976,0,61976
+visitor-3221,Khammam,4,April,2023,63244,0,63244
+visitor-3222,Khammam,5,May,2023,61592,0,61592
+visitor-3223,Khammam,6,June,2023,85100,0,85100
+visitor-3224,Khammam,7,July,2023,73424,0,73424
+visitor-3225,Khammam,8,August,2023,34607,0,34607
+visitor-3226,Khammam,9,September,2023,33774,0,33774
+visitor-3227,Khammam,10,October,2023,64040,0,64040
+visitor-3228,Khammam,11,November,2023,41086,0,41086
+visitor-3229,Khammam,12,December,2023,63412,0,63412
+visitor-323,Vikarabad,10,October,2014,0,0,0
+visitor-3230,Bhadradri Kothagudem,1,January,2023,85616,0,85616
+visitor-3231,Bhadradri Kothagudem,2,February,2023,88572,0,88572
+visitor-3232,Bhadradri Kothagudem,3,March,2023,236493,0,236493
+visitor-3233,Bhadradri Kothagudem,4,April,2023,168425,0,168425
+visitor-3234,Bhadradri Kothagudem,5,May,2023,171159,0,171159
+visitor-3235,Bhadradri Kothagudem,6,June,2023,153273,0,153273
+visitor-3236,Bhadradri Kothagudem,7,July,2023,118259,0,118259
+visitor-3237,Bhadradri Kothagudem,8,August,2023,90891,0,90891
+visitor-3238,Bhadradri Kothagudem,9,September,2023,86799,0,86799
+visitor-3239,Bhadradri Kothagudem,10,October,2023,129853,0,129853
+visitor-324,Vikarabad,11,November,2014,0,0,0
+visitor-3240,Bhadradri Kothagudem,11,November,2023,94395,0,94395
+visitor-3241,Bhadradri Kothagudem,12,December,2023,131979,0,131979
+visitor-3242,Mahabubnagar,1,January,2023,220100,0,220100
+visitor-3243,Mahabubnagar,2,February,2023,253100,0,253100
+visitor-3244,Mahabubnagar,3,March,2023,185000,0,185000
+visitor-3245,Mahabubnagar,4,April,2023,98800,0,98800
+visitor-3246,Mahabubnagar,5,May,2023,72800,0,72800
+visitor-3247,Mahabubnagar,6,June,2023,76500,0,76500
+visitor-3248,Mahabubnagar,7,July,2023,54000,0,54000
+visitor-3249,Mahabubnagar,8,August,2023,57900,0,57900
+visitor-325,Vikarabad,12,December,2014,0,0,0
+visitor-3250,Mahabubnagar,9,September,2023,46000,0,46000
+visitor-3251,Mahabubnagar,10,October,2023,47500,0,47500
+visitor-3252,Mahabubnagar,11,November,2023,51500,0,51500
+visitor-3253,Mahabubnagar,12,December,2023,53800,0,53800
+visitor-3254,Jogulamba Gadwal,1,January,2023,126784,0,126784
+visitor-3255,Jogulamba Gadwal,2,February,2023,151825,0,151825
+visitor-3256,Jogulamba Gadwal,3,March,2023,139689,0,139689
+visitor-3257,Jogulamba Gadwal,4,April,2023,99114,0,99114
+visitor-3258,Jogulamba Gadwal,5,May,2023,70093,0,70093
+visitor-3259,Jogulamba Gadwal,6,June,2023,67712,0,67712
+visitor-326,Wanaparthy,1,January,2014,0,0,0
+visitor-3260,Jogulamba Gadwal,7,July,2023,47076,0,47076
+visitor-3261,Jogulamba Gadwal,8,August,2023,55365,0,55365
+visitor-3262,Jogulamba Gadwal,9,September,2023,38056,0,38056
+visitor-3263,Jogulamba Gadwal,10,October,2023,40746,0,40746
+visitor-3264,Jogulamba Gadwal,11,November,2023,44853,0,44853
+visitor-3265,Jogulamba Gadwal,12,December,2023,46731,0,46731
+visitor-3266,Nagarkurnool,1,January,2023,162900,0,162900
+visitor-3267,Nagarkurnool,2,February,2023,162800,0,162800
+visitor-3268,Nagarkurnool,3,March,2023,144500,0,144500
+visitor-3269,Nagarkurnool,4,April,2023,76800,0,76800
+visitor-327,Wanaparthy,2,February,2014,0,0,0
+visitor-3270,Nagarkurnool,5,May,2023,52800,0,52800
+visitor-3271,Nagarkurnool,6,June,2023,50400,0,50400
+visitor-3272,Nagarkurnool,7,July,2023,34200,0,34200
+visitor-3273,Nagarkurnool,8,August,2023,36150,0,36150
+visitor-3274,Nagarkurnool,9,September,2023,25400,0,25400
+visitor-3275,Nagarkurnool,10,October,2023,26200,0,26200
+visitor-3276,Nagarkurnool,11,November,2023,29600,0,29600
+visitor-3277,Nagarkurnool,12,December,2023,32460,0,32460
+visitor-3278,Wanaparthy,1,January,2023,13000,0,13000
+visitor-3279,Wanaparthy,2,February,2023,151500,0,151500
+visitor-328,Wanaparthy,3,March,2014,0,0,0
+visitor-3280,Wanaparthy,3,March,2023,13500,0,13500
+visitor-3281,Wanaparthy,4,April,2023,4600,0,4600
+visitor-3282,Wanaparthy,5,May,2023,2600,0,2600
+visitor-3283,Wanaparthy,6,June,2023,3000,0,3000
+visitor-3284,Wanaparthy,7,July,2023,1700,0,1700
+visitor-3285,Wanaparthy,8,August,2023,1900,0,1900
+visitor-3286,Wanaparthy,9,September,2023,1200,0,1200
+visitor-3287,Wanaparthy,10,October,2023,1400,0,1400
+visitor-3288,Wanaparthy,11,November,2023,1600,0,1600
+visitor-3289,Wanaparthy,12,December,2023,1700,0,1700
+visitor-329,Wanaparthy,4,April,2014,0,0,0
+visitor-3290,Narayanpet,1,January,2023,10450,0,10450
+visitor-3291,Narayanpet,2,February,2023,17350,0,17350
+visitor-3292,Narayanpet,3,March,2023,12800,0,12800
+visitor-3293,Narayanpet,4,April,2023,53800,0,53800
+visitor-3294,Narayanpet,5,May,2023,4600,0,4600
+visitor-3295,Narayanpet,6,June,2023,3100,0,3100
+visitor-3296,Narayanpet,7,July,2023,1550,0,1550
+visitor-3297,Narayanpet,8,August,2023,1730,0,1730
+visitor-3298,Narayanpet,9,September,2023,3650,0,3650
+visitor-3299,Narayanpet,10,October,2023,960,0,960
+visitor-33,Hyderabad,8,August,2014,1061137,0,1061137
+visitor-330,Wanaparthy,5,May,2014,0,0,0
+visitor-3300,Narayanpet,11,November,2023,1050,0,1050
+visitor-3301,Narayanpet,12,December,2023,1560,0,1560
+visitor-3302,Medak,1,January,2023,100938,0,100938
+visitor-3303,Medak,2,February,2023,936994,0,936994
+visitor-3304,Medak,3,March,2023,57188,0,57188
+visitor-3305,Medak,4,April,2023,67225,0,67225
+visitor-3306,Medak,5,May,2023,54588,0,54588
+visitor-3307,Medak,6,June,2023,47671,0,47671
+visitor-3308,Medak,7,July,2023,43792,0,43792
+visitor-3309,Medak,8,August,2023,35203,0,35203
+visitor-331,Wanaparthy,6,June,2014,0,0,0
+visitor-3310,Medak,9,September,2023,23004,0,23004
+visitor-3311,Medak,10,October,2023,108978,0,108978
+visitor-3312,Medak,11,November,2023,44914,0,44914
+visitor-3313,Medak,12,December,2023,70811,0,70811
+visitor-3314,Sangareddy,1,January,2023,121240,0,121240
+visitor-3315,Sangareddy,2,February,2023,965600,0,965600
+visitor-3316,Sangareddy,3,March,2023,166000,0,166000
+visitor-3317,Sangareddy,4,April,2023,66000,0,66000
+visitor-3318,Sangareddy,5,May,2023,98500,0,98500
+visitor-3319,Sangareddy,6,June,2023,73000,0,73000
+visitor-332,Wanaparthy,7,July,2014,0,0,0
+visitor-3320,Sangareddy,7,July,2023,70000,0,70000
+visitor-3321,Sangareddy,8,August,2023,161400,0,161400
+visitor-3322,Sangareddy,9,September,2023,334865,0,334865
+visitor-3323,Sangareddy,10,October,2023,176166,0,176166
+visitor-3324,Sangareddy,11,November,2023,285725,0,285725
+visitor-3325,Sangareddy,12,December,2023,246834,0,246834
+visitor-3326,Siddipet,1,January,2023,280919,0,280919
+visitor-3327,Siddipet,2,February,2023,96013,0,96013
+visitor-3328,Siddipet,3,March,2023,162100,0,162100
+visitor-3329,Siddipet,4,April,2023,150672,0,150672
+visitor-333,Wanaparthy,8,August,2014,0,0,0
+visitor-3330,Siddipet,5,May,2023,178186,0,178186
+visitor-3331,Siddipet,6,June,2023,150924,0,150924
+visitor-3332,Siddipet,7,July,2023,420926,0,420926
+visitor-3333,Siddipet,8,August,2023,145257,0,145257
+visitor-3334,Siddipet,9,September,2023,164346,0,164346
+visitor-3335,Siddipet,10,October,2023,265054,0,265054
+visitor-3336,Siddipet,11,November,2023,871162,0,871162
+visitor-3337,Siddipet,12,December,2023,1063109,0,1063109
+visitor-3338,"Nalgonda, Suryapet",1,January,2023,20347,0,20347
+visitor-3339,"Nalgonda, Suryapet",2,February,2023,27631,0,27631
+visitor-334,Wanaparthy,9,September,2014,0,0,0
+visitor-3340,"Nalgonda, Suryapet",3,March,2023,13608,0,13608
+visitor-3341,"Nalgonda, Suryapet",4,April,2023,12416,0,12416
+visitor-3342,"Nalgonda, Suryapet",5,May,2023,14512,0,14512
+visitor-3343,"Nalgonda, Suryapet",6,June,2023,13931,0,13931
+visitor-3344,"Nalgonda, Suryapet",7,July,2023,14771,0,14771
+visitor-3345,"Nalgonda, Suryapet",8,August,2023,12769,0,12769
+visitor-3346,"Nalgonda, Suryapet",9,September,2023,12764,0,12764
+visitor-3347,"Nalgonda, Suryapet",10,October,2023,18622,0,18622
+visitor-3348,"Nalgonda, Suryapet",11,November,2023,18648,0,18648
+visitor-3349,"Nalgonda, Suryapet",12,December,2023,271997,0,271997
+visitor-335,Wanaparthy,10,October,2014,21234,0,21234
+visitor-3350,Yadadri Bhongir,1,January,2023,555616,0,555616
+visitor-3351,Yadadri Bhongir,2,February,2023,348130,29,348159
+visitor-3352,Yadadri Bhongir,3,March,2023,549974,0,549974
+visitor-3353,Yadadri Bhongir,4,April,2023,496474,0,496474
+visitor-3354,Yadadri Bhongir,5,May,2023,766175,0,766175
+visitor-3355,Yadadri Bhongir,6,June,2023,834264,0,834264
+visitor-3356,Yadadri Bhongir,7,July,2023,794528,7,794535
+visitor-3357,Yadadri Bhongir,8,August,2023,822416,0,822416
+visitor-3358,Yadadri Bhongir,9,September,2023,656397,0,656397
+visitor-3359,Yadadri Bhongir,10,October,2023,650163,0,650163
+visitor-336,Wanaparthy,11,November,2014,18348,0,18348
+visitor-3360,Yadadri Bhongir,11,November,2023,626666,0,626666
+visitor-3361,Yadadri Bhongir,12,December,2023,1238000,0,1238000
+visitor-3362,Nizamabad,1,January,2023,30502,0,30502
+visitor-3363,Nizamabad,2,February,2023,258940,0,258940
+visitor-3364,Nizamabad,3,March,2023,94964,0,94964
+visitor-3365,Nizamabad,4,April,2023,16167,0,16167
+visitor-3366,Nizamabad,5,May,2023,20511,0,20511
+visitor-3367,Nizamabad,6,June,2023,22160,0,22160
+visitor-3368,Nizamabad,7,July,2023,26051,0,26051
+visitor-3369,Nizamabad,8,August,2023,35232,0,35232
+visitor-337,Wanaparthy,12,December,2014,20556,0,20556
+visitor-3370,Nizamabad,9,September,2023,30863,0,30863
+visitor-3371,Nizamabad,10,October,2023,17749,0,17749
+visitor-3372,Nizamabad,11,November,2023,51367,0,51367
+visitor-3373,Nizamabad,12,December,2023,90230,0,90230
+visitor-3374,Kamareddy,1,January,2023,40,0,40
+visitor-3375,Kamareddy,2,February,2023,45,0,45
+visitor-3376,Kamareddy,3,March,2023,46,0,46
+visitor-3377,Kamareddy,4,April,2023,56,0,56
+visitor-3378,Kamareddy,5,May,2023,52,0,52
+visitor-3379,Kamareddy,6,June,2023,65,0,65
+visitor-338,Warangal,1,January,2014,0,469,469
+visitor-3380,Kamareddy,7,July,2023,40,0,40
+visitor-3381,Kamareddy,8,August,2023,50,0,50
+visitor-3382,Kamareddy,9,September,2023,43,0,43
+visitor-3383,Kamareddy,10,October,2023,48,0,48
+visitor-3384,Kamareddy,11,November,2023,53,0,53
+visitor-3385,Kamareddy,12,December,2023,52,0,52
+visitor-3386,Hanumakonda,1,January,2023,37595,5,37600
+visitor-3387,Hanumakonda,2,February,2023,39412,7,39419
+visitor-3388,Hanumakonda,3,March,2023,36329,9,36338
+visitor-3389,Hanumakonda,4,April,2023,41475,9,41484
+visitor-339,Warangal,2,February,2014,0,180,180
+visitor-3390,Hanumakonda,5,May,2023,42765,10,42775
+visitor-3391,Hanumakonda,6,June,2023,39677,8,39685
+visitor-3392,Hanumakonda,7,July,2023,39620,9,39629
+visitor-3393,Hanumakonda,8,August,2023,35084,10,35094
+visitor-3394,Hanumakonda,9,September,2023,34374,8,34382
+visitor-3395,Hanumakonda,10,October,2023,35331,10,35341
+visitor-3396,Hanumakonda,11,November,2023,35790,10,35800
+visitor-3397,Hanumakonda,12,December,2023,34552,10,34562
+visitor-3398,Warangal,1,January,2023,14883,6,14889
+visitor-3399,Warangal,2,February,2023,14938,6,14944
+visitor-34,Hyderabad,9,September,2014,832987,0,832987
+visitor-340,Warangal,3,March,2014,0,158,158
+visitor-3400,Warangal,3,March,2023,15391,6,15397
+visitor-3401,Warangal,4,April,2023,16545,8,16553
+visitor-3402,Warangal,5,May,2023,17360,10,17370
+visitor-3403,Warangal,6,June,2023,14399,6,14405
+visitor-3404,Warangal,7,July,2023,15355,8,15363
+visitor-3405,Warangal,8,August,2023,16108,9,16117
+visitor-3406,Warangal,9,September,2023,16548,9,16557
+visitor-3407,Warangal,10,October,2023,16280,10,16290
+visitor-3408,Warangal,11,November,2023,17494,11,17505
+visitor-3409,Warangal,12,December,2023,16019,10,16029
+visitor-341,Warangal,4,April,2014,0,104,104
+visitor-3410,Jangaon,1,January,2023,5305,0,5305
+visitor-3411,Jangaon,2,February,2023,4995,0,4995
+visitor-3412,Jangaon,3,March,2023,4940,0,4940
+visitor-3413,Jangaon,4,April,2023,4820,0,4820
+visitor-3414,Jangaon,5,May,2023,5035,0,5035
+visitor-3415,Jangaon,6,June,2023,4970,0,4970
+visitor-3416,Jangaon,7,July,2023,4780,0,4780
+visitor-3417,Jangaon,8,August,2023,5765,0,5765
+visitor-3418,Jangaon,9,September,2023,5410,0,5410
+visitor-3419,Jangaon,10,October,2023,5720,0,5720
+visitor-342,Warangal,5,May,2014,0,15,15
+visitor-3420,Jangaon,11,November,2023,5305,0,5305
+visitor-3421,Jangaon,12,December,2023,5310,0,5310
+visitor-3422,Jayashankar Bhupalpally,1,January,2023,13606,0,13606
+visitor-3423,Jayashankar Bhupalpally,2,February,2023,12799,0,12799
+visitor-3424,Jayashankar Bhupalpally,3,March,2023,12252,0,12252
+visitor-3425,Jayashankar Bhupalpally,4,April,2023,15836,0,15836
+visitor-3426,Jayashankar Bhupalpally,5,May,2023,16585,0,16585
+visitor-3427,Jayashankar Bhupalpally,6,June,2023,13350,0,13350
+visitor-3428,Jayashankar Bhupalpally,7,July,2023,10994,0,10994
+visitor-3429,Jayashankar Bhupalpally,8,August,2023,14341,0,14341
+visitor-343,Warangal,6,June,2014,0,175,175
+visitor-3430,Jayashankar Bhupalpally,9,September,2023,15010,0,15010
+visitor-3431,Jayashankar Bhupalpally,10,October,2023,13896,0,13896
+visitor-3432,Jayashankar Bhupalpally,11,November,2023,15913,0,15913
+visitor-3433,Jayashankar Bhupalpally,12,December,2023,15434,0,15434
+visitor-3434,Mahabubabad,1,January,2023,2930,0,2930
+visitor-3435,Mahabubabad,2,February,2023,2420,0,2420
+visitor-3436,Mahabubabad,3,March,2023,2475,0,2475
+visitor-3437,Mahabubabad,4,April,2023,2705,0,2705
+visitor-3438,Mahabubabad,5,May,2023,2660,0,2660
+visitor-3439,Mahabubabad,6,June,2023,2560,0,2560
+visitor-344,Warangal,7,July,2014,0,232,232
+visitor-3440,Mahabubabad,7,July,2023,2230,0,2230
+visitor-3441,Mahabubabad,8,August,2023,3565,0,3565
+visitor-3442,Mahabubabad,9,September,2023,3355,0,3355
+visitor-3443,Mahabubabad,10,October,2023,2560,0,2560
+visitor-3444,Mahabubabad,11,November,2023,3875,0,3875
+visitor-3445,Mahabubabad,12,December,2023,3460,0,3460
+visitor-3446,Mulugu,1,January,2023,48377,10,48387
+visitor-3447,Mulugu,2,February,2023,48353,8,48361
+visitor-3448,Mulugu,3,March,2023,48804,15,48819
+visitor-3449,Mulugu,4,April,2023,50129,15,50144
+visitor-345,Warangal,8,August,2014,0,128,128
+visitor-3450,Mulugu,5,May,2023,51640,13,51653
+visitor-3451,Mulugu,6,June,2023,47359,8,47367
+visitor-3452,Mulugu,7,July,2023,61688,8,61696
+visitor-3453,Mulugu,8,August,2023,50448,10,50458
+visitor-3454,Mulugu,9,September,2023,51635,10,51645
+visitor-3455,Mulugu,10,October,2023,50995,10,51005
+visitor-3456,Mulugu,11,November,2023,52285,10,52295
+visitor-3457,Mulugu,12,December,2023,71071,10,71081
+visitor-346,Warangal,9,September,2014,0,96,96
+visitor-347,Warangal,10,October,2014,0,190,190
+visitor-348,Warangal,11,November,2014,0,306,306
+visitor-349,Warangal,12,December,2014,0,185,185
+visitor-35,Hyderabad,10,October,2014,901960,0,901960
+visitor-350,Warangal (Rural),1,January,2014,0,0,0
+visitor-351,Warangal (Rural),2,February,2014,0,0,0
+visitor-352,Warangal (Rural),3,March,2014,0,0,0
+visitor-353,Warangal (Rural),4,April,2014,0,0,0
+visitor-354,Warangal (Rural),5,May,2014,0,0,0
+visitor-355,Warangal (Rural),6,June,2014,0,0,0
+visitor-356,Warangal (Rural),7,July,2014,0,0,0
+visitor-357,Warangal (Rural),8,August,2014,0,0,0
+visitor-358,Warangal (Rural),9,September,2014,0,0,0
+visitor-359,Warangal (Rural),10,October,2014,8200,0,8200
+visitor-36,Hyderabad,11,November,2014,909733,0,909733
+visitor-360,Warangal (Rural),11,November,2014,6050,0,6050
+visitor-361,Warangal (Rural),12,December,2014,5150,0,5150
+visitor-362,Warangal (Urban),1,January,2014,1985815,0,1985815
+visitor-363,Warangal (Urban),2,February,2014,20703778,0,20703778
+visitor-364,Warangal (Urban),3,March,2014,568397,0,568397
+visitor-365,Warangal (Urban),4,April,2014,317643,0,317643
+visitor-366,Warangal (Urban),5,May,2014,373788,0,373788
+visitor-367,Warangal (Urban),6,June,2014,365332,0,365332
+visitor-368,Warangal (Urban),7,July,2014,340320,0,340320
+visitor-369,Warangal (Urban),8,August,2014,368755,0,368755
+visitor-37,Hyderabad,12,December,2014,1225502,0,1225502
+visitor-370,Warangal (Urban),9,September,2014,379210,0,379210
+visitor-371,Warangal (Urban),10,October,2014,128247,0,128247
+visitor-372,Warangal (Urban),11,November,2014,129250,0,129250
+visitor-373,Warangal (Urban),12,December,2014,127500,0,127500
+visitor-374,Yadadri Bhongir,1,January,2014,0,0,0
+visitor-375,Yadadri Bhongir,2,February,2014,0,0,0
+visitor-376,Yadadri Bhongir,3,March,2014,0,0,0
+visitor-377,Yadadri Bhongir,4,April,2014,0,0,0
+visitor-378,Yadadri Bhongir,5,May,2014,0,0,0
+visitor-379,Yadadri Bhongir,6,June,2014,0,0,0
+visitor-38,Jagtial,1,January,2014,0,0,0
+visitor-380,Yadadri Bhongir,7,July,2014,0,0,0
+visitor-381,Yadadri Bhongir,8,August,2014,0,0,0
+visitor-382,Yadadri Bhongir,9,September,2014,0,0,0
+visitor-383,Yadadri Bhongir,10,October,2014,584800,0,584800
+visitor-384,Yadadri Bhongir,11,November,2014,681000,0,681000
+visitor-385,Yadadri Bhongir,12,December,2014,462800,0,462800
+visitor-386,"Hyderabad, Ranga Reddy",1,January,2014,0,7587,7587
+visitor-387,"Hyderabad, Ranga Reddy",2,February,2014,0,7871,7871
+visitor-388,"Hyderabad, Ranga Reddy",3,March,2014,0,7683,7683
+visitor-389,"Hyderabad, Ranga Reddy",4,April,2014,0,3314,3314
+visitor-39,Jagtial,2,February,2014,0,0,0
+visitor-390,"Hyderabad, Ranga Reddy",5,May,2014,0,1962,1962
+visitor-391,"Hyderabad, Ranga Reddy",6,June,2014,0,2767,2767
+visitor-392,"Hyderabad, Ranga Reddy",7,July,2014,0,5931,5931
+visitor-393,"Hyderabad, Ranga Reddy",8,August,2014,0,3759,3759
+visitor-394,"Hyderabad, Ranga Reddy",9,September,2014,0,4258,4258
+visitor-395,"Hyderabad, Ranga Reddy",10,October,2014,0,7836,7836
+visitor-396,"Hyderabad, Ranga Reddy",11,November,2014,0,4826,4826
+visitor-397,"Hyderabad, Ranga Reddy",12,December,2014,0,12257,12257
+visitor-398,Adilabad,1,January,2015,824987,7,824994
+visitor-399,Adilabad,2,February,2015,599592,2,599594
+visitor-4,Adilabad,3,March,2014,582946,5,582951
+visitor-40,Jagtial,3,March,2014,0,0,0
+visitor-400,Adilabad,3,March,2015,616384,8,616392
+visitor-401,Adilabad,4,April,2015,624769,9,624778
+visitor-402,Adilabad,5,May,2015,695735,6,695741
+visitor-403,Adilabad,6,June,2015,668510,9,668519
+visitor-404,Adilabad,7,July,2015,8465858,10,8465868
+visitor-405,Adilabad,8,August,2015,663984,0,663984
+visitor-406,Adilabad,9,September,2015,694871,6,694877
+visitor-407,Adilabad,10,October,2015,842756,8,842764
+visitor-408,Adilabad,11,November,2015,784582,0,784582
+visitor-409,Adilabad,12,December,2015,824371,2,824373
+visitor-41,Jagtial,4,April,2014,0,0,0
+visitor-410,"Hyderabad, Ranga Reddy",1,January,2015,902910,14454,917364
+visitor-411,"Hyderabad, Ranga Reddy",2,February,2015,522845,10947,533792
+visitor-412,"Hyderabad, Ranga Reddy",3,March,2015,751393,8750,760143
+visitor-413,"Hyderabad, Ranga Reddy",4,April,2015,594667,6560,601227
+visitor-414,"Hyderabad, Ranga Reddy",5,May,2015,1145335,6959,1152294
+visitor-415,"Hyderabad, Ranga Reddy",6,June,2015,803711,7813,811524
+visitor-416,"Hyderabad, Ranga Reddy",7,July,2015,725689,12274,737963
+visitor-417,"Hyderabad, Ranga Reddy",8,August,2015,806756,10604,817360
+visitor-418,"Hyderabad, Ranga Reddy",9,September,2015,621200,7292,628492
+visitor-419,"Hyderabad, Ranga Reddy",10,October,2015,869958,9758,879716
+visitor-42,Jagtial,5,May,2014,0,0,0
+visitor-420,"Hyderabad, Ranga Reddy",11,November,2015,818471,12034,830505
+visitor-421,"Hyderabad, Ranga Reddy",12,December,2015,1036011,15393,1051404
+visitor-422,Karimnagar,1,January,2015,836924,0,836924
+visitor-423,Karimnagar,2,February,2015,1409365,0,1409365
+visitor-424,Karimnagar,3,March,2015,1290865,0,1290865
+visitor-425,Karimnagar,4,April,2015,979542,0,979542
+visitor-426,Karimnagar,5,May,2015,1273858,0,1273858
+visitor-427,Karimnagar,6,June,2015,1130333,0,1130333
+visitor-428,Karimnagar,7,July,2015,19124512,0,19124512
+visitor-429,Karimnagar,8,August,2015,625540,0,625540
+visitor-43,Jagtial,6,June,2014,0,0,0
+visitor-430,Karimnagar,9,September,2015,891100,0,891100
+visitor-431,Karimnagar,10,October,2015,536076,0,536076
+visitor-432,Karimnagar,11,November,2015,1259877,0,1259877
+visitor-433,Karimnagar,12,December,2015,1569395,0,1569395
+visitor-434,Khammam,1,January,2015,450517,0,450517
+visitor-435,Khammam,2,February,2015,439925,0,439925
+visitor-436,Khammam,3,March,2015,643486,0,643486
+visitor-437,Khammam,4,April,2015,525879,0,525879
+visitor-438,Khammam,5,May,2015,443210,0,443210
+visitor-439,Khammam,6,June,2015,402618,0,402618
+visitor-44,Jagtial,7,July,2014,0,0,0
+visitor-440,Khammam,7,July,2015,5876632,0,5876632
+visitor-441,Khammam,8,August,2015,514519,0,514519
+visitor-442,Khammam,9,September,2015,469084,0,469084
+visitor-443,Khammam,10,October,2015,610359,0,610359
+visitor-444,Khammam,11,November,2015,414367,0,414367
+visitor-445,Khammam,12,December,2015,564097,0,564097
+visitor-446,Mahabubnagar,1,January,2015,873775,240,874015
+visitor-447,Mahabubnagar,2,February,2015,543568,76,543644
+visitor-448,Mahabubnagar,3,March,2015,539322,59,539381
+visitor-449,Mahabubnagar,4,April,2015,432527,72,432599
+visitor-45,Jagtial,8,August,2014,0,0,0
+visitor-450,Mahabubnagar,5,May,2015,466586,132,466718
+visitor-451,Mahabubnagar,6,June,2015,431259,126,431385
+visitor-452,Mahabubnagar,7,July,2015,432330,111,432441
+visitor-453,Mahabubnagar,8,August,2015,481247,112,481359
+visitor-454,Mahabubnagar,9,September,2015,469355,115,469470
+visitor-455,Mahabubnagar,10,October,2015,442446,115,442561
+visitor-456,Mahabubnagar,11,November,2015,601022,152,601174
+visitor-457,Mahabubnagar,12,December,2015,1131305,160,1131465
+visitor-458,Medak,1,January,2015,63195,0,63195
+visitor-459,Medak,2,February,2015,711247,0,711247
+visitor-46,Jagtial,9,September,2014,0,0,0
+visitor-460,Medak,3,March,2015,42595,0,42595
+visitor-461,Medak,4,April,2015,44725,0,44725
+visitor-462,Medak,5,May,2015,46961,0,46961
+visitor-463,Medak,6,June,2015,49309,0,49309
+visitor-464,Medak,7,July,2015,50621,0,50621
+visitor-465,Medak,8,August,2015,381057,0,381057
+visitor-466,Medak,9,September,2015,285790,0,285790
+visitor-467,Medak,10,October,2015,267260,0,267260
+visitor-468,Medak,11,November,2015,153000,0,153000
+visitor-469,Medak,12,December,2015,244500,0,244500
+visitor-47,Jagtial,10,October,2014,201249,0,201249
+visitor-470,Nalgonda,1,January,2015,756029,0,756029
+visitor-471,Nalgonda,2,February,2015,711405,0,711405
+visitor-472,Nalgonda,3,March,2015,89989,0,89989
+visitor-473,Nalgonda,4,April,2015,656850,0,656850
+visitor-474,Nalgonda,5,May,2015,662185,0,662185
+visitor-475,Nalgonda,6,June,2015,684385,0,684385
+visitor-476,Nalgonda,7,July,2015,627537,0,627537
+visitor-477,Nalgonda,8,August,2015,425044,0,425044
+visitor-478,Nalgonda,9,September,2015,675537,500,676037
+visitor-479,Nalgonda,10,October,2015,700694,0,700694
+visitor-48,Jagtial,11,November,2014,214534,0,214534
+visitor-480,Nalgonda,11,November,2015,704465,0,704465
+visitor-481,Nalgonda,12,December,2015,626788,0,626788
+visitor-482,Nizamabad,1,January,2015,781,0,781
+visitor-483,Nizamabad,2,February,2015,5856,0,5856
+visitor-484,Nizamabad,3,March,2015,658,0,658
+visitor-485,Nizamabad,4,April,2015,732,0,732
+visitor-486,Nizamabad,5,May,2015,718,0,718
+visitor-487,Nizamabad,6,June,2015,595,0,595
+visitor-488,Nizamabad,7,July,2015,1083,0,1083
+visitor-489,Nizamabad,8,August,2015,765,0,765
+visitor-49,Jagtial,12,December,2014,207294,0,207294
+visitor-490,Nizamabad,9,September,2015,714,0,714
+visitor-491,Nizamabad,10,October,2015,723,0,723
+visitor-492,Nizamabad,11,November,2015,575,0,575
+visitor-493,Nizamabad,12,December,2015,619,0,619
+visitor-494,Warangal,1,January,2015,1340115,292,1340407
+visitor-495,Warangal,2,February,2015,1291661,508,1292169
+visitor-496,Warangal,3,March,2015,789216,130,789346
+visitor-497,Warangal,4,April,2015,535859,20,535879
+visitor-498,Warangal,5,May,2015,562757,21,562778
+visitor-499,Warangal,6,June,2015,378160,56,378216
+visitor-5,Adilabad,4,April,2014,341948,6,341954
+visitor-50,Jangaon,1,January,2014,0,0,0
+visitor-500,Warangal,7,July,2015,1730743,43,1730786
+visitor-501,Warangal,8,August,2015,600560,67,600627
+visitor-502,Warangal,9,September,2015,383817,73,383890
+visitor-503,Warangal,10,October,2015,626261,210,626471
+visitor-504,Warangal,11,November,2015,733276,328,733604
+visitor-505,Warangal,12,December,2015,836737,46,836783
+visitor-506,Adilabad,1,January,2016,792136,2,792138
+visitor-507,Adilabad,2,February,2016,937820,0,937820
+visitor-508,Adilabad,3,March,2016,582946,2,582948
+visitor-509,Adilabad,4,April,2016,341948,0,341948
+visitor-51,Jangaon,2,February,2014,0,0,0
+visitor-510,Adilabad,5,May,2016,252887,0,252887
+visitor-511,Adilabad,6,June,2016,368237,0,368237
+visitor-512,Adilabad,7,July,2016,447562,4,447566
+visitor-513,Adilabad,8,August,2016,614285,2,614287
+visitor-514,Adilabad,9,September,2016,491279,0,491279
+visitor-515,Adilabad,10,October,2016,94184,0,94184
+visitor-516,Adilabad,11,November,2016,99148,0,99148
+visitor-517,Adilabad,12,December,2016,53125,0,53125
+visitor-518,Bhadradri Kothagudem,1,January,2016,0,0,0
+visitor-519,Bhadradri Kothagudem,2,February,2016,0,0,0
+visitor-52,Jangaon,3,March,2014,0,0,0
+visitor-520,Bhadradri Kothagudem,3,March,2016,0,0,0
+visitor-521,Bhadradri Kothagudem,4,April,2016,0,0,0
+visitor-522,Bhadradri Kothagudem,5,May,2016,0,0,0
+visitor-523,Bhadradri Kothagudem,6,June,2016,0,0,0
+visitor-524,Bhadradri Kothagudem,7,July,2016,0,0,0
+visitor-525,Bhadradri Kothagudem,8,August,2016,0,0,0
+visitor-526,Bhadradri Kothagudem,9,September,2016,0,0,0
+visitor-527,Bhadradri Kothagudem,10,October,2016,310133,0,310133
+visitor-528,Bhadradri Kothagudem,11,November,2016,252127,0,252127
+visitor-529,Bhadradri Kothagudem,12,December,2016,326770,0,326770
+visitor-53,Jangaon,4,April,2014,0,0,0
+visitor-530,Hyderabad,1,January,2016,1122510,15865,1138375
+visitor-531,Hyderabad,2,February,2016,778748,29646,808394
+visitor-532,Hyderabad,3,March,2016,1017794,13019,1030813
+visitor-533,Hyderabad,4,April,2016,1127738,8402,1136140
+visitor-534,Hyderabad,5,May,2016,1287181,8522,1295703
+visitor-535,Hyderabad,6,June,2016,12032661,10284,12042945
+visitor-536,Hyderabad,7,July,2016,1096754,17142,1113896
+visitor-537,Hyderabad,8,August,2016,1061137,12842,1073979
+visitor-538,Hyderabad,9,September,2016,832987,9397,842384
+visitor-539,Hyderabad,10,October,2016,901960,12808,914768
+visitor-54,Jangaon,5,May,2014,0,0,0
+visitor-540,Hyderabad,11,November,2016,909733,8084,917817
+visitor-541,Hyderabad,12,December,2016,1225502,17620,1243122
+visitor-542,Jagtial,1,January,2016,0,0,0
+visitor-543,Jagtial,2,February,2016,0,0,0
+visitor-544,Jagtial,3,March,2016,0,0,0
+visitor-545,Jagtial,4,April,2016,0,0,0
+visitor-546,Jagtial,5,May,2016,0,0,0
+visitor-547,Jagtial,6,June,2016,0,0,0
+visitor-548,Jagtial,7,July,2016,0,0,0
+visitor-549,Jagtial,8,August,2016,0,0,0
+visitor-55,Jangaon,6,June,2014,0,0,0
+visitor-550,Jagtial,9,September,2016,0,0,0
+visitor-551,Jagtial,10,October,2016,201249,0,201249
+visitor-552,Jagtial,11,November,2016,214534,0,214534
+visitor-553,Jagtial,12,December,2016,207294,0,207294
+visitor-554,Jangaon,1,January,2016,0,0,0
+visitor-555,Jangaon,2,February,2016,0,0,0
+visitor-556,Jangaon,3,March,2016,0,0,0
+visitor-557,Jangaon,4,April,2016,0,0,0
+visitor-558,Jangaon,5,May,2016,0,0,0
+visitor-559,Jangaon,6,June,2016,0,0,0
+visitor-56,Jangaon,7,July,2014,0,0,0
+visitor-560,Jangaon,7,July,2016,0,0,0
+visitor-561,Jangaon,8,August,2016,0,0,0
+visitor-562,Jangaon,9,September,2016,0,0,0
+visitor-563,Jangaon,10,October,2016,14770,0,14770
+visitor-564,Jangaon,11,November,2016,13210,2,13212
+visitor-565,Jangaon,12,December,2016,12680,0,12680
+visitor-566,Jayashankar Bhupalpally,1,January,2016,0,0,0
+visitor-567,Jayashankar Bhupalpally,2,February,2016,0,0,0
+visitor-568,Jayashankar Bhupalpally,3,March,2016,0,0,0
+visitor-569,Jayashankar Bhupalpally,4,April,2016,0,0,0
+visitor-57,Jangaon,8,August,2014,0,0,0
+visitor-570,Jayashankar Bhupalpally,5,May,2016,0,0,0
+visitor-571,Jayashankar Bhupalpally,6,June,2016,0,0,0
+visitor-572,Jayashankar Bhupalpally,7,July,2016,0,0,0
+visitor-573,Jayashankar Bhupalpally,8,August,2016,0,0,0
+visitor-574,Jayashankar Bhupalpally,9,September,2016,0,0,0
+visitor-575,Jayashankar Bhupalpally,10,October,2016,76360,24,76384
+visitor-576,Jayashankar Bhupalpally,11,November,2016,81580,22,81602
+visitor-577,Jayashankar Bhupalpally,12,December,2016,85460,40,85500
+visitor-578,Jogulamba Gadwal,1,January,2016,0,0,0
+visitor-579,Jogulamba Gadwal,2,February,2016,0,0,0
+visitor-58,Jangaon,9,September,2014,0,0,0
+visitor-580,Jogulamba Gadwal,3,March,2016,0,0,0
+visitor-581,Jogulamba Gadwal,4,April,2016,0,0,0
+visitor-582,Jogulamba Gadwal,5,May,2016,0,0,0
+visitor-583,Jogulamba Gadwal,6,June,2016,0,0,0
+visitor-584,Jogulamba Gadwal,7,July,2016,0,0,0
+visitor-585,Jogulamba Gadwal,8,August,2016,0,0,0
+visitor-586,Jogulamba Gadwal,9,September,2016,0,0,0
+visitor-587,Jogulamba Gadwal,10,October,2016,152898,13,152911
+visitor-588,Jogulamba Gadwal,11,November,2016,188170,21,188191
+visitor-589,Jogulamba Gadwal,12,December,2016,182333,11,182344
+visitor-59,Jangaon,10,October,2014,14770,0,14770
+visitor-590,Kamareddy,1,January,2016,0,0,0
+visitor-591,Kamareddy,2,February,2016,0,0,0
+visitor-592,Kamareddy,3,March,2016,0,0,0
+visitor-593,Kamareddy,4,April,2016,0,0,0
+visitor-594,Kamareddy,5,May,2016,0,0,0
+visitor-595,Kamareddy,6,June,2016,0,0,0
+visitor-596,Kamareddy,7,July,2016,0,0,0
+visitor-597,Kamareddy,8,August,2016,0,0,0
+visitor-598,Kamareddy,9,September,2016,0,0,0
+visitor-599,Kamareddy,10,October,2016,47,0,47
+visitor-6,Adilabad,5,May,2014,252887,6,252893
+visitor-60,Jangaon,11,November,2014,13210,0,13210
+visitor-600,Kamareddy,11,November,2016,38,0,38
+visitor-601,Kamareddy,12,December,2016,42,0,42
+visitor-602,Karimnagar,1,January,2016,1984442,0,1984442
+visitor-603,Karimnagar,2,February,2016,779960,0,779960
+visitor-604,Karimnagar,3,March,2016,1018399,0,1018399
+visitor-605,Karimnagar,4,April,2016,956959,0,956959
+visitor-606,Karimnagar,5,May,2016,1095642,0,1095642
+visitor-607,Karimnagar,6,June,2016,914746,0,914746
+visitor-608,Karimnagar,7,July,2016,401047,0,401047
+visitor-609,Karimnagar,8,August,2016,1018399,0,1018399
+visitor-61,Jangaon,12,December,2014,12680,0,12680
+visitor-610,Karimnagar,9,September,2016,956959,0,956959
+visitor-611,Karimnagar,10,October,2016,13675,0,13675
+visitor-612,Karimnagar,11,November,2016,13350,0,13350
+visitor-613,Karimnagar,12,December,2016,13890,0,13890
+visitor-614,Khammam,1,January,2016,651827,0,651827
+visitor-615,Khammam,2,February,2016,407533,0,407533
+visitor-616,Khammam,3,March,2016,458527,0,458527
+visitor-617,Khammam,4,April,2016,971622,0,971622
+visitor-618,Khammam,5,May,2016,433994,0,433994
+visitor-619,Khammam,6,June,2016,445862,0,445862
+visitor-62,Jayashankar Bhupalpally,1,January,2014,0,0,0
+visitor-620,Khammam,7,July,2016,414963,0,414963
+visitor-621,Khammam,8,August,2016,503654,0,503654
+visitor-622,Khammam,9,September,2016,368437,0,368437
+visitor-623,Khammam,10,October,2016,121575,0,121575
+visitor-624,Khammam,11,November,2016,110634,0,110634
+visitor-625,Khammam,12,December,2016,116403,0,116403
+visitor-626,Kumaram Bheem Asifabad,1,January,2016,0,0,0
+visitor-627,Kumaram Bheem Asifabad,2,February,2016,0,0,0
+visitor-628,Kumaram Bheem Asifabad,3,March,2016,0,0,0
+visitor-629,Kumaram Bheem Asifabad,4,April,2016,0,0,0
+visitor-63,Jayashankar Bhupalpally,2,February,2014,0,0,0
+visitor-630,Kumaram Bheem Asifabad,5,May,2016,0,0,0
+visitor-631,Kumaram Bheem Asifabad,6,June,2016,0,0,0
+visitor-632,Kumaram Bheem Asifabad,7,July,2016,0,0,0
+visitor-633,Kumaram Bheem Asifabad,8,August,2016,0,0,0
+visitor-634,Kumaram Bheem Asifabad,9,September,2016,0,0,0
+visitor-635,Kumaram Bheem Asifabad,10,October,2016,0,0,0
+visitor-636,Kumaram Bheem Asifabad,11,November,2016,0,0,0
+visitor-637,Kumaram Bheem Asifabad,12,December,2016,0,0,0
+visitor-638,Mahabubabad,1,January,2016,0,0,0
+visitor-639,Mahabubabad,2,February,2016,0,0,0
+visitor-64,Jayashankar Bhupalpally,3,March,2014,0,0,0
+visitor-640,Mahabubabad,3,March,2016,0,0,0
+visitor-641,Mahabubabad,4,April,2016,0,0,0
+visitor-642,Mahabubabad,5,May,2016,0,0,0
+visitor-643,Mahabubabad,6,June,2016,0,0,0
+visitor-644,Mahabubabad,7,July,2016,0,0,0
+visitor-645,Mahabubabad,8,August,2016,0,0,0
+visitor-646,Mahabubabad,9,September,2016,0,0,0
+visitor-647,Mahabubabad,10,October,2016,13032,0,13032
+visitor-648,Mahabubabad,11,November,2016,114015,0,114015
+visitor-649,Mahabubabad,12,December,2016,12955,0,12955
+visitor-65,Jayashankar Bhupalpally,4,April,2014,0,0,0
+visitor-650,Mahabubnagar,1,January,2016,577071,123,577194
+visitor-651,Mahabubnagar,2,February,2016,1312068,126,1312194
+visitor-652,Mahabubnagar,3,March,2016,1731983,103,1732086
+visitor-653,Mahabubnagar,4,April,2016,622432,75,622507
+visitor-654,Mahabubnagar,5,May,2016,571898,58,571956
+visitor-655,Mahabubnagar,6,June,2016,561006,68,561074
+visitor-656,Mahabubnagar,7,July,2016,562322,63,562385
+visitor-657,Mahabubnagar,8,August,2016,1133105,86,1133191
+visitor-658,Mahabubnagar,9,September,2016,567712,74,567786
+visitor-659,Mahabubnagar,10,October,2016,198592,37,198629
+visitor-66,Jayashankar Bhupalpally,5,May,2014,0,0,0
+visitor-660,Mahabubnagar,11,November,2016,256375,29,256404
+visitor-661,Mahabubnagar,12,December,2016,210202,26,210228
+visitor-662,Mancherial,1,January,2016,0,0,0
+visitor-663,Mancherial,2,February,2016,0,0,0
+visitor-664,Mancherial,3,March,2016,0,0,0
+visitor-665,Mancherial,4,April,2016,0,0,0
+visitor-666,Mancherial,5,May,2016,0,0,0
+visitor-667,Mancherial,6,June,2016,0,0,0
+visitor-668,Mancherial,7,July,2016,0,0,0
+visitor-669,Mancherial,8,August,2016,0,0,0
+visitor-67,Jayashankar Bhupalpally,6,June,2014,0,0,0
+visitor-670,Mancherial,9,September,2016,0,0,0
+visitor-671,Mancherial,10,October,2016,3124,0,3124
+visitor-672,Mancherial,11,November,2016,2255,0,2255
+visitor-673,Mancherial,12,December,2016,2423,0,2423
+visitor-674,Medak,1,January,2016,92600,0,92600
+visitor-675,Medak,2,February,2016,215000,0,215000
+visitor-676,Medak,3,March,2016,1318000,0,1318000
+visitor-677,Medak,4,April,2016,300000,0,300000
+visitor-678,Medak,5,May,2016,198000,0,198000
+visitor-679,Medak,6,June,2016,166700,0,166700
+visitor-68,Jayashankar Bhupalpally,7,July,2014,0,0,0
+visitor-680,Medak,7,July,2016,153300,0,153300
+visitor-681,Medak,8,August,2016,216100,0,216100
+visitor-682,Medak,9,September,2016,132600,0,132600
+visitor-683,Medak,10,October,2016,15600,0,15600
+visitor-684,Medak,11,November,2016,132300,0,132300
+visitor-685,Medak,12,December,2016,523000,0,523000
+visitor-686,Medchal,1,January,2016,0,0,0
+visitor-687,Medchal,2,February,2016,0,0,0
+visitor-688,Medchal,3,March,2016,0,0,0
+visitor-689,Medchal,4,April,2016,0,0,0
+visitor-69,Jayashankar Bhupalpally,8,August,2014,0,0,0
+visitor-690,Medchal,5,May,2016,0,0,0
+visitor-691,Medchal,6,June,2016,0,0,0
+visitor-692,Medchal,7,July,2016,0,0,0
+visitor-693,Medchal,8,August,2016,0,0,0
+visitor-694,Medchal,9,September,2016,0,0,0
+visitor-695,Medchal,10,October,2016,0,0,0
+visitor-696,Medchal,11,November,2016,0,0,0
+visitor-697,Medchal,12,December,2016,0,0,0
+visitor-698,Nagarkurnool,1,January,2016,0,0,0
+visitor-699,Nagarkurnool,2,February,2016,0,0,0
+visitor-7,Adilabad,6,June,2014,368237,7,368244
+visitor-70,Jayashankar Bhupalpally,9,September,2014,0,0,0
+visitor-700,Nagarkurnool,3,March,2016,0,0,0
+visitor-701,Nagarkurnool,4,April,2016,0,0,0
+visitor-702,Nagarkurnool,5,May,2016,0,0,0
+visitor-703,Nagarkurnool,6,June,2016,0,0,0
+visitor-704,Nagarkurnool,7,July,2016,0,0,0
+visitor-705,Nagarkurnool,8,August,2016,0,0,0
+visitor-706,Nagarkurnool,9,September,2016,0,0,0
+visitor-707,Nagarkurnool,10,October,2016,201050,8,201058
+visitor-708,Nagarkurnool,11,November,2016,188786,11,188797
+visitor-709,Nagarkurnool,12,December,2016,198637,10,198647
+visitor-71,Jayashankar Bhupalpally,10,October,2014,76360,0,76360
+visitor-710,Nalgonda,1,January,2016,566515,0,566515
+visitor-711,Nalgonda,2,February,2016,539467,0,539467
+visitor-712,Nalgonda,3,March,2016,619462,0,619462
+visitor-713,Nalgonda,4,April,2016,601253,0,601253
+visitor-714,Nalgonda,5,May,2016,628872,0,628872
+visitor-715,Nalgonda,6,June,2016,551239,0,551239
+visitor-716,Nalgonda,7,July,2016,582820,0,582820
+visitor-717,Nalgonda,8,August,2016,988102,0,988102
+visitor-718,Nalgonda,9,September,2016,742402,0,742402
+visitor-719,Nalgonda,10,October,2016,3508,0,3508
+visitor-72,Jayashankar Bhupalpally,11,November,2014,81580,0,81580
+visitor-720,Nalgonda,11,November,2016,21046,0,21046
+visitor-721,Nalgonda,12,December,2016,13775,0,13775
+visitor-722,Nirmal,1,January,2016,0,0,0
+visitor-723,Nirmal,2,February,2016,0,0,0
+visitor-724,Nirmal,3,March,2016,0,0,0
+visitor-725,Nirmal,4,April,2016,0,0,0
+visitor-726,Nirmal,5,May,2016,0,0,0
+visitor-727,Nirmal,6,June,2016,0,0,0
+visitor-728,Nirmal,7,July,2016,0,0,0
+visitor-729,Nirmal,8,August,2016,0,0,0
+visitor-73,Jayashankar Bhupalpally,12,December,2014,85460,0,85460
+visitor-730,Nirmal,9,September,2016,0,0,0
+visitor-731,Nirmal,10,October,2016,475955,0,475955
+visitor-732,Nirmal,11,November,2016,201388,0,201388
+visitor-733,Nirmal,12,December,2016,239267,0,239267
+visitor-734,Nizamabad,1,January,2016,576,0,576
+visitor-735,Nizamabad,2,February,2016,869,0,869
+visitor-736,Nizamabad,3,March,2016,408,0,408
+visitor-737,Nizamabad,4,April,2016,476,0,476
+visitor-738,Nizamabad,5,May,2016,554,0,554
+visitor-739,Nizamabad,6,June,2016,367,0,367
+visitor-74,Jogulamba Gadwal,1,January,2014,0,0,0
+visitor-740,Nizamabad,7,July,2016,644,0,644
+visitor-741,Nizamabad,8,August,2016,589,0,589
+visitor-742,Nizamabad,9,September,2016,553,0,553
+visitor-743,Nizamabad,10,October,2016,434,0,434
+visitor-744,Nizamabad,11,November,2016,617,0,617
+visitor-745,Nizamabad,12,December,2016,355,0,355
+visitor-746,Peddapalli,1,January,2016,0,0,0
+visitor-747,Peddapalli,2,February,2016,0,0,0
+visitor-748,Peddapalli,3,March,2016,0,0,0
+visitor-749,Peddapalli,4,April,2016,0,0,0
+visitor-75,Jogulamba Gadwal,2,February,2014,0,0,0
+visitor-750,Peddapalli,5,May,2016,0,0,0
+visitor-751,Peddapalli,6,June,2016,0,0,0
+visitor-752,Peddapalli,7,July,2016,0,0,0
+visitor-753,Peddapalli,8,August,2016,0,0,0
+visitor-754,Peddapalli,9,September,2016,0,0,0
+visitor-755,Peddapalli,10,October,2016,950,0,950
+visitor-756,Peddapalli,11,November,2016,1145,0,1145
+visitor-757,Peddapalli,12,December,2016,1149,0,1149
+visitor-758,Rajanna Sircilla,1,January,2016,0,0,0
+visitor-759,Rajanna Sircilla,2,February,2016,0,0,0
+visitor-76,Jogulamba Gadwal,3,March,2014,0,0,0
+visitor-760,Rajanna Sircilla,3,March,2016,0,0,0
+visitor-761,Rajanna Sircilla,4,April,2016,0,0,0
+visitor-762,Rajanna Sircilla,5,May,2016,0,0,0
+visitor-763,Rajanna Sircilla,6,June,2016,0,0,0
+visitor-764,Rajanna Sircilla,7,July,2016,0,0,0
+visitor-765,Rajanna Sircilla,8,August,2016,0,0,0
+visitor-766,Rajanna Sircilla,9,September,2016,0,0,0
+visitor-767,Rajanna Sircilla,10,October,2016,534484,0,534484
+visitor-768,Rajanna Sircilla,11,November,2016,864077,0,864077
+visitor-769,Rajanna Sircilla,12,December,2016,778240,0,778240
+visitor-77,Jogulamba Gadwal,4,April,2014,0,0,0
+visitor-770,Ranga Reddy,1,January,2016,0,0,0
+visitor-771,Ranga Reddy,2,February,2016,0,0,0
+visitor-772,Ranga Reddy,3,March,2016,0,0,0
+visitor-773,Ranga Reddy,4,April,2016,0,0,0
+visitor-774,Ranga Reddy,5,May,2016,0,0,0
+visitor-775,Ranga Reddy,6,June,2016,0,0,0
+visitor-776,Ranga Reddy,7,July,2016,0,0,0
+visitor-777,Ranga Reddy,8,August,2016,0,0,0
+visitor-778,Ranga Reddy,9,September,2016,0,0,0
+visitor-779,Ranga Reddy,10,October,2016,0,0,0
+visitor-78,Jogulamba Gadwal,5,May,2014,0,0,0
+visitor-780,Ranga Reddy,11,November,2016,0,0,0
+visitor-781,Ranga Reddy,12,December,2016,0,0,0
+visitor-782,Sangareddy,1,January,2016,0,0,0
+visitor-783,Sangareddy,2,February,2016,0,0,0
+visitor-784,Sangareddy,3,March,2016,0,0,0
+visitor-785,Sangareddy,4,April,2016,0,0,0
+visitor-786,Sangareddy,5,May,2016,0,0,0
+visitor-787,Sangareddy,6,June,2016,0,0,0
+visitor-788,Sangareddy,7,July,2016,0,0,0
+visitor-789,Sangareddy,8,August,2016,0,0,0
+visitor-79,Jogulamba Gadwal,6,June,2014,0,0,0
+visitor-790,Sangareddy,9,September,2016,0,0,0
+visitor-791,Sangareddy,10,October,2016,274000,0,274000
+visitor-792,Sangareddy,11,November,2016,349000,0,349000
+visitor-793,Sangareddy,12,December,2016,155000,0,155000
+visitor-794,Siddipet,1,January,2016,0,0,0
+visitor-795,Siddipet,2,February,2016,0,0,0
+visitor-796,Siddipet,3,March,2016,0,0,0
+visitor-797,Siddipet,4,April,2016,0,0,0
+visitor-798,Siddipet,5,May,2016,0,0,0
+visitor-799,Siddipet,6,June,2016,0,0,0
+visitor-8,Adilabad,7,July,2014,447562,7,447569
+visitor-80,Jogulamba Gadwal,7,July,2014,0,0,0
+visitor-800,Siddipet,7,July,2016,0,0,0
+visitor-801,Siddipet,8,August,2016,0,0,0
+visitor-802,Siddipet,9,September,2016,0,0,0
+visitor-803,Siddipet,10,October,2016,123500,0,123500
+visitor-804,Siddipet,11,November,2016,154400,0,154400
+visitor-805,Siddipet,12,December,2016,80500,0,80500
+visitor-806,Suryapet,1,January,2016,0,0,0
+visitor-807,Suryapet,2,February,2016,0,0,0
+visitor-808,Suryapet,3,March,2016,0,0,0
+visitor-809,Suryapet,4,April,2016,0,0,0
+visitor-81,Jogulamba Gadwal,8,August,2014,0,0,0
+visitor-810,Suryapet,5,May,2016,0,0,0
+visitor-811,Suryapet,6,June,2016,0,0,0
+visitor-812,Suryapet,7,July,2016,0,0,0
+visitor-813,Suryapet,8,August,2016,0,0,0
+visitor-814,Suryapet,9,September,2016,0,0,0
+visitor-815,Suryapet,10,October,2016,0,0,0
+visitor-816,Suryapet,11,November,2016,0,0,0
+visitor-817,Suryapet,12,December,2016,0,0,0
+visitor-818,Vikarabad,1,January,2016,0,0,0
+visitor-819,Vikarabad,2,February,2016,0,0,0
+visitor-82,Jogulamba Gadwal,9,September,2014,0,0,0
+visitor-820,Vikarabad,3,March,2016,0,0,0
+visitor-821,Vikarabad,4,April,2016,0,0,0
+visitor-822,Vikarabad,5,May,2016,0,0,0
+visitor-823,Vikarabad,6,June,2016,0,0,0
+visitor-824,Vikarabad,7,July,2016,0,0,0
+visitor-825,Vikarabad,8,August,2016,0,0,0
+visitor-826,Vikarabad,9,September,2016,0,0,0
+visitor-827,Vikarabad,10,October,2016,0,0,0
+visitor-828,Vikarabad,11,November,2016,0,0,0
+visitor-829,Vikarabad,12,December,2016,0,0,0
+visitor-83,Jogulamba Gadwal,10,October,2014,152898,0,152898
+visitor-830,Wanaparthy,1,January,2016,0,0,0
+visitor-831,Wanaparthy,2,February,2016,0,0,0
+visitor-832,Wanaparthy,3,March,2016,0,0,0
+visitor-833,Wanaparthy,4,April,2016,0,0,0
+visitor-834,Wanaparthy,5,May,2016,0,0,0
+visitor-835,Wanaparthy,6,June,2016,0,0,0
+visitor-836,Wanaparthy,7,July,2016,0,0,0
+visitor-837,Wanaparthy,8,August,2016,0,0,0
+visitor-838,Wanaparthy,9,September,2016,0,0,0
+visitor-839,Wanaparthy,10,October,2016,21234,0,21234
+visitor-84,Jogulamba Gadwal,11,November,2014,188170,0,188170
+visitor-840,Wanaparthy,11,November,2016,18348,0,18348
+visitor-841,Wanaparthy,12,December,2016,20556,0,20556
+visitor-842,Warangal (Rural),1,January,2016,0,0,0
+visitor-843,Warangal (Rural),2,February,2016,0,0,0
+visitor-844,Warangal (Rural),3,March,2016,0,0,0
+visitor-845,Warangal (Rural),4,April,2016,0,0,0
+visitor-846,Warangal (Rural),5,May,2016,0,0,0
+visitor-847,Warangal (Rural),6,June,2016,0,0,0
+visitor-848,Warangal (Rural),7,July,2016,0,0,0
+visitor-849,Warangal (Rural),8,August,2016,0,0,0
+visitor-85,Jogulamba Gadwal,12,December,2014,182333,0,182333
+visitor-850,Warangal (Rural),9,September,2016,0,0,0
+visitor-851,Warangal (Rural),10,October,2016,8200,0,8200
+visitor-852,Warangal (Rural),11,November,2016,6050,0,6050
+visitor-853,Warangal (Rural),12,December,2016,5150,0,5150
+visitor-854,Warangal (Urban),1,January,2016,1985815,459,1986274
+visitor-855,Warangal (Urban),2,February,2016,20703778,391,20704169
+visitor-856,Warangal (Urban),3,March,2016,568397,230,568627
+visitor-857,Warangal (Urban),4,April,2016,317643,39,317682
+visitor-858,Warangal (Urban),5,May,2016,373788,82,373870
+visitor-859,Warangal (Urban),6,June,2016,365332,88,365420
+visitor-86,Kamareddy,1,January,2014,0,0,0
+visitor-860,Warangal (Urban),7,July,2016,340320,53,340373
+visitor-861,Warangal (Urban),8,August,2016,368755,102,368857
+visitor-862,Warangal (Urban),9,September,2016,379210,118,379328
+visitor-863,Warangal (Urban),10,October,2016,128247,108,128355
+visitor-864,Warangal (Urban),11,November,2016,129250,97,129347
+visitor-865,Warangal (Urban),12,December,2016,127500,132,127632
+visitor-866,Yadadri Bhongir,1,January,2016,0,0,0
+visitor-867,Yadadri Bhongir,2,February,2016,0,0,0
+visitor-868,Yadadri Bhongir,3,March,2016,0,0,0
+visitor-869,Yadadri Bhongir,4,April,2016,0,0,0
+visitor-87,Kamareddy,2,February,2014,0,0,0
+visitor-870,Yadadri Bhongir,5,May,2016,0,0,0
+visitor-871,Yadadri Bhongir,6,June,2016,0,0,0
+visitor-872,Yadadri Bhongir,7,July,2016,0,0,0
+visitor-873,Yadadri Bhongir,8,August,2016,0,0,0
+visitor-874,Yadadri Bhongir,9,September,2016,0,0,0
+visitor-875,Yadadri Bhongir,10,October,2016,584800,0,584800
+visitor-876,Yadadri Bhongir,11,November,2016,681000,0,681000
+visitor-877,Yadadri Bhongir,12,December,2016,462800,0,462800
+visitor-878,Adilabad,1,January,2017,318799,5,318804
+visitor-879,Adilabad,2,February,2017,83316,0,83316
+visitor-88,Kamareddy,3,March,2014,0,0,0
+visitor-880,Adilabad,3,March,2017,27508,0,27508
+visitor-881,Adilabad,4,April,2017,13946,0,13946
+visitor-882,Adilabad,5,May,2017,11752,0,11752
+visitor-883,Adilabad,6,June,2017,26859,3,26862
+visitor-884,Adilabad,7,July,2017,52386,0,52386
+visitor-885,Adilabad,8,August,2017,34876,0,34876
+visitor-886,Adilabad,9,September,2017,42699,3,42702
+visitor-887,Adilabad,10,October,2017,41666,0,41666
+visitor-888,Adilabad,11,November,2017,117322,0,117322
+visitor-889,Adilabad,12,December,2017,54251,0,54251
+visitor-89,Kamareddy,4,April,2014,0,0,0
+visitor-890,Bhadradri Kothagudem,1,January,2017,302315,0,302315
+visitor-891,Bhadradri Kothagudem,2,February,2017,251359,0,251359
+visitor-892,Bhadradri Kothagudem,3,March,2017,243943,0,243943
+visitor-893,Bhadradri Kothagudem,4,April,2017,667459,0,667459
+visitor-894,Bhadradri Kothagudem,5,May,2017,311626,0,311626
+visitor-895,Bhadradri Kothagudem,6,June,2017,351742,0,351742
+visitor-896,Bhadradri Kothagudem,7,July,2017,258114,0,258114
+visitor-897,Bhadradri Kothagudem,8,August,2017,316438,0,316438
+visitor-898,Bhadradri Kothagudem,9,September,2017,381784,0,381784
+visitor-899,Bhadradri Kothagudem,10,October,2017,334504,0,334504
+visitor-9,Adilabad,8,August,2014,614285,5,614290
+visitor-90,Kamareddy,5,May,2014,0,0,0
+visitor-900,Bhadradri Kothagudem,11,November,2017,281515,0,281515
+visitor-901,Bhadradri Kothagudem,12,December,2017,393518,0,393518
+visitor-902,Hyderabad,1,January,2017,1924695,19286,1943981
+visitor-903,Hyderabad,2,February,2017,1886698,18097,1904795
+visitor-904,Hyderabad,3,March,2017,1783903,13875,1797778
+visitor-905,Hyderabad,4,April,2017,2366793,12996,2379789
+visitor-906,Hyderabad,5,May,2017,2266793,12983,2279776
+visitor-907,Hyderabad,6,June,2017,2007060,12486,2019546
+visitor-908,Hyderabad,7,July,2017,1890870,18144,1909014
+visitor-909,Hyderabad,8,August,2017,1976980,16985,1993965
+visitor-91,Kamareddy,6,June,2014,0,0,0
+visitor-910,Hyderabad,9,September,2017,2011280,27856,2039136
+visitor-911,Hyderabad,10,October,2017,2202316,26368,2228684
+visitor-912,Hyderabad,11,November,2017,1971438,29170,2000608
+visitor-913,Hyderabad,12,December,2017,4871416,38933,4910349
+visitor-914,Jagtial,1,January,2017,174477,0,174477
+visitor-915,Jagtial,2,February,2017,159659,0,159659
+visitor-916,Jagtial,3,March,2017,323658,0,323658
+visitor-917,Jagtial,4,April,2017,330540,0,330540
+visitor-918,Jagtial,5,May,2017,468038,0,468038
+visitor-919,Jagtial,6,June,2017,418103,0,418103
+visitor-92,Kamareddy,7,July,2014,0,0,0
+visitor-920,Jagtial,7,July,2017,247254,0,247254
+visitor-921,Jagtial,8,August,2017,386458,0,386458
+visitor-922,Jagtial,9,September,2017,143102,0,143102
+visitor-923,Jagtial,10,October,2017,248504,0,248504
+visitor-924,Jagtial,11,November,2017,348042,0,348042
+visitor-925,Jagtial,12,December,2017,393566,0,393566
+visitor-926,Jangaon,1,January,2017,12280,0,12280
+visitor-927,Jangaon,2,February,2017,12610,0,12610
+visitor-928,Jangaon,3,March,2017,8450,0,8450
+visitor-929,Jangaon,4,April,2017,9788,0,9788
+visitor-93,Kamareddy,8,August,2014,0,0,0
+visitor-930,Jangaon,5,May,2017,12130,0,12130
+visitor-931,Jangaon,6,June,2017,13750,0,13750
+visitor-932,Jangaon,7,July,2017,16050,0,16050
+visitor-933,Jangaon,8,August,2017,15680,0,15680
+visitor-934,Jangaon,9,September,2017,15600,0,15600
+visitor-935,Jangaon,10,October,2017,16130,0,16130
+visitor-936,Jangaon,11,November,2017,16360,0,16360
+visitor-937,Jangaon,12,December,2017,16880,0,16880
+visitor-938,Jayashankar Bhupalpally,1,January,2017,96560,85,96645
+visitor-939,Jayashankar Bhupalpally,2,February,2017,96850,38,96888
+visitor-94,Kamareddy,9,September,2014,0,0,0
+visitor-940,Jayashankar Bhupalpally,3,March,2017,81400,35,81435
+visitor-941,Jayashankar Bhupalpally,4,April,2017,90700,36,90736
+visitor-942,Jayashankar Bhupalpally,5,May,2017,91150,40,91190
+visitor-943,Jayashankar Bhupalpally,6,June,2017,93650,35,93685
+visitor-944,Jayashankar Bhupalpally,7,July,2017,94700,42,94742
+visitor-945,Jayashankar Bhupalpally,8,August,2017,118350,45,118395
+visitor-946,Jayashankar Bhupalpally,9,September,2017,112600,56,112656
+visitor-947,Jayashankar Bhupalpally,10,October,2017,115250,55,115305
+visitor-948,Jayashankar Bhupalpally,11,November,2017,116800,58,116858
+visitor-949,Jayashankar Bhupalpally,12,December,2017,723000,57,723057
+visitor-95,Kamareddy,10,October,2014,47,0,47
+visitor-950,Jogulamba Gadwal,1,January,2017,214887,20,214907
+visitor-951,Jogulamba Gadwal,2,February,2017,481110,16,481126
+visitor-952,Jogulamba Gadwal,3,March,2017,155013,32,155045
+visitor-953,Jogulamba Gadwal,4,April,2017,131426,29,131455
+visitor-954,Jogulamba Gadwal,5,May,2017,131426,31,131457
+visitor-955,Jogulamba Gadwal,6,June,2017,160182,32,160214
+visitor-956,Jogulamba Gadwal,7,July,2017,160182,34,160216
+visitor-957,Jogulamba Gadwal,8,August,2017,131485,25,131510
+visitor-958,Jogulamba Gadwal,9,September,2017,123733,42,123775
+visitor-959,Jogulamba Gadwal,10,October,2017,152898,13,152911
+visitor-96,Kamareddy,11,November,2014,38,0,38
+visitor-960,Jogulamba Gadwal,11,November,2017,188170,21,188191
+visitor-961,Jogulamba Gadwal,12,December,2017,214887,10,214897
+visitor-962,Kamareddy,1,January,2017,58,0,58
+visitor-963,Kamareddy,2,February,2017,50,0,50
+visitor-964,Kamareddy,3,March,2017,41,0,41
+visitor-965,Kamareddy,4,April,2017,46,0,46
+visitor-966,Kamareddy,5,May,2017,60,0,60
+visitor-967,Kamareddy,6,June,2017,41,0,41
+visitor-968,Kamareddy,7,July,2017,41,0,41
+visitor-969,Kamareddy,8,August,2017,40,0,40
+visitor-97,Kamareddy,12,December,2014,42,0,42
+visitor-970,Kamareddy,9,September,2017,41,0,41
+visitor-971,Kamareddy,10,October,2017,38,0,38
+visitor-972,Kamareddy,11,November,2017,43,0,43
+visitor-973,Kamareddy,12,December,2017,41,0,41
+visitor-974,Karimnagar,1,January,2017,14425,0,14425
+visitor-975,Karimnagar,2,February,2017,10845,0,10845
+visitor-976,Karimnagar,3,March,2017,9625,0,9625
+visitor-977,Karimnagar,4,April,2017,8630,0,8630
+visitor-978,Karimnagar,5,May,2017,8890,0,8890
+visitor-979,Karimnagar,6,June,2017,10542,0,10542
+visitor-98,Karimnagar,1,January,2014,1984442,0,1984442
+visitor-980,Karimnagar,7,July,2017,12350,0,12350
+visitor-981,Karimnagar,8,August,2017,10952,0,10952
+visitor-982,Karimnagar,9,September,2017,7576,0,7576
+visitor-983,Karimnagar,10,October,2017,8371,0,8371
+visitor-984,Karimnagar,11,November,2017,8705,0,8705
+visitor-985,Karimnagar,12,December,2017,13065,0,13065
+visitor-986,Khammam,1,January,2017,132528,0,132528
+visitor-987,Khammam,2,February,2017,115470,0,115470
+visitor-988,Khammam,3,March,2017,101878,0,101878
+visitor-989,Khammam,4,April,2017,135920,0,135920
+visitor-99,Karimnagar,2,February,2014,779960,0,779960
+visitor-990,Khammam,5,May,2017,138799,0,138799
+visitor-991,Khammam,6,June,2017,138158,0,138158
+visitor-992,Khammam,7,July,2017,105102,0,105102
+visitor-993,Khammam,8,August,2017,129159,0,129159
+visitor-994,Khammam,9,September,2017,140821,0,140821
+visitor-995,Khammam,10,October,2017,155943,0,155943
+visitor-996,Khammam,11,November,2017,110800,0,110800
+visitor-997,Khammam,12,December,2017,137825,0,137825
+visitor-998,Kumaram Bheem Asifabad,1,January,2017,2241,0,2241
+visitor-999,Kumaram Bheem Asifabad,2,February,2017,2490,0,2490
